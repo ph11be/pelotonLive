@@ -161,12 +161,20 @@
       margin: 0 auto 20px; }
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    /* ── Validation banner ── */
-    .validation-banner { border: 1px solid #f87171; background: #2a1a1a; border-radius: 8px;
-      padding: 12px 16px; margin-bottom: 24px; font-size: 12px; color: #f87171; }
-    .validation-banner h4 { margin-bottom: 6px; font-weight: 700; }
-    .validation-banner ul { padding-left: 16px; }
-    .validation-banner li { margin-bottom: 2px; }
+    /* ── Validation icon ── */
+    .val-icon { display: inline-flex; align-items: center; gap: 7px; cursor: pointer;
+      background: none; border: none; padding: 0; margin-bottom: 20px; }
+    .val-dot { width: 20px; height: 20px; border-radius: 50%; background: #f8717122;
+      border: 1px solid #f87171; display: flex; align-items: center; justify-content: center;
+      font-size: 11px; color: #f87171; font-weight: 700; flex-shrink: 0;
+      transition: background 0.15s; }
+    .val-icon:hover .val-dot { background: #f8717144; }
+    .val-text { color: #f87171; font-size: 10px; font-weight: 700; letter-spacing: 0.08em; }
+    .val-panel { border: 1px solid #f8717155; background: #2a1a1a; border-radius: 8px;
+      padding: 12px 16px; margin-bottom: 20px; font-size: 12px; color: #f87171;
+      animation: fadeIn 0.15s ease; }
+    .val-panel ul { padding-left: 16px; }
+    .val-panel li { margin-bottom: 2px; }
 
     @media (max-width: 600px) {
       .race-header-row { flex-direction: column; }
@@ -248,10 +256,26 @@ async function loadData() {
     document.getElementById('today-label').textContent = 'PelotonLive';
     return;
   }
+  // Load archive: try archive-index.json (lists dates) then fall back to archive.json
   try {
-    const r = await fetch('archive.json?v=' + Date.now());
-    archiveData = await r.json();
-  } catch(e) { /* archive is optional */ }
+    const idxR = await fetch('archive-index.json?v=' + Date.now());
+    const idx  = await idxR.json(); // array of date strings e.g. ["2026-03-18","2026-03-17"]
+    const files = await Promise.allSettled(
+      idx.map(date => fetch(`races-archive/races-${date}.json`).then(r => r.json()))
+    );
+    files.forEach(f => {
+      if (f.status === 'fulfilled') {
+        const races = f.value.races || [];
+        races.forEach(r => { r._fromArchive = true; archiveData.push(r); });
+      }
+    });
+  } catch(e) {
+    // Fall back to flat archive.json
+    try {
+      const r = await fetch('archive.json?v=' + Date.now());
+      archiveData = await r.json();
+    } catch(e2) { /* archive is optional */ }
+  }
 
   render(racesData, archiveData);
 }
@@ -270,12 +294,16 @@ function render(data, archive) {
   document.getElementById('race-count').textContent =
     todayRaces.length + ' race' + (todayRaces.length !== 1 ? 's' : '') + ' today';
 
-  // Validation banner
+  // Validation icon
   const val = data.validation;
   if (val && val.status !== 'valid' && val.issues?.length) {
+    const count = val.issues.length;
     document.getElementById('validation-area').innerHTML = `
-      <div class="validation-banner">
-        <h4>⚠ Data quality warnings</h4>
+      <button class="val-icon" onclick="toggleValidation()" id="val-toggle">
+        <span class="val-dot">!</span>
+        <span class="val-text">${count} DATA QUALITY ISSUE${count !== 1 ? 'S' : ''} — CLICK TO EXPAND</span>
+      </button>
+      <div class="val-panel" id="val-panel" style="display:none">
         <ul>${val.issues.map(i => `<li>${i}</li>`).join('')}</ul>
       </div>`;
   }
@@ -430,6 +458,19 @@ function upcomingCard(race) {
 }
 
 // ─── Interactions ─────────────────────────────────────────────────────────────
+function toggleValidation() {
+  const panel  = document.getElementById('val-panel');
+  const toggle = document.getElementById('val-toggle');
+  if (!panel) return;
+  const isOpen = panel.style.display !== 'none';
+  panel.style.display = isOpen ? 'none' : 'block';
+  const txt = toggle.querySelector('.val-text');
+  txt.textContent = txt.textContent.replace(
+    isOpen ? 'COLLAPSE' : 'CLICK TO EXPAND',
+    isOpen ? 'CLICK TO EXPAND' : 'COLLAPSE'
+  );
+}
+
 function toggleBroadcasts(id) {
   const panel = document.getElementById('broadcasts-'+id);
   const btn   = document.getElementById('watch-btn-'+id);
