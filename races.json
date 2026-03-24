@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-03-23T11:00:00Z",
-  "date": "2026-03-23",
+  "generated_at": "2026-03-24T11:00:00Z",
+  "date": "2026-03-24",
   "races": [
     {
-      "id": "volta-a-catalunya-2026-stage-1",
-      "name": "Volta Ciclista a Catalunya – Stage 1",
-      "date": "2026-03-23",
+      "id": "volta-a-catalunya-2026-stage-2",
+      "name": "Volta Ciclista a Catalunya – Stage 2",
+      "date": "2026-03-24",
       "status": "upcoming",
       "edition": "105th",
       "category": "WT",
       "gender": "men",
       "race_type": "stage",
-      "stage_number": 1,
+      "stage_number": 2,
       "stage_race_name": "Volta Ciclista a Catalunya",
       "country": "ES",
       "country_flag": "🇪🇸",
-      "distance_km": 172.7,
-      "terrain": ["Climbing", "Puncheur"],
-      "start_town": "Sant Feliu de Guíxols",
-      "finish_town": "Sant Feliu de Guíxols",
-      "finish_type": "Uphill sprint",
-      "start_time_local": "12:50 CET",
-      "start_time_utc": "11:50",
-      "finish_time_local": "17:00 CET",
-      "description": "The 105th Volta a Catalunya opens with a deceptively punchy circuit around the Costa Brava — the race's fifth consecutive Grand Départ in Sant Feliu — featuring a category 1 mid-race climb and a notoriously twisting, technical final 23km that ramps to ~5% in the last 500m, making positioning and an explosive finish crucial for GC men and opportunists alike.",
+      "distance_km": 167.4,
+      "terrain": ["Sprinter", "Puncheur"],
+      "start_town": "Figueres",
+      "finish_town": "Banyoles",
+      "finish_type": "Sprint",
+      "start_time_local": "13:10 CET",
+      "start_time_utc": "12:10",
+      "finish_time_local": "17:10 CET",
+      "description": "The most likely sprint day of the entire Volta — reversing last year's Banyoles–Figueres route through the hilly Girona interior, with 1,900m of climbing concentrated in the first two-thirds before a fast, flat run-in to Banyoles where Mark Cavendish, Petacchi and Zabel have all sprinted to victory in years past; race leader Dorian Godon defends the jersey after his photo-finish win over Evenepoel in Stage 1.",
       "favourite_riders": [
-        "Remco Evenepoel",
-        "Tom Pidcock",
-        "Jonas Vingegaard",
-        "João Almeida",
-        "Dorian Godon"
+        "Ethan Vernon",
+        "Alberto Dainese",
+        "Dorian Godon",
+        "Mathieu Kockelmann",
+        "Sam Bennett"
       ],
-      "pcs_url": "https://www.procyclingstats.com/race/volta-a-catalunya/2026/stage-1",
-      "official_site": "https://www.voltacatalunya.cat/en/stage-1",
+      "pcs_url": "https://www.procyclingstats.com/race/volta-a-catalunya/2026/stage-2",
+      "official_site": "https://www.voltacatalunya.cat/en/stage-2",
       "broadcasts": [
         {
           "region": "🇬🇧 UK & Ireland",
@@ -42,7 +42,7 @@
           "geo_restricted": true,
           "start_time_gmt": "13:00",
           "stream_url": "https://www.discoveryplus.com/gb",
-          "notes": "Stages 1–3 stream on Discovery+; from Stage 4 (March 26) coverage moves to HBO Max. TNT Sports TV channels remain the same throughout. Discovery+ subscription ~£30.99/month; new Saver Plan on HBO Max from £25.99/month (12-month term).",
+          "notes": "Stage 2 is still on Discovery+ — the switch to HBO Max does not happen until Stage 4 (Thursday 26 March). TNT Sports TV channels carry the broadcast. Discovery+ subscription ~£30.99/month (or new £25.99/month Saver Plan on HBO Max from Thursday).",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
@@ -51,9 +51,9 @@
           "platform": "Peacock",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://www.peacocktv.com/sports/cycling",
-          "notes": "Volta a Catalunya is an ASO race, exclusive to Peacock in the US. Premium plan $10.99/month or $109.99/year. Premium Plus (no ads) $16.99/month.",
+          "notes": "Volta a Catalunya is an ASO race — exclusive to Peacock in the US. Premium plan $10.99/month or $109.99/year. Not on HBO Max or FloBikes in the US.",
           "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-the-2026-volta-a-catalunya-streaming-and-tv-by-country/"
         },
         {
@@ -62,7 +62,7 @@
           "platform": "FloBikes",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya",
           "notes": "FloBikes subscription required. ~CAN$39.99/month or CAN$203.88/year.",
           "source_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya"
@@ -73,9 +73,9 @@
           "platform": "SBS On Demand",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://www.sbs.com.au/ondemand/cycling",
-          "notes": "Free with English commentary on SBS On Demand.",
+          "notes": "Free with English commentary.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
@@ -84,9 +84,9 @@
           "platform": "RTVE (Teledeporte / RTVE Play)",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://www.rtve.es/play/",
-          "notes": "Free-to-air on Spanish national public broadcaster. All stages live.",
+          "notes": "Free-to-air on Spanish national public broadcaster.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
@@ -95,9 +95,9 @@
           "platform": "TVC (Esport3 / 3Cat)",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://www.3cat.cat",
-          "notes": "Free on Catalan public TV via Esport3 and 3Cat streaming.",
+          "notes": "Free on Catalan public TV.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
@@ -106,9 +106,9 @@
           "platform": "Eurosport / Discovery+ / HBO Max",
           "free": false,
           "geo_restricted": false,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport carries coverage across 50+ European countries. Stream via Discovery+ or HBO Max depending on country.",
+          "notes": "Eurosport coverage across 50+ countries. Stream via Discovery+ or HBO Max depending on country.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
@@ -117,9 +117,9 @@
           "platform": "TV2",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://www.tv2.dk",
-          "notes": "TV2 subscription required in Denmark and Norway.",
+          "notes": "TV2 subscription required.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
@@ -128,7 +128,7 @@
           "platform": "J Sports",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://www.jsports.co.jp",
           "notes": "J Sports subscription required.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
@@ -136,30 +136,30 @@
         {
           "region": "🌎 Latin America",
           "region_code": "LA",
-          "platform": "Claro Sports",
+          "platform": "Claro Sports / Caracol/RCN (Colombia)",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "11:50",
+          "start_time_gmt": "12:10",
           "stream_url": "https://clarosports.com",
-          "notes": "Claro Sports subscription. Caracol/RCN for Colombia specifically.",
+          "notes": "Claro Sports for most of Latin America; Caracol/RCN specifically for Colombia.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         }
       ],
       "data_confidence": {
         "race_details": "high",
         "broadcasts": "high",
-        "notes": "Start time (12:50 CET / 11:50 GMT) and finish (~17:00 CET) confirmed by official Volta Catalunya website and multiple preview sources. Distance 172.7km confirmed by PCS and Cyclingnews. Stage 1 favourites: Evenepoel's participation was uncertain on March 20-21 due to being stranded on Tenerife by severe weather, but comments dated March 23 on cyclinguptodate.com suggest the race is underway as normal — however his participation status should be verified. UK platform note: Discovery+ is the streaming home for Stages 1–3; the switch to HBO Max begins Thursday March 26 with Stage 4. US broadcaster is Peacock (ASO rights), not HBO Max — a critical distinction. No 1.1 or above races identified on today's calendar beyond this stage."
+        "notes": "Start time 13:10 CET / 12:10 GMT and finish ~17:10 CET confirmed by PCS result page and multiple preview sources. Distance 167.4km confirmed by PCS and official Volta website. GC context: after Stage 1, Dorian Godon (INEOS Grenadiers) leads in the race leader's jersey; Remco Evenepoel (Red Bull-BORA) sits 2nd on bonus seconds, 6 seconds clear of other GC rivals including Vingegaard, Almeida and Pidcock. Stage 2 favourites updated to reflect the sprint-suited finish and post-Stage 1 form. NOTE: Settimana Internazionale Coppi e Bartali 2026 does NOT start today — all Italian official sources (FCI, GS Emilia, oasport, italciclismo, SpazioCiclismo) confirm it runs March 25–29; Cyclingnews's stage page erroneously shows Stage 1 as March 24."
       }
     }
   ],
   "validation": {
     "status": "warnings",
     "issues": [
-      "Remco Evenepoel's participation in Stage 1 was uncertain as of March 21 due to severe weather stranding him on Tenerife; search results from March 23 contain race-day comments suggesting the race is proceeding, but his actual start has not been independently confirmed in available sources.",
-      "UK broadcast platform is in transition: Stages 1–3 stream on Discovery+; Stage 4 onwards moves to HBO Max. This is confirmed by road.cc, Cycling Weekly and Cyclist.co.uk. The stream_url for Stage 1 correctly points to discoveryplus.com/gb.",
-      "US broadcast is Peacock (via ASO rights deal through 2029), not HBO Max — the two platforms carry different races and should not be confused.",
-      "Stage 1 finish time (~17:00 CET) is estimated; actual finish will depend on race speed and any delays.",
-      "No other UCI 1.1 or above races identified on March 23 2026 beyond Volta a Catalunya Stage 1. The next concurrent 1.1+ events begin March 24 (Settimana Internazionale Coppi e Bartali Stage 1, 2.1) and March 25 (Ronde van Brugge men, WT)."
+      "Settimana Internazionale Coppi e Bartali 2026 Stage 1 date conflict: Cyclingnews stages page lists Stage 1 as 2026-03-24, but all Italian primary sources (FCI official race listing, GS Emilia organisers, oasport.it, italciclismo.it, SpazioCiclismo) unanimously confirm the race runs 25–29 March. Stage 1 is excluded from today's file accordingly.",
+      "Stage 2 finish time (~17:10 CET) is an estimate based on start time and typical race speed; PCS lists no average speed yet.",
+      "UK platform transition note: Stages 1–3 stream on Discovery+; from Stage 4 (Thursday 26 March) streaming moves to HBO Max. TV broadcast on TNT Sports channels is unaffected throughout.",
+      "US broadcaster is Peacock (via ASO rights), not HBO Max or FloBikes — this is an important distinction for US cycling fans.",
+      "No other UCI 1.1 or above races identified on 24 March 2026 beyond Volta a Catalunya Stage 2."
     ]
   }
 }

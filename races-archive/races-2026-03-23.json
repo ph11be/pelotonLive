@@ -1,0 +1,165 @@
+{
+  "generated_at": "2026-03-23T11:00:00Z",
+  "date": "2026-03-23",
+  "races": [
+    {
+      "id": "volta-a-catalunya-2026-stage-1",
+      "name": "Volta Ciclista a Catalunya – Stage 1",
+      "date": "2026-03-23",
+      "status": "upcoming",
+      "edition": "105th",
+      "category": "WT",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 1,
+      "stage_race_name": "Volta Ciclista a Catalunya",
+      "country": "ES",
+      "country_flag": "🇪🇸",
+      "distance_km": 172.7,
+      "terrain": ["Climbing", "Puncheur"],
+      "start_town": "Sant Feliu de Guíxols",
+      "finish_town": "Sant Feliu de Guíxols",
+      "finish_type": "Uphill sprint",
+      "start_time_local": "12:50 CET",
+      "start_time_utc": "11:50",
+      "finish_time_local": "17:00 CET",
+      "description": "The 105th Volta a Catalunya opens with a deceptively punchy circuit around the Costa Brava — the race's fifth consecutive Grand Départ in Sant Feliu — featuring a category 1 mid-race climb and a notoriously twisting, technical final 23km that ramps to ~5% in the last 500m, making positioning and an explosive finish crucial for GC men and opportunists alike.",
+      "favourite_riders": [
+        "Remco Evenepoel",
+        "Tom Pidcock",
+        "Jonas Vingegaard",
+        "João Almeida",
+        "Dorian Godon"
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/volta-a-catalunya/2026/stage-1",
+      "official_site": "https://www.voltacatalunya.cat/en/stage-1",
+      "broadcasts": [
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports / Discovery+",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "13:00",
+          "stream_url": "https://www.discoveryplus.com/gb",
+          "notes": "Stages 1–3 stream on Discovery+; from Stage 4 (March 26) coverage moves to HBO Max. TNT Sports TV channels remain the same throughout. Discovery+ subscription ~£30.99/month; new Saver Plan on HBO Max from £25.99/month (12-month term).",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🇺🇸 USA",
+          "region_code": "US",
+          "platform": "Peacock",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.peacocktv.com/sports/cycling",
+          "notes": "Volta a Catalunya is an ASO race, exclusive to Peacock in the US. Premium plan $10.99/month or $109.99/year. Premium Plus (no ads) $16.99/month.",
+          "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-the-2026-volta-a-catalunya-streaming-and-tv-by-country/"
+        },
+        {
+          "region": "🇨🇦 Canada",
+          "region_code": "CA",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya",
+          "notes": "FloBikes subscription required. ~CAN$39.99/month or CAN$203.88/year.",
+          "source_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya"
+        },
+        {
+          "region": "🇦🇺 Australia",
+          "region_code": "AU",
+          "platform": "SBS On Demand",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.sbs.com.au/ondemand/cycling",
+          "notes": "Free with English commentary on SBS On Demand.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🇪🇸 Spain",
+          "region_code": "ES",
+          "platform": "RTVE (Teledeporte / RTVE Play)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.rtve.es/play/",
+          "notes": "Free-to-air on Spanish national public broadcaster. All stages live.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🏴󠁥󠁳󠁣󠁴󠁿 Catalonia",
+          "region_code": "ES",
+          "platform": "TVC (Esport3 / 3Cat)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.3cat.cat",
+          "notes": "Free on Catalan public TV via Esport3 and 3Cat streaming.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🌍 Europe (pan-European)",
+          "region_code": "EU",
+          "platform": "Eurosport / Discovery+ / HBO Max",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.eurosport.com",
+          "notes": "Eurosport carries coverage across 50+ European countries. Stream via Discovery+ or HBO Max depending on country.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🇩🇰🇳🇴 Denmark & Norway",
+          "region_code": "DK",
+          "platform": "TV2",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.tv2.dk",
+          "notes": "TV2 subscription required in Denmark and Norway.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🇯🇵 Japan",
+          "region_code": "JP",
+          "platform": "J Sports",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.jsports.co.jp",
+          "notes": "J Sports subscription required.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🌎 Latin America",
+          "region_code": "LA",
+          "platform": "Claro Sports",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://clarosports.com",
+          "notes": "Claro Sports subscription. Caracol/RCN for Colombia specifically.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "high",
+        "notes": "Start time (12:50 CET / 11:50 GMT) and finish (~17:00 CET) confirmed by official Volta Catalunya website and multiple preview sources. Distance 172.7km confirmed by PCS and Cyclingnews. Stage 1 favourites: Evenepoel's participation was uncertain on March 20-21 due to being stranded on Tenerife by severe weather, but comments dated March 23 on cyclinguptodate.com suggest the race is underway as normal — however his participation status should be verified. UK platform note: Discovery+ is the streaming home for Stages 1–3; the switch to HBO Max begins Thursday March 26 with Stage 4. US broadcaster is Peacock (ASO rights), not HBO Max — a critical distinction. No 1.1 or above races identified on today's calendar beyond this stage."
+      }
+    }
+  ],
+  "validation": {
+    "status": "warnings",
+    "issues": [
+      "Remco Evenepoel's participation in Stage 1 was uncertain as of March 21 due to severe weather stranding him on Tenerife; search results from March 23 contain race-day comments suggesting the race is proceeding, but his actual start has not been independently confirmed in available sources.",
+      "UK broadcast platform is in transition: Stages 1–3 stream on Discovery+; Stage 4 onwards moves to HBO Max. This is confirmed by road.cc, Cycling Weekly and Cyclist.co.uk. The stream_url for Stage 1 correctly points to discoveryplus.com/gb.",
+      "US broadcast is Peacock (via ASO rights deal through 2029), not HBO Max — the two platforms carry different races and should not be confused.",
+      "Stage 1 finish time (~17:00 CET) is estimated; actual finish will depend on race speed and any delays.",
+      "No other UCI 1.1 or above races identified on March 23 2026 beyond Volta a Catalunya Stage 1. The next concurrent 1.1+ events begin March 24 (Settimana Internazionale Coppi e Bartali Stage 1, 2.1) and March 25 (Ronde van Brugge men, WT)."
+    ]
+  }
+}
