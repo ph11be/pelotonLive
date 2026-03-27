@@ -1,0 +1,291 @@
+{
+  "generated_at": "2026-03-26T09:30:00Z",
+  "date": "2026-03-26",
+  "races": [
+    {
+      "id": "volta-a-catalunya-2026-stage-4",
+      "name": "Volta Ciclista a Catalunya – Stage 4",
+      "date": "2026-03-26",
+      "status": "upcoming",
+      "edition": "105th",
+      "category": "WT",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 4,
+      "stage_race_name": "Volta Ciclista a Catalunya",
+      "country": "ES",
+      "country_flag": "🇪🇸",
+      "distance_km": 150,
+      "terrain": ["Climbing", "High mountain"],
+      "start_town": "Mataró",
+      "finish_town": "Camprodon",
+      "finish_type": "Uphill finish (truncated — original: Mountaintop, Vallter 2110m)",
+      "start_time_local": "13:05 CET",
+      "start_time_utc": "12:05",
+      "finish_time_local": "17:00 CET",
+      "description": "The first real GC test of the Volta was meant to summit Vallter at 2,110m, but a Level 3 VENTCAT alert forecasting wind gusts of up to 90 km/h at the summit has forced the finish down to Camprodon — approximately 23km shorter than planned and around 1,000m lower — still reaching the lower slopes of the Vallter approach via Coll de Parpers (Cat.3) and Alt de Sant Feliu de Codines (Cat.2); start time also delayed 30 minutes. GC leader Godon leads Evenepoel by 11s, Pidcock by 16s, Vingegaard by 18s — with Evenepoel's participation uncertain after a heavy crash on Stage 3 left him bloodied with open wounds to elbow, back, and hips.",
+      "favourite_riders": [
+        "Jonas Vingegaard",
+        "João Almeida",
+        "Tom Pidcock",
+        "Dorian Godon",
+        "Florian Lipowitz"
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/volta-a-catalunya/2026/stage-4",
+      "official_site": "https://www.voltacatalunya.cat/en/stage-4",
+      "broadcasts": [
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports / HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "12:05",
+          "stream_url": "https://www.hbomax.com/sports",
+          "notes": "TODAY IS THE FIRST DAY on HBO Max for UK cycling streaming — Discovery+ has been replaced. TV coverage continues on TNT Sports channels unchanged. Existing Discovery+ subscribers can log into HBO Max using their Discovery+ credentials. Plans from ~£18.99/month (Max Standard with ads) or former Discovery+ subscribers can access the new Saver plan at £25.99/month.",
+          "source_url": "https://procyclinguk.com/how-to-watch-womens-ronde-van-brugge-2026-in-the-uk/"
+        },
+        {
+          "region": "🇺🇸 USA",
+          "region_code": "US",
+          "platform": "Peacock",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "12:05",
+          "stream_url": "https://www.peacocktv.com/sports/cycling",
+          "notes": "ASO race — Peacock is exclusive US home for Volta a Catalunya. Premium $10.99/month or $109.99/year.",
+          "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-the-2026-volta-a-catalunya-streaming-and-tv-by-country/"
+        },
+        {
+          "region": "🇨🇦 Canada",
+          "region_code": "CA",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "12:05",
+          "stream_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya",
+          "notes": "FloBikes subscription required. ~CAN$39.99/month or CAN$203.88/year.",
+          "source_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya"
+        },
+        {
+          "region": "🇦🇺 Australia",
+          "region_code": "AU",
+          "platform": "SBS On Demand",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "12:05",
+          "stream_url": "https://www.sbs.com.au/ondemand/cycling",
+          "notes": "Free with English commentary.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🇪🇸 Spain",
+          "region_code": "ES",
+          "platform": "RTVE (Teledeporte / RTVE Play)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "12:05",
+          "stream_url": "https://www.rtve.es/play/",
+          "notes": "Free-to-air on Spanish national public broadcaster.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🏴󠁥󠁳󠁣󠁴󠁿 Catalonia",
+          "region_code": "ES",
+          "platform": "TVC (Esport3 / 3Cat)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "12:05",
+          "stream_url": "https://www.3cat.cat",
+          "notes": "Free on Catalan public TV.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🌍 Europe (pan-European)",
+          "region_code": "EU",
+          "platform": "Eurosport / HBO Max",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_gmt": "12:05",
+          "stream_url": "https://www.eurosport.com",
+          "notes": "Eurosport coverage across 50+ countries.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "high",
+        "notes": "Stage 4 start time confirmed as 13:05 CET / 12:05 GMT by PCS LiveStats and IDL Pro Cycling — delayed 30 minutes from original 12:35 due to VENTCAT Level 3 alert. Finish at Camprodon (not Vallter) confirmed by official Volta website announcement and PCS arrival field. Distance reduced by ~23km to approximately 150km (PCS still shows 173km; IDL confirmed ~23km shorter). GC after Stage 3: 1. Dorian Godon (INEOS) 11:29:50 2. Evenepoel (RBH) +11s 3. Pidcock (PQT) +16s 4. Vingegaard (VLB) +18s 5. McNulty (UAE) +19s — confirmed by Cyclingnews live feed and Canadian Cycling Magazine. Evenepoel's start is UNCONFIRMED: injuries (open elbow, back, hips from pothole crash, no broken bones) were being assessed overnight; no confirmation as of file generation. UK streaming switch to HBO Max begins today — first race on the new platform."
+      }
+    },
+    {
+      "id": "ronde-van-brugge-women-2026",
+      "name": "Ronde Van Brugge – Tour of Bruges Women",
+      "date": "2026-03-26",
+      "status": "upcoming",
+      "edition": "9th",
+      "category": "WWT",
+      "gender": "women",
+      "race_type": "one-day",
+      "stage_number": null,
+      "stage_race_name": null,
+      "country": "BE",
+      "country_flag": "🇧🇪",
+      "distance_km": 143.8,
+      "terrain": ["Sprinter", "Cobbles"],
+      "start_town": "Brugge",
+      "finish_town": "Brugge",
+      "finish_type": "Sprint",
+      "start_time_local": "13:30 CET",
+      "start_time_utc": "12:30",
+      "finish_time_local": "16:00 CET",
+      "description": "The women's edition of the rebranded Tour of Bruges runs a day after the men, on an almost entirely flat 143.8km Bruges loop with the cobbled Brieversweg sector appearing twice as the only real selector; defending champion Lorena Wiebes was a late addition to the startlist — originally rested ahead of Flanders — making her the clear favourite for a third consecutive win in this race under its various names.",
+      "favourite_riders": [
+        "Lorena Wiebes",
+        "Lara Gillespie",
+        "Elisa Balsamo",
+        "Chiara Consonni",
+        "Charlotte Kool"
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/driedaagse-brugge-de-panne-women/2026",
+      "official_site": "https://rondevanbrugge.be/en/26-03-2026-elite-women/",
+      "broadcasts": [
+        {
+          "region": "🇧🇪 Belgium",
+          "region_code": "BE",
+          "platform": "Sporza / VRT 1 / VRT Max",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "12:30",
+          "stream_url": "https://www.sporza.be",
+          "notes": "Free-to-air on Flemish public broadcaster.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/ronde-van-brugge-preview"
+        },
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports 2 / HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "14:15",
+          "stream_url": "https://www.hbomax.com/sports",
+          "notes": "TODAY IS THE FIRST DAY on HBO Max for UK streaming — Discovery+ has been replaced. TNT Sports 2 carries the TV broadcast. Live coverage from 14:15 GMT (race start 12:30 GMT). UK fans tuning in online must use HBO Max, not Discovery+.",
+          "source_url": "https://procyclinguk.com/how-to-watch-womens-ronde-van-brugge-2026-in-the-uk/"
+        },
+        {
+          "region": "🇺🇸 USA",
+          "region_code": "US",
+          "platform": "HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "12:30",
+          "stream_url": "https://www.hbomax.com/sports",
+          "notes": "Flanders Classic on HBO Max in the US. Standard plan from $18.49/month.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/ronde-van-brugge-preview"
+        },
+        {
+          "region": "🇨🇦 Canada",
+          "region_code": "CA",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "12:30",
+          "stream_url": "https://www.flobikes.com/live/234165",
+          "notes": "FloBikes. Note: the FloBikes schedule page listed the Women's stream start as Mar 27 08:56 UTC, which appears to be an error or a replay listing — the actual race is March 26.",
+          "source_url": "https://www.flobikes.com/live/234165"
+        },
+        {
+          "region": "🌍 Europe (pan-European)",
+          "region_code": "EU",
+          "platform": "Eurosport / Discovery+ / HBO Max",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_gmt": "12:30",
+          "stream_url": "https://www.eurosport.com",
+          "notes": "Eurosport across Europe; access via Discovery+ or HBO Max depending on country.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/ronde-van-brugge-preview"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "high",
+        "notes": "Official race start 13:30 CET / 12:30 GMT confirmed by official Bruges race website and ProCyclingUK how-to-watch article. Distance 143.8km confirmed by multiple sources. Lorena Wiebes confirmed as late addition to the startlist — originally not scheduled — replacing Marie Schreiber (Achilles tendon problem), per SD Worx-Protime and Cyclingnews. FloBikes listing shows Women's stream as Mar 27 UTC which appears to be an error; race date is definitively March 26. PCS URL retains old race slug 'driedaagse-brugge-de-panne-women' — this is the correct verified URL for 2026."
+      }
+    },
+    {
+      "id": "coppi-bartali-2026-stage-2",
+      "name": "Settimana Internazionale Coppi e Bartali – Stage 2",
+      "date": "2026-03-26",
+      "status": "upcoming",
+      "edition": "41st",
+      "category": "2.1",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 2,
+      "stage_race_name": "Settimana Internazionale Coppi e Bartali",
+      "country": "IT",
+      "country_flag": "🇮🇹",
+      "distance_km": 158,
+      "terrain": ["Sprinter"],
+      "start_town": "Lodi",
+      "finish_town": "Massalengo",
+      "finish_type": "Sprint",
+      "start_time_local": "11:50 CET",
+      "start_time_utc": "10:50",
+      "finish_time_local": "15:45 CET",
+      "description": "The flattest stage of this year's Coppi e Bartali — the lowest profile score of the entire race (45) — runs across the Lombard plain from Lodi to Massalengo, the only genuine opportunity for pure sprinters all week before the race tilts back uphill through Franciacorta and the Veneto.",
+      "favourite_riders": [
+        "Danny van Poppel",
+        "Matteo Moschetti",
+        "Maximilian Schachmann",
+        "Andrew August",
+        "Mauro Schmid"
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/settimana-internazionale-coppi-e-bartali/2026/stage-2",
+      "official_site": "https://www.tuttobiciweb.it/article/2026/03/19/1773910980/cycling-coppi-and-bartali-stage-races-cycling-calendar-northern-italy",
+      "broadcasts": [
+        {
+          "region": "🇮🇹 Italy",
+          "region_code": "IT",
+          "platform": "RaiSport HD (highlights)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "17:00",
+          "stream_url": "https://www.raiplay.it",
+          "notes": "No live TV broadcast. Delayed highlights on RaiSport HD from 18:00 CET (17:00 GMT).",
+          "source_url": "https://www.tuttobiciweb.it/article/2026/03/24/1774371419/coppiebartali-cycling-stage-races-ineos-grenadiers-jayco-alula"
+        },
+        {
+          "region": "🌐 Global",
+          "region_code": "WW",
+          "platform": "Lega Ciclismo Professionistico (YouTube)",
+          "free": true,
+          "geo_restricted": false,
+          "start_time_gmt": "10:50",
+          "stream_url": "https://www.youtube.com/@LegaCiclismo",
+          "notes": "Free live stream from race start on the official Lega Ciclismo Professionistico YouTube channel. The specific live video URL is only published shortly before the race — navigate to the channel on race day. Also an afternoon programming block from ~15:00 CET on the channel.",
+          "source_url": "https://www.tuttobiciweb.it/article/2026/03/24/1774371419/coppiebartali-cycling-stage-races-ineos-grenadiers-jayco-alula"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "medium",
+        "notes": "Start time 11:50 CET / 10:50 GMT confirmed by PCS LiveStats page for Stage 2. Distance 158km confirmed by PCS and all Italian sources. Profile score of 45 is the lowest of the entire race per PCS, confirming this is the sprinters' day. RaiSport highlights at 18:00 CET confirmed by tuttobiciweb stage schedule. Stage 1 results not confirmed at file generation time — GC leader entering Stage 2 unknown. NOTE: Cyclingnews stages page date offset error continues — it lists Stage 2 as March 25, but all Italian primary sources and PCS confirm Stage 2 is March 26. Tuttobiciweb also notes an afternoon (16:00 CET / 15:00 GMT) streaming block on the YouTube channel; this may be separate programming rather than a second live stream of the stage itself."
+      }
+    }
+  ],
+  "validation": {
+    "status": "warnings",
+    "issues": [
+      "Volta Stage 4 distance: PCS still shows 173km but IDL Pro Cycling confirmed the route was shortened by ~23km to finish in Camprodon. Distance field uses ~150km as an estimate; exact shortened distance not officially published.",
+      "Volta Stage 4 start time: Updated to 13:05 CET / 12:05 GMT (delayed 30 min from original) per PCS LiveStats and IDL Pro Cycling. The original PCS result page briefly showed 13:15; the LiveStats confirmed 13:05.",
+      "Volta Stage 4 finish type: Original was a mountaintop finish at Vallter 2110m (HC climb); the actual finish is now in Camprodon, a town roughly 5-8km before the official Vallter climb starts, at ~950m elevation. Finish type adjusted to 'Uphill finish (truncated)' to reflect this.",
+      "Evenepoel Stage 4 participation: Unconfirmed at file generation time. He crashed late in Stage 3 (open wounds elbow/back/hips, no broken bones) and stated injuries would be assessed 'overnight and tomorrow morning.' His appearance in Stage 4 favourites list assumes he starts.",
+      "UK broadcast switch: Today is the first day Discovery+ is replaced by HBO Max for cycling streaming in the UK. TNT Sports TV channels are unchanged. Both Volta Stage 4 and Women's Ronde van Brugge are the first races on HBO Max.",
+      "Ronde van Brugge Women PCS URL: Retains old race slug 'driedaagse-brugge-de-panne-women' — this is the correct URL.",
+      "FloBikes Women's Ronde van Brugge listing shows stream start as Mar 27 08:56 UTC — this appears to be an error or a replay listing; the actual race date is March 26.",
+      "Coppi e Bartali Stage 2: Cyclingnews stages page lists this as March 25 (continuing the one-day offset error from its Stage 1 date). All Italian primary sources and PCS confirm March 26.",
+      "Coppi e Bartali Stage 1 results not confirmed at file generation time — GC standings entering Stage 2 are unknown."
+    ]
+  }
+}
