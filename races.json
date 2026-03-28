@@ -1,165 +1,38 @@
 {
-  "generated_at": "2026-03-27T09:00:00Z",
-  "date": "2026-03-27",
+  "generated_at": "2026-03-28T09:00:00Z",
+  "date": "2026-03-28",
   "races": [
     {
-      "id": "e3-saxo-classic-2026",
-      "name": "E3 Saxo Classic",
-      "date": "2026-03-27",
-      "status": "upcoming",
-      "edition": "68th",
-      "category": "WT",
-      "gender": "men",
-      "race_type": "one-day",
-      "stage_number": null,
-      "stage_race_name": null,
-      "country": "BE",
-      "country_flag": "🇧🇪",
-      "distance_km": 208.5,
-      "terrain": ["Cobbles", "Puncheur"],
-      "start_town": "Harelbeke",
-      "finish_town": "Harelbeke",
-      "finish_type": "Sprint or small group",
-      "start_time_local": "12:45 CET",
-      "start_time_utc": "11:45",
-      "finish_time_local": "17:15 CET",
-      "description": "The unofficial start of Flemish Cycling Week — the 'mini Tour of Flanders' — opens the ten-day cobbled block with 16 classified climbs including the Paterberg, Taaienberg and a newly added second ascent of the Oude Kwaremont via an alternate side (Keuzelingstraat), plus two runs up the brand-new 1.2km E3-Col; van der Poel bids for a third consecutive win with no Pogačar, no Van Aert (reportedly resting) and no Pidcock (at Volta).",
-      "favourite_riders": [
-        "Mathieu van der Poel",
-        "Mads Pedersen",
-        "Christophe Laporte",
-        "Florian Vermeersch",
-        "Dylan van Baarle"
-      ],
-      "pcs_url": "https://www.procyclingstats.com/race/e3-saxo-classic/2026",
-      "official_site": "https://www.cyclingstage.com/e3-saxo-classic-2026/",
-      "broadcasts": [
-        {
-          "region": "🇧🇪 Belgium",
-          "region_code": "BE",
-          "platform": "Sporza / VRT Max / VTM",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "11:45",
-          "stream_url": "https://www.sporza.be",
-          "notes": "Free-to-air on Sporza (Flemish public broadcaster) and VTM. VRT Max streams free online.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-the-e3-saxo-classic-2026-live-streams-tv-channels-for-the-cobbled-classic/"
-        },
-        {
-          "region": "🇳🇱 Netherlands",
-          "region_code": "NL",
-          "platform": "NOS / NPO",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "11:45",
-          "stream_url": "https://www.npostart.nl",
-          "notes": "Free-to-air on NOS / NPO Start.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-the-e3-saxo-classic-2026-live-streams-tv-channels-for-the-cobbled-classic/"
-        },
-        {
-          "region": "🇬🇧 UK & Ireland",
-          "region_code": "GB",
-          "platform": "TNT Sports 1 / HBO Max",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "15:00",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "TV coverage on TNT Sports 1 from 15:00–16:45 GMT. Online streaming via HBO Max (Discovery+ was replaced as of March 26 — use HBO Max, not Discovery+). Plans from £25.99/month (Saver 12-month) or £30.99/month. Race starts at ~11:45 GMT; TV coverage begins mid-race.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-e3-saxo-classic-2026-live-stream-mini-tour-of-flanders"
-        },
-        {
-          "region": "🇺🇸 USA",
-          "region_code": "US",
-          "platform": "HBO Max",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "14:00",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "US coverage begins at 09:00 ET / 14:00 GMT on HBO Max. Standard plan from $18.49/month. Note: FloBikes does NOT have US rights for E3 — this is a Flanders Classic carried on HBO Max in the US.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-e3-saxo-classic-2026-live-stream-mini-tour-of-flanders"
-        },
-        {
-          "region": "🇨🇦 Canada",
-          "region_code": "CA",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "11:45",
-          "stream_url": "https://www.flobikes.com/events/15255416-2026-e3-saxo-classic",
-          "notes": "FloBikes Canada. ~CAN$39.99/month or CAN$203.88/year.",
-          "source_url": "https://www.flobikes.com/events/15255416-2026-e3-saxo-classic"
-        },
-        {
-          "region": "🇦🇺 Australia & 🇳🇿 New Zealand",
-          "region_code": "AU",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "11:45",
-          "stream_url": "https://www.flobikes.com/events/15255416-2026-e3-saxo-classic",
-          "notes": "FloBikes expanded to Australia/NZ in 2026 and carries this Flanders Classic. Subscription required.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-the-e3-saxo-classic-2026-live-streams-tv-channels-for-the-cobbled-classic/"
-        },
-        {
-          "region": "🌍 Europe (pan-European)",
-          "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
-          "free": false,
-          "geo_restricted": false,
-          "start_time_gmt": "14:00",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport joins live from ~15:00 CET / 14:00 GMT. Full online coverage available earlier on HBO Max/Discovery+ depending on country.",
-          "source_url": "https://www.idlprocycling.com/cycling/e3-saxo-classic-2026-van-der-poel-lines-up-but-pogacar-ganna-van-aert-and-pidcock-are-absent-for-now"
-        },
-        {
-          "region": "🌎 Latin America",
-          "region_code": "LA",
-          "platform": "DirecTV",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "11:45",
-          "stream_url": null,
-          "notes": "DirecTV carries the E3 Saxo Classic across Latin America.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/e3-saxo-bank-classic-2026-preview"
-        }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "high",
-        "notes": "Start time 12:45 CET / 11:45 GMT confirmed by cyclingstage, cyclingflash preview, and IDL preview. Finish ~17:15 CET estimated. Distance 208.5km confirmed by multiple sources. Van der Poel confirmed starting (recovered from Milan-Sanremo crash). Notable absences: Tadej Pogačar (Monuments only), Wout van Aert (reportedly resting per Flemish media), Tom Pidcock (racing Volta a Catalunya). UK TV coverage starts at 15:00 GMT (mid-race); streaming on HBO Max available from race start. US coverage starts 09:00 ET / 14:00 GMT on HBO Max. FloBikes does NOT have US rights — US fans must use HBO Max. FloBikes does cover Canada and Australia. Cyclingnews how-to-watch article mentions 'Rai' for free viewing — this appears to be an error; RaiSport does not broadcast E3."
-      }
-    },
-    {
-      "id": "volta-a-catalunya-2026-stage-5",
-      "name": "Volta Ciclista a Catalunya – Stage 5",
-      "date": "2026-03-27",
+      "id": "volta-a-catalunya-2026-stage-6",
+      "name": "Volta Ciclista a Catalunya – Stage 6",
+      "date": "2026-03-28",
       "status": "upcoming",
       "edition": "105th",
       "category": "WT",
       "gender": "men",
       "race_type": "stage",
-      "stage_number": 5,
+      "stage_number": 6,
       "stage_race_name": "Volta Ciclista a Catalunya",
       "country": "ES",
       "country_flag": "🇪🇸",
-      "distance_km": 155.3,
+      "distance_km": 158.2,
       "terrain": ["Climbing", "High mountain"],
-      "start_town": "La Seu d'Urgell",
-      "finish_town": "La Molina / Coll de Pal",
+      "start_town": "Berga",
+      "finish_town": "Queralt",
       "finish_type": "Mountaintop",
-      "start_time_local": "11:40 CET",
-      "start_time_utc": "10:40",
-      "finish_time_local": "16:00 CET",
-      "description": "The undisputed queen stage of the 105th Volta — 155.3km from La Seu d'Urgell with 4,556m of climbing across five categorised ascents, culminating on the Coll de Pal (HC, 16.5km @ 7.2%, 2,109m), returning to the Volta for the first time since 1979; preceded by the brutal Coll de Fumanya (5.5km @ 9%) and Collada Sobirana (7.5km @ 6.7%) to set up a decisive GC showdown. GC: Godon leads Pidcock by 13s, Evenepoel at 14s, Vingegaard at 24s — with Vingegaard the climbing favourite and Evenepoel continuing despite Stage 3 crash wounds.",
+      "start_time_local": "12:50 CET",
+      "start_time_utc": "11:50",
+      "finish_time_local": "17:00 CET",
+      "description": "The penultimate mountain stage and final summit finish of the Volta — finally delivering the stage last year's wind cancelled — 158km with 4,000m+ of climbing from Berga via the brutal special-category Coll del Pradell (14.6km, upper 5.5km averaging 11%) and Cat.1 Collada de Sant Isidre before the Cat.1 Queralt ascent (6km @ 7%) to the finish at the Sanctuary. Vingegaard dominates with a 57-second GC lead over Gall after demolishing all rivals on Stage 5; Pidcock crashed into a ravine on the Stage 5 descent and is effectively out of GC contention.",
       "favourite_riders": [
         "Jonas Vingegaard",
-        "João Almeida",
-        "Tom Pidcock",
-        "Remco Evenepoel",
-        "Florian Lipowitz"
+        "Lenny Martinez",
+        "Felix Gall",
+        "Florian Lipowitz",
+        "Remco Evenepoel"
       ],
-      "pcs_url": "https://www.procyclingstats.com/race/volta-a-catalunya/2026/stage-5",
-      "official_site": "https://www.voltacatalunya.cat/en/stage-5",
+      "pcs_url": "https://www.procyclingstats.com/race/volta-a-catalunya/2026/stage-6",
+      "official_site": "https://www.voltacatalunya.cat/en/stage-6",
       "broadcasts": [
         {
           "region": "🇬🇧 UK & Ireland",
@@ -167,10 +40,10 @@
           "platform": "TNT Sports / HBO Max",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "10:40",
+          "start_time_gmt": "11:50",
           "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Streaming now on HBO Max (Discovery+ replaced from March 26). TV on TNT Sports channels. Plans from £25.99/month.",
-          "source_url": "https://procyclinguk.com/how-to-watch-womens-ronde-van-brugge-2026-in-the-uk/"
+          "notes": "Streaming on HBO Max (Discovery+ replaced from March 26). TV on TNT Sports channels. Plans from £25.99/month (Saver).",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
           "region": "🇺🇸 USA",
@@ -178,9 +51,9 @@
           "platform": "Peacock",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "10:40",
+          "start_time_gmt": "11:50",
           "stream_url": "https://www.peacocktv.com/sports/cycling",
-          "notes": "ASO race — exclusive to Peacock in the US. Premium $10.99/month or $109.99/year.",
+          "notes": "ASO race — exclusive to Peacock in the US. Premium $10.99/month.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
@@ -189,7 +62,7 @@
           "platform": "FloBikes",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "10:40",
+          "start_time_gmt": "11:50",
           "stream_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya",
           "notes": "FloBikes subscription. ~CAN$39.99/month.",
           "source_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya"
@@ -200,9 +73,9 @@
           "platform": "SBS On Demand",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "10:40",
+          "start_time_gmt": "11:50",
           "stream_url": "https://www.sbs.com.au/ondemand/cycling",
-          "notes": "Free, English commentary.",
+          "notes": "Free with English commentary.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         },
         {
@@ -211,7 +84,7 @@
           "platform": "RTVE (Teledeporte / RTVE Play)",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "10:40",
+          "start_time_gmt": "11:50",
           "stream_url": "https://www.rtve.es/play/",
           "notes": "Free-to-air on Spanish national public broadcaster.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
@@ -222,7 +95,7 @@
           "platform": "TVC (Esport3 / 3Cat)",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "10:40",
+          "start_time_gmt": "11:50",
           "stream_url": "https://www.3cat.cat",
           "notes": "Free on Catalan public TV.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
@@ -235,7 +108,7 @@
           "geo_restricted": false,
           "start_time_gmt": "13:10",
           "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport joins live from ~14:10 CET / 13:10 GMT on Friday. Full earlier coverage on Discovery+/HBO Max online depending on country.",
+          "notes": "Eurosport joins live from ~14:10 CET / 13:10 GMT on Saturday. Full earlier coverage on HBO Max depending on country.",
           "source_url": "https://www.idlprocycling.com/cycling/tour-of-catalonia-2026-fresh-test-for-vingegaard-but-can-evenepoel-still-be-there"
         },
         {
@@ -244,48 +117,59 @@
           "platform": "TV2",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "10:40",
+          "start_time_gmt": "11:50",
           "stream_url": "https://www.tv2.dk",
           "notes": "TV2 subscription required.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
+        },
+        {
+          "region": "🇯🇵 Japan",
+          "region_code": "JP",
+          "platform": "J Sports",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:50",
+          "stream_url": "https://www.jsports.co.jp",
+          "notes": "J Sports subscription required.",
           "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
         }
       ],
       "data_confidence": {
         "race_details": "high",
         "broadcasts": "high",
-        "notes": "Start time 11:40 CET / 10:40 GMT confirmed by PCS results page, cyclinguptodate preview, and Velora how-to-watch guide. Finish ~16:00 CET per cyclinguptodate preview (Velora estimates 15:17 — this appears too early for such a hard stage; 16:00 CET is more plausible with 4,556m of climbing). Distance 155.3km confirmed by PCS. GC after Stage 4: 1. Godon (INEOS) 15:30:47 2. Pidcock (PQT) +13s 3. Evenepoel (RBH) +14s 4. Vingegaard (VLB) +24s 5. Raccagni Noviero (SOQ) +25s 6. McNulty (UAE) s.t. — confirmed by Cyclingnews live feed. Evenepoel confirmed starting Stage 5 per cyclingflash 'Hey guys, all good' report. The Coll de Pal (officially finishes at La Molina ski resort area) last appeared in the Volta in 1979. Eurosport typically joins Volta stages later in the afternoon; Friday Stage 5 is confirmed at ~14:10 CET entry per IDL."
+        "notes": "Start time 12:50 CET / 11:50 GMT confirmed by cyclinguptodate preview and IDL preview (12:45 CET also cited by cyclingstage — small variance, using the more widely-corroborated 12:50). Finish ~17:00 CET per cyclingstage route guide. Distance 158.2km / 158km confirmed by official Volta website and multiple sources. GC after Stage 5: 1. Vingegaard (VLB) 2. Gall (DCT) +57s 3. Martinez (TBV) +1:09 4. Lipowitz (RBH) +1:13 5. Paret-Peintre (SQS) +1:15 6. Evenepoel (RBH) +1:38 — confirmed by official Volta website and cyclingstage. Tom Pidcock crashed into a ravine on Stage 5's Collada Sobirana descent; dropped from 3rd to 74th in GC. João Almeida also crashed on same descent, recovered to join second chase group. Cyclingstage still lists Pidcock as Stage 6 favourite — this is outdated; he is not a GC factor."
       }
     },
     {
-      "id": "coppi-bartali-2026-stage-3",
-      "name": "Settimana Internazionale Coppi e Bartali – Stage 3",
-      "date": "2026-03-27",
+      "id": "coppi-bartali-2026-stage-4",
+      "name": "Settimana Internazionale Coppi e Bartali – Stage 4",
+      "date": "2026-03-28",
       "status": "upcoming",
       "edition": "41st",
       "category": "2.1",
       "gender": "men",
       "race_type": "stage",
-      "stage_number": 3,
+      "stage_number": 4,
       "stage_race_name": "Settimana Internazionale Coppi e Bartali",
       "country": "IT",
       "country_flag": "🇮🇹",
-      "distance_km": 175.5,
+      "distance_km": 159.6,
       "terrain": ["Puncheur", "Climbing"],
-      "start_town": "Erbusco",
-      "finish_town": "Iseo",
+      "start_town": "Ponte di Piave",
+      "finish_town": "Valdobbiadene",
       "finish_type": "Uphill sprint or small group",
-      "start_time_local": "11:25 CET",
-      "start_time_utc": "10:25",
-      "finish_time_local": "15:30 CET",
-      "description": "Stage 3 rolls through the Franciacorta wine country — home of Italy's finest sparkling wines — to the shores of Lake Iseo; a moderately hilly day (1,703m climbing, profile score 84) that suits puncheur-sprinters and could see action before a selective finale; one of two consecutive Lombard stages before the race moves northeast into Veneto and Friuli.",
+      "start_time_local": "11:40 CET",
+      "start_time_utc": "10:40",
+      "finish_time_local": "15:35 CET",
+      "description": "The penultimate stage crosses into Veneto and the UNESCO-listed Conegliano Valdobbiadene Prosecco hills — a moderately selective day (profile score 67, 1,360m climbing) that threads through Treviso province to finish in the heart of Prosecco country; a stage where a breakaway is possible or the GC could shuffle ahead of Sunday's decisive finale.",
       "favourite_riders": [
-        "Andrew August",
-        "Alessandro Covi",
-        "Maximilian Schachmann",
+        "Axel Laurance",
         "Mauro Schmid",
-        "Danny van Poppel"
+        "Alessandro Covi",
+        "Andrew August",
+        "Maximilian Schachmann"
       ],
-      "pcs_url": "https://www.procyclingstats.com/race/settimana-internazionale-coppi-e-bartali/2026/stage-3",
+      "pcs_url": "https://www.procyclingstats.com/race/settimana-internazionale-coppi-e-bartali/2026/stage-4",
       "official_site": "https://www.tuttobiciweb.it/article/2026/03/19/1773910980/cycling-coppi-and-bartali-stage-races-cycling-calendar-northern-italy",
       "broadcasts": [
         {
@@ -294,9 +178,9 @@
           "platform": "RaiSport HD (highlights)",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "16:30",
+          "start_time_gmt": "15:25",
           "stream_url": "https://www.raiplay.it",
-          "notes": "No live TV. Highlights broadcast on RaiSport HD at 17:30 CET / 16:30 GMT.",
+          "notes": "No live TV. Highlights on RaiSport HD from 16:25 CET / 15:25 GMT (tuttobiciweb lists Stage 4 highlights at 4:25 PM).",
           "source_url": "https://www.tuttobiciweb.it/article/2026/03/24/1774371419/coppiebartali-cycling-stage-races-ineos-grenadiers-jayco-alula"
         },
         {
@@ -305,29 +189,29 @@
           "platform": "Lega Ciclismo Professionistico (YouTube)",
           "free": true,
           "geo_restricted": false,
-          "start_time_gmt": "10:25",
+          "start_time_gmt": "10:40",
           "stream_url": "https://www.youtube.com/@LegaCiclismo",
-          "notes": "Free live stream from race start on the Lega Ciclismo Professionistico YouTube channel. Specific live video URL only published on race day — navigate to channel.",
+          "notes": "Free live stream from race start. Specific live video URL only published on race day — navigate to channel on race day.",
           "source_url": "https://www.tuttobiciweb.it/article/2026/03/24/1774371419/coppiebartali-cycling-stage-races-ineos-grenadiers-jayco-alula"
         }
       ],
       "data_confidence": {
         "race_details": "high",
         "broadcasts": "medium",
-        "notes": "Start time 11:25 CET / 10:25 GMT confirmed by PCS LiveStats for Stage 3. Date March 27 confirmed by PCS stage profiles and all Italian sources (tuttobiciweb, oasport etc). Cyclingnews stages page continues to show this stage as March 26 — this is the established one-day offset error; all Italian primary sources confirm March 27. RaiSport highlights time estimated at 17:30 CET based on the confirmed 18:00 CET slot for Stage 1 and the general 5:30 PM listing in tuttobiciweb's schedule for Stage 3. GC standings entering Stage 3 not confirmed at file generation time."
+        "notes": "Start time 11:40 CET / 10:40 GMT confirmed by Ciclo21 live page. Finish ~15:35 CET per Ciclo21. Date March 28 confirmed by PCS stage profiles and all Italian sources. GC entering Stage 4: Axel Laurance (INEOS Grenadiers) leads overall — Stage 1 winner; Stage 2 won by Filippo D'Aiuto (General Store - Essegibi); Stage 3 won by Tommaso Dati. Cyclingnews stages page continues to show a one-day date offset error for all stages; all Italian primary sources confirm March 28 for Stage 4. tuttobiciweb schedule shows highlights at 4:25 PM for March 28."
       }
     }
   ],
   "validation": {
     "status": "warnings",
     "issues": [
-      "E3 Saxo Classic UK TV coverage (TNT Sports 1, 15:00–16:45 GMT) starts approximately 3 hours into the race. Full race from start available on HBO Max streaming in UK.",
-      "E3 Saxo Classic US: FloBikes does NOT have US rights — US fans must use HBO Max. FloBikes has Canada (and Australia) rights only. One Cycling Weekly article listed FloBikes for both US/Canada — this is incorrect for the US.",
-      "Volta Stage 5 finish time estimate: Velora guide shows 15:17 GMT / 16:17 CET; cyclinguptodate preview says 16:00 CET finish. Given 4,556m of climbing the 16:00 CET estimate appears more realistic. Actual finish time could be 15:30–16:30 CET depending on pace.",
-      "Coppi e Bartali Stage 3 date: Cyclingnews stages page shows this as March 26 — incorrect. All Italian sources and PCS stage profiles confirm March 27.",
-      "Volta Stage 4 GC confirmed: 1. Godon 15:30:47 2. Pidcock +13s 3. Evenepoel +14s 4. Vingegaard +24s 5. Raccagni Noviero +25s 6. McNulty s.t. — Stage 4 was a sprint won by Ethan Vernon (NSN) after weather forced the Vallter summit finish down to Camprodon (151km instead of 173km).",
-      "Wout van Aert / E3 notable absence: Multiple Flemish media outlets reported Van Aert not starting E3 (opting for extra rest before Tour of Flanders block). No official team confirmation in sources; treat as likely DNS but unconfirmed.",
-      "Coppi e Bartali highlights time: Stage 3 RaiSport slot listed as 17:30 CET based on tuttobiciweb schedule showing '5:30 PM' for Stage 3 (confirmed vs. the 6:00 PM slot on Stage 2)."
+      "Volta Stage 6 start time: cyclingstage.com shows 12:45 CET; cyclinguptodate and IDL show 12:50 CET. PCS results page will confirm. Using 12:50 CET / 11:50 GMT based on more sources — a 5-minute variance.",
+      "Tom Pidcock Stage 6: Listed as favourite on some preview sources (written before Stage 5). In reality Pidcock crashed into a ravine on Stage 5's Collada Sobirana descent and dropped to 74th on GC. He is not a GC factor for Stage 6. Favourite list updated to reflect post-Stage 5 reality.",
+      "Volta Stage 5 finish time: stage was shortened by 2.2km on Coll de Pal due to wind; actual final climb was 16.7km not 18.9km, affecting elapsed race time.",
+      "Coppi e Bartali Stage 4 date: Cyclingnews stages page shows this stage as March 27 — the established one-day offset error. All Italian primary sources and PCS stage profiles confirm March 28.",
+      "Coppi e Bartali GC standings entering Stage 4: Axel Laurance (INEOS) leads overall based on Stage 1 win by Laurance, confirmed by PCS LiveStats feed which says 'Laurance Axel is the leader'. Full time gaps not confirmed at file generation time.",
+      "E3 Saxo Classic (yesterday, March 27): Van der Poel won hat-trick via 42km solo, nearly caught by 4-rider chase in final kilometre (Florian Vermeersch hesitated at key moment). Podium: 1. Van der Poel 2. Per Strand Hagenes 3. Florian Vermeersch.",
+      "Volta Stage 5 recap: Vingegaard solo win on Coll de Pal (shortened by 2.2km). Felix Gall 2nd (+50s), Lenny Martinez 3rd (+1:01). GC: Vingegaard leads Gall by 57s. Evenepoel dropped to 6th (+1:38). Pidcock crashed on descent into ravine, dropped to 74th. Dorian Godon (former race leader) dropped on final climb, fell to 67th."
     ]
   }
 }
