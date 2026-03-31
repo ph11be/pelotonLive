@@ -1,451 +1,82 @@
 {
-  "generated_at": "2026-03-29T08:00:00Z",
-  "date": "2026-03-29",
-  "notes": "DAYLIGHT SAVING TIME: Clocks across Europe (Spain, Belgium, Italy) and the UK moved forward one hour at 2:00 AM this morning. All continental local times are now CEST (UTC+2); all UK times are now BST (UTC+1). UTC times in this file account for the change.",
-  "races": [
-    {
-      "id": "in-flanders-fields-men-2026",
-      "name": "In Flanders Fields – From Middelkerke to Wevelgem",
-      "date": "2026-03-29",
-      "status": "upcoming",
-      "edition": "78th",
-      "category": "WT",
-      "gender": "men",
-      "race_type": "one-day",
-      "stage_number": null,
-      "stage_race_name": null,
-      "country": "BE",
-      "country_flag": "🇧🇪",
-      "distance_km": 240.8,
-      "terrain": ["Cobbles", "Puncheur"],
-      "start_town": "Middelkerke",
-      "finish_town": "Wevelgem",
-      "finish_type": "Sprint or small group",
-      "start_time_local": "11:00 CEST",
-      "start_time_utc": "09:00",
-      "finish_time_local": "16:35 CEST",
-      "description": "Gent-Wevelgem rebranded under a new name for 2026, with a new 10-year start contract in Middelkerke replacing Ypres; the course otherwise delivers the familiar recipe of nine climbs (including 3 ascents of the Kemmelberg with its brutal Belvedère and Ossuaire sides), three Plugstreets gravel sectors and a flat sprint run-in to Wevelgem. Defending champion Mads Pedersen is a DNS through illness, opening the race up — Van der Poel (fresh from E3 hat-trick) and Van Aert (returning to form) headline an Alpecin/Visma double threat.",
-      "favourite_riders": [
-        "Mathieu van der Poel",
-        "Wout van Aert",
-        "Jasper Philipsen",
-        "Christophe Laporte",
-        "Arnaud De Lie"
-      ],
-      "pcs_url": "https://www.procyclingstats.com/race/gent-wevelgem/2026",
-      "official_site": "https://www.inflandersfieldsmiddelkerkewevelgem.be/en",
-      "broadcasts": [
-        {
-          "region": "🇧🇪 Belgium",
-          "region_code": "BE",
-          "platform": "Sporza / VRT 1 / VRT Max",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:00",
-          "stream_url": "https://www.sporza.be",
-          "notes": "Free-to-air on Sporza / VRT 1 from race start.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-in-flanders-fields-2026-gent-wevelgem"
-        },
-        {
-          "region": "🇳🇱 Netherlands",
-          "region_code": "NL",
-          "platform": "NOS / NPO 1",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:00",
-          "stream_url": "https://www.npostart.nl",
-          "notes": "Free-to-air on NOS / NPO 1.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-in-flanders-fields-2026-gent-wevelgem"
-        },
-        {
-          "region": "🇫🇷 France",
-          "region_code": "FR",
-          "platform": "L'Équipe (TV & streaming)",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:00",
-          "stream_url": "https://www.lequipe.fr/tv/",
-          "notes": "Free-to-air on La chaîne L'Équipe.",
-          "source_url": "https://veloracycling.com/races/gent-wevelgem-in-flanders-fields-2026/how-to-watch"
-        },
-        {
-          "region": "🇮🇹 Italy",
-          "region_code": "IT",
-          "platform": "RaiPlay",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:00",
-          "stream_url": "https://www.raiplay.it",
-          "notes": "Free-to-air streaming on RaiPlay.",
-          "source_url": "https://veloracycling.com/races/gent-wevelgem-in-flanders-fields-2026/how-to-watch"
-        },
-        {
-          "region": "🇬🇧 UK & Ireland",
-          "region_code": "GB",
-          "platform": "TNT Sports 3 / HBO Max",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:00",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Race starts 10:00 BST. HBO Max streaming from race start. TNT Sports 3 TV coverage begins 13:15 BST (12:15 UTC) — over 3 hours into the race. For full coverage from the start, use HBO Max streaming. Women's race follows on TNT Sports at 15:45 BST. Plans from £25.99/month (Saver).",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-in-flanders-fields-2026-gent-wevelgem"
-        },
-        {
-          "region": "🇺🇸 USA",
-          "region_code": "US",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "11:45",
-          "stream_url": "https://www.flobikes.com/live/234165",
-          "notes": "FloBikes carries Flanders Classics in the US. Coverage starts 7:45 AM EDT (11:45 UTC) — race will already be ~2h45m in. Race start is 5:00 AM EDT (09:00 UTC). Monthly $39.99 or annual $155.88.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/watch-in-flanders-fields-2026-live-streams-for-new-gent-wevelgem/"
-        },
-        {
-          "region": "🇨🇦 Canada",
-          "region_code": "CA",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:00",
-          "stream_url": "https://www.flobikes.com/live/234165",
-          "notes": "FloBikes Canada covers the full race from start. CAN$39.99/month.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/watch-in-flanders-fields-2026-live-streams-for-new-gent-wevelgem/"
-        },
-        {
-          "region": "🇦🇺 Australia",
-          "region_code": "AU",
-          "platform": "SBS On Demand / FloBikes",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:00",
-          "stream_url": "https://www.sbs.com.au/ondemand/cycling",
-          "notes": "SBS On Demand provides free-to-air coverage. FloBikes also available in Australia for 2026.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-in-flanders-fields-2026-gent-wevelgem"
-        },
-        {
-          "region": "🌍 Europe (pan-European)",
-          "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
-          "free": false,
-          "geo_restricted": false,
-          "start_time_gmt": "09:00",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport across Europe; access via HBO Max depending on country.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/gent-wevelgem-preview"
-        },
-        {
-          "region": "🌎 Latin America",
-          "region_code": "LA",
-          "platform": "ESPN",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:00",
-          "stream_url": null,
-          "notes": "ESPN carries In Flanders Fields across Latin America.",
-          "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-the-2026-gent-wevelgem-streaming-and-tv-by-country/"
-        }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "high",
-        "notes": "Start time 11:00 CEST / 09:00 UTC confirmed by ProCyclingUK start-time update (11:00 local, 10:00 BST), cyclingstage route page, and FloBikes (5:00 AM EDT = 09:00 UTC). Finish ~16:35 CEST confirmed by cyclingstage. Distance 240.8km confirmed by multiple sources. 78th edition. Mads Pedersen confirmed DNS due to illness (per Domestique and Cyclingnews). Van der Poel confirmed starting despite hand injury from Milan-Sanremo crash. US broadcaster is FloBikes (Flanders Classic) — NOT HBO Max. Cyclingnews US guide confirms FloBikes holds Flanders Classics rights in US. UK TV coverage only from 13:15 BST but HBO Max streaming from race start (10:00 BST)."
-      }
-    },
-    {
-      "id": "in-flanders-fields-women-2026",
-      "name": "In Flanders Fields – In Wevelgem (Women)",
-      "date": "2026-03-29",
-      "status": "upcoming",
-      "edition": "15th",
-      "category": "WWT",
-      "gender": "women",
-      "race_type": "one-day",
-      "stage_number": null,
-      "stage_race_name": null,
-      "country": "BE",
-      "country_flag": "🇧🇪",
-      "distance_km": 134.9,
-      "terrain": ["Cobbles", "Puncheur"],
-      "start_town": "Wevelgem",
-      "finish_town": "Wevelgem",
-      "finish_type": "Sprint",
-      "start_time_local": "14:30 CEST",
-      "start_time_utc": "12:30",
-      "finish_time_local": "17:47 CEST",
-      "description": "The women's race runs from Wevelgem for the first time (neutral start in Moorsele at 14:10 CEST), with the final 80km matching the men's course from the three Plugstreets; five climbs — Monteberg, Kemmelberg Belvedère, Scherpenberg, Baneberg and Kemmelberg Ossuaire — before a flat sprint finish on Vanackerestraat. Lorena Wiebes bids for a historic third successive win (formerly as Gent-Wevelgem) to become the race's outright record holder.",
-      "favourite_riders": [
-        "Lorena Wiebes",
-        "Elisa Balsamo",
-        "Charlotte Kool",
-        "Lara Gillespie",
-        "Chiara Consonni"
-      ],
-      "pcs_url": "https://www.procyclingstats.com/race/gent-wevelgem-women/2026",
-      "official_site": "https://www.inflandersfieldsmiddelkerkewevelgem.be/en/race/elite-women/race-info",
-      "broadcasts": [
-        {
-          "region": "🇧🇪 Belgium",
-          "region_code": "BE",
-          "platform": "Sporza / VRT Max",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "12:30",
-          "stream_url": "https://www.sporza.be",
-          "notes": "Free-to-air on Sporza / VRT.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-in-flanders-fields-2026-gent-wevelgem"
-        },
-        {
-          "region": "🇬🇧 UK & Ireland",
-          "region_code": "GB",
-          "platform": "TNT Sports / HBO Max",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "14:45",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Race starts 13:30 BST (12:30 UTC). UK TV coverage on TNT Sports begins 15:45 BST (14:45 UTC). HBO Max streaming available from race start. Plans from £25.99/month.",
-          "source_url": "https://procyclinguk.com/how-to-watch-gent-wevelgem-women-2026-in-the-uk/"
-        },
-        {
-          "region": "🇺🇸 USA",
-          "region_code": "US",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "13:40",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes coverage starts 9:40 AM EDT (13:40 UTC) per FloBikes' own schedule. Race starts 8:30 AM EDT (12:30 UTC). Monthly $39.99.",
-          "source_url": "https://www.flobikes.com/articles/15575356-gent-wevelgem-now-called-in-flanders-fields-from-middelkerke-to-wevelgem"
-        },
-        {
-          "region": "🇨🇦 Canada",
-          "region_code": "CA",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "12:30",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes Canada. CAN$39.99/month.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/gent-wevelgem-preview"
-        },
-        {
-          "region": "🇦🇺 Australia",
-          "region_code": "AU",
-          "platform": "SBS On Demand / FloBikes",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "12:30",
-          "stream_url": "https://www.sbs.com.au/ondemand/cycling",
-          "notes": "SBS On Demand free streaming.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-in-flanders-fields-2026-gent-wevelgem"
-        },
-        {
-          "region": "🌍 Europe (pan-European)",
-          "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
-          "free": false,
-          "geo_restricted": false,
-          "start_time_gmt": "12:30",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport across Europe.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/gent-wevelgem-preview"
-        }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "high",
-        "notes": "Official start 14:30 CEST / 12:30 UTC confirmed by official race website (vanackerestraat Wevelgem). Neutral start 14:10 CEST. Finish ~17:47 CEST. Distance 134.9km per official website (Cyclist preview shows 135.2km — small variance). Wiebes confirmed starting — was originally not planned but was added for the Ronde van Brugge and is also here. A win would make her the record holder outright. Carys Lloyd (Ronde van Brugge Women winner this week) and Nienke Veenhoven also to watch."
-      }
-    },
-    {
-      "id": "volta-a-catalunya-2026-stage-7",
-      "name": "Volta Ciclista a Catalunya – Stage 7 (Final)",
-      "date": "2026-03-29",
-      "status": "upcoming",
-      "edition": "105th",
-      "category": "WT",
-      "gender": "men",
-      "race_type": "stage",
-      "stage_number": 7,
-      "stage_race_name": "Volta Ciclista a Catalunya",
-      "country": "ES",
-      "country_flag": "🇪🇸",
-      "distance_km": 95.1,
-      "terrain": ["Puncheur"],
-      "start_town": "Barcelona",
-      "finish_town": "Barcelona",
-      "finish_type": "Circuit (downhill finish)",
-      "start_time_local": "11:50 CEST",
-      "start_time_utc": "09:50",
-      "finish_time_local": "14:00 CEST",
-      "description": "The 105th Volta concludes on the Montjuïc circuit — same roads that will host the Tour de France Grand Départ this summer — with 7 laps of the 7.9km loop including the Alt del Castell de Montjuïc (2.5km, final 900m averaging 10%), finishing downhill on a fast run-in. Vingegaard holds a dominant lead after consecutive solo wins on Coll de Pal and Queralt; the GC is settled, so the stage is wide open for a breakaway or a circuit specialist. Evenepoel has hinted at going for the stage win.",
-      "favourite_riders": [
-        "Remco Evenepoel",
-        "Dorian Godon",
-        "Lenny Martinez",
-        "Giulio Ciccone",
-        "Marc Soler"
-      ],
-      "pcs_url": "https://www.procyclingstats.com/race/volta-a-catalunya/2026/stage-7",
-      "official_site": "https://www.voltacatalunya.cat/en/stage-7",
-      "broadcasts": [
-        {
-          "region": "🇬🇧 UK & Ireland",
-          "region_code": "GB",
-          "platform": "TNT Sports / HBO Max",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Race starts 10:50 BST (09:50 UTC). Stream on HBO Max. Plans from £25.99/month.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
-        },
-        {
-          "region": "🇺🇸 USA",
-          "region_code": "US",
-          "platform": "Peacock",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.peacocktv.com/sports/cycling",
-          "notes": "ASO race — Peacock exclusive in the US. Premium $10.99/month.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
-        },
-        {
-          "region": "🇨🇦 Canada",
-          "region_code": "CA",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya",
-          "notes": "FloBikes Canada. CAN$39.99/month.",
-          "source_url": "https://www.flobikes.com/events/14817644-2026-volta-ciclista-a-catalunya"
-        },
-        {
-          "region": "🇦🇺 Australia",
-          "region_code": "AU",
-          "platform": "SBS On Demand",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.sbs.com.au/ondemand/cycling",
-          "notes": "Free, English commentary.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
-        },
-        {
-          "region": "🇪🇸 Spain",
-          "region_code": "ES",
-          "platform": "RTVE (Teledeporte / RTVE Play)",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.rtve.es/play/",
-          "notes": "Free-to-air on Spanish public broadcaster.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
-        },
-        {
-          "region": "🏴󠁥󠁳󠁣󠁴󠁿 Catalonia",
-          "region_code": "ES",
-          "platform": "TVC (Esport3 / 3Cat)",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.3cat.cat",
-          "notes": "Free on Catalan public TV.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/volta-a-catalunya-preview"
-        },
-        {
-          "region": "🌍 Europe (pan-European)",
-          "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
-          "free": false,
-          "geo_restricted": false,
-          "start_time_gmt": "11:20",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport typically joins Volta stages mid-race. Full earlier coverage on HBO Max.",
-          "source_url": "https://www.idlprocycling.com/cycling/tour-of-catalonia-2026-fresh-test-for-vingegaard-but-can-evenepoel-still-be-there"
-        }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "high",
-        "notes": "Start time 11:50 CEST / 09:50 UTC confirmed by PCS results page and cyclingstage route guide (explicitly notes CEST). Finish ~14:00 CEST. Distance 95.1km confirmed by all sources. CLOCK CHANGE: Spain switched to CEST (UTC+2) this morning, so 11:50 CEST = 09:50 UTC (same absolute time as 10:50 CET previously referenced in pre-clock-change previews). GC after Stage 6: 1. Vingegaard (VLB) 2. Martinez (TBV) ~+1:22 3. Lipowitz (RBH) ~+1:30 4. Paret-Peintre (SQS) 5. Evenepoel (RBH) 6. Gall (DCT) ~+3:17 — Vingegaard won back-to-back summit finishes (Coll de Pal, Queralt). Tom Pidcock did not start Stage 6 after crashing into a ravine on Stage 5's descent. Stage 7 is the final stage; GC is effectively decided. Montjuïc circuit will also feature in the 2026 Tour de France Grand Départ."
-      }
-    },
-    {
-      "id": "coppi-bartali-2026-stage-5",
-      "name": "Settimana Internazionale Coppi e Bartali – Stage 5 (Final)",
-      "date": "2026-03-29",
-      "status": "upcoming",
-      "edition": "41st",
-      "category": "2.1",
-      "gender": "men",
-      "race_type": "stage",
-      "stage_number": 5,
-      "stage_race_name": "Settimana Internazionale Coppi e Bartali",
-      "country": "IT",
-      "country_flag": "🇮🇹",
-      "distance_km": 165.5,
-      "terrain": ["Climbing", "Puncheur"],
-      "start_town": "Cormons",
-      "finish_town": "Gemona del Friuli",
-      "finish_type": "Uphill finish",
-      "start_time_local": "11:40 CEST",
-      "start_time_utc": "09:40",
-      "finish_time_local": "15:30 CEST",
-      "description": "The queen and final stage of the 41st Coppi e Bartali crosses Friuli-Venezia Giulia from the Collio wine country to the Prealps — the most mountainous day of the race (2,353m climbing, profile score 160) with two ascents of Monte Stella (approx. 4km @ 10%) before the uphill finish in Gemona del Friuli; this is where the overall winner will be decided.",
-      "favourite_riders": [
-        "Axel Laurance",
-        "Andrew August",
-        "Alessandro Covi",
-        "Maximilian Schachmann",
-        "Mauro Schmid"
-      ],
-      "pcs_url": "https://www.procyclingstats.com/race/settimana-internazionale-coppi-e-bartali/2026/stage-5",
-      "official_site": "https://www.tuttobiciweb.it/article/2026/03/19/1773910980/cycling-coppi-and-bartali-stage-races-cycling-calendar-northern-italy",
-      "broadcasts": [
-        {
-          "region": "🇮🇹 Italy",
-          "region_code": "IT",
-          "platform": "RaiSport HD (highlights)",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "15:30",
-          "stream_url": "https://www.raiplay.it",
-          "notes": "No live TV. Highlights on RaiSport HD at 17:30 CEST (15:30 UTC). Full replay also at 21:30 CEST (19:30 UTC) per tuttobiciweb schedule.",
-          "source_url": "https://www.tuttobiciweb.it/article/2026/03/24/1774371419/coppiebartali-cycling-stage-races-ineos-grenadiers-jayco-alula"
-        },
-        {
-          "region": "🌐 Global",
-          "region_code": "WW",
-          "platform": "Lega Ciclismo Professionistico (YouTube)",
-          "free": true,
-          "geo_restricted": false,
-          "start_time_gmt": "09:40",
-          "stream_url": "https://www.youtube.com/@LegaCiclismo",
-          "notes": "Free live stream from race start. Navigate to channel on race day — specific live video URL only published shortly before race.",
-          "source_url": "https://www.tuttobiciweb.it/article/2026/03/24/1774371419/coppiebartali-cycling-stage-races-ineos-grenadiers-jayco-alula"
-        }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "medium",
-        "notes": "Start time 11:40 CEST estimated based on pattern from earlier stages (Stages 1, 3, 4 all started 11:40–11:42 local). Italy also switched to CEST today (UTC+2) so 11:40 CEST = 09:40 UTC. Distance 165.5km and date March 29 confirmed by PCS stage profiles and all Italian sources. Cyclingnews stages page continues to show March 28 for Stage 5 — established one-day offset error; all Italian primary sources confirm March 29. Tuttobiciweb schedule lists highlights at 5:30 PM (CEST) = 15:30 UTC. GC leader entering Stage 5 is Axel Laurance (INEOS Grenadiers, Stage 1 winner). Full GC standings not confirmed but Laurance was confirmed GC leader by PCS LiveStats. The queen stage profile score (160) is the highest of the week and will decide the overall winner."
-      }
-    }
-  ],
+  "generated_at": "2026-03-31T08:00:00Z",
+  "date": "2026-03-31",
+  "races": [],
   "validation": {
-    "status": "warnings",
+    "status": "clean",
     "issues": [
-      "DAYLIGHT SAVING TIME IN EFFECT: All European clocks (Spain, Belgium, Italy, UK) advanced by 1 hour this morning. All local times in this file are CEST (UTC+2) for continental Europe and BST (UTC+1) for the UK. UTC times already reflect this change.",
-      "In Flanders Fields Men — Mads Pedersen confirmed DNS (illness, announced Saturday). This removes the defending champion and race record holder (3 wins) from contention.",
-      "In Flanders Fields Men — US broadcaster is FloBikes (Flanders Classic), NOT HBO Max. Multiple reliable sources confirm this including Cyclingnews US streaming guide. FloBikes US coverage starts 7:45 AM EDT (11:45 UTC), approximately 2h45m after race start.",
-      "In Flanders Fields Men — UK TV coverage on TNT Sports 3 only from 13:15 BST (12:15 UTC), over 3 hours into the 240km race. UK fans wanting coverage from race start must use HBO Max streaming.",
-      "Volta Stage 7 start time: pre-clock-change sources quoted '10:50 CET'; PCS and cyclingstage confirm '11:50 CEST' — these are the same absolute time (09:50 UTC). Using 11:50 CEST / 09:50 UTC.",
-      "Coppi e Bartali Stage 5 start time: estimated at 11:40 CEST / 09:40 UTC based on pattern from earlier stages. Not yet confirmed by PCS LiveStats at file generation time.",
-      "Volta Stage 6 result recap: Vingegaard wins 2nd consecutive summit finish (Queralt), 2.5km from top attack. Stage result: 1. Vingegaard 2. Martinez +10s 3. Lipowitz. GC: Vingegaard extends lead to ~1:22 over Martinez. Gall fell to 6th (~+3:17) after being dropped. Evenepoel took domestique role for Lipowitz. Tom Pidcock DNS Stage 6 after Stage 5 ravine crash.",
-      "E3 Saxo Classic result recap (yesterday): Van der Poel wins hat-trick (3rd consecutive) via 42km solo, nearly caught by Florian Vermeersch's 4-man chase in final metres; Vermeersch hesitated and gave the race away. Podium: 1. Van der Poel 2. Per Strand Hagenes 3. Florian Vermeersch."
+      "No UCI 1.1 or above races found on March 31, 2026. This is a confirmed rest/transfer day between In Flanders Fields (Sunday 29 March) and Dwars door Vlaanderen (Wednesday 1 April). Both the men's and women's WorldTour calendars are empty today. The G.P. Emilia 1.1 (Italy) was originally scheduled around this period but was cancelled for 2026. The next races are Dwars door Vlaanderen men and women on April 1."
+    ]
+  },
+  "context": {
+    "recent_results": [
+      {
+        "date": "2026-03-29",
+        "race": "In Flanders Fields – From Middelkerke to Wevelgem (Men)",
+        "category": "WT",
+        "edition": "78th",
+        "winner": "Jasper Philipsen (Alpecin-Premier Tech)",
+        "podium": [
+          "1. Jasper Philipsen (BEL/Alpecin-Premier Tech)",
+          "2. Tobias Lund Andresen (DEN/Decathlon CMA CGM)",
+          "3. Christophe Laporte (FRA/Visma-Lease a Bike)"
+        ],
+        "notes": "Van der Poel and Van Aert escaped with 36km to go but were reeled in at 1km by a counter-attack; Philipsen timed his sprint perfectly in the bunch finish. Mads Pedersen was DNS (illness)."
+      },
+      {
+        "date": "2026-03-29",
+        "race": "In Flanders Fields – In Wevelgem (Women)",
+        "category": "WWT",
+        "edition": "13th",
+        "winner": "Lorena Wiebes (SD Worx-Protime)",
+        "podium": [
+          "1. Lorena Wiebes (NED/SD Worx-Protime)",
+          "2. Fleur Moors (BEL/Lidl-Trek)",
+          "3. Karlijn Swinkels (NED/Jayco AlUla)"
+        ],
+        "notes": "Wiebes wins her third consecutive edition (record) in a sprint of five after the Kemmelberg made the final selection."
+      },
+      {
+        "date": "2026-03-29",
+        "race": "Volta Ciclista a Catalunya – Stage 7 (Final)",
+        "category": "WT",
+        "winner": "Jonas Vingegaard (overall)"
+      },
+      {
+        "date": "2026-03-29",
+        "race": "Settimana Internazionale Coppi e Bartali – Stage 5 (Final)",
+        "category": "2.1",
+        "winner": "TBC — Axel Laurance (INEOS Grenadiers) led overall entering final stage"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2026-04-01",
+        "race": "Dwars door Vlaanderen (Men)",
+        "category": "WT",
+        "distance_km": 184.6,
+        "start": "Roeselare",
+        "finish": "Waregem",
+        "notes": "Final dress rehearsal before Tour of Flanders. Van Aert, Pedersen (recovered from illness), Philipsen, Ganna headline."
+      },
+      {
+        "date": "2026-04-01",
+        "race": "Dwars door Vlaanderen (Women)",
+        "category": "WWT",
+        "start": "Roeselare",
+        "finish": "Waregem",
+        "notes": "Lotte Kopecky, Marianne Vos, Lorena Wiebes, Elisa Longo Borghini among top contenders."
+      },
+      {
+        "date": "2026-04-05",
+        "race": "Tour of Flanders (Men)",
+        "category": "WT (Monument)"
+      },
+      {
+        "date": "2026-04-05",
+        "race": "Tour of Flanders (Women)",
+        "category": "WWT (Monument)"
+      }
     ]
   }
 }
