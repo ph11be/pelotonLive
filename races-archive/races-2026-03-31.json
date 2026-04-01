@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-03-31T09:00:00Z",
+  "date": "2026-03-31",
+  "races": [
+    {
+      "id": "paris-camembert-2026",
+      "name": "Paris-Camembert",
+      "date": "2026-03-31",
+      "status": "upcoming",
+      "edition": "87th",
+      "category": "1.1",
+      "gender": "men",
+      "race_type": "one-day",
+      "stage_number": null,
+      "stage_race_name": null,
+      "country": "FR",
+      "country_flag": "🇫🇷",
+      "distance_km": 198.0,
+      "terrain": ["Puncheur", "Hilly"],
+      "start_town": "Magnanville",
+      "finish_town": "Livarot-Pays-d'Auge",
+      "finish_type": "Uphill puncheur or sprint",
+      "start_time_local": "11:05 CEST",
+      "start_time_utc": "09:05",
+      "finish_time_local": "15:30 CEST",
+      "description": "The 87th edition of the Norman classic runs 198km from Magnanville (Yvelines) to Livarot-Pays-d'Auge (Calvados) through the Pays d'Auge. The first 130km are flat and uneventful; the race explodes in the final 60km with 7 punchy climbs including the Mur des Champeaux and the Butte des Fondits, whose final passage comes just 9km from the finish line. Only 2 WT teams in the field (Decathlon CMA CGM, Groupama-FDJ United) — a classic opportunity for ProTeam and Continental riders. Defending champion: Lander Loockx (Unibet Rose Rockets, 2025).",
+      "favourite_riders": [
+        "Clément Venturini",
+        "Ewen Costiou",
+        "Bryan Coquard",
+        "Alexandre Delettre",
+        "Giovanni Lonardi"
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/paris-camembert/2026",
+      "official_site": "https://paris-camembert.fr",
+      "broadcasts": [
+        {
+          "region": "🇫🇷 France",
+          "region_code": "FR",
+          "platform": "HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": null,
+          "stream_url": "https://www.hbomax.com",
+          "notes": "Broadcast on HBO Max France confirmed; exact start time of coverage not published. Race starts 11:05 CEST / 09:05 UTC.",
+          "source_url": "https://lemagducyclisme.fr/2026/03/28/paris-camembert-2026-chaine-tv-heure-et-favoris/"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "low",
+        "notes": "Start time 11:05 CEST / 09:05 UTC confirmed by DirectVelo (fictif 10:55). Distance 198km, route Magnanville–Livarot-Pays-d'Auge confirmed by official organiser GPSEO and PCS. 87th edition confirmed. 110 riders, 16 teams. Only WT teams: Decathlon CMA CGM and Groupama-FDJ United. Venturini won La Roue Tourangelle on Sunday. Broadcast: HBO Max France is cited by Le Mag du Cyclisme but no broadcast time confirmed — this is the only known broadcaster. No UK, US, or international broadcaster identified. Result not yet available at file generation time — race finishing approximately 15:30 CEST."
+      }
+    }
+  ],
+  "validation": {
+    "status": "warnings",
+    "issues": [
+      "Paris-Camembert was omitted from the initial March 31 file — apologies for the error. It is a 1.1 UCI Europe Tour race confirmed for today.",
+      "Result not yet available at generation time (race starts 09:05 UTC, expected finish ~13:30 UTC).",
+      "HBO Max France is the only identified broadcaster; no broadcast time confirmed. No international streaming options identified for this race.",
+      "G.P. Emilia (1.1, Italy) was cancelled for 2026 — confirmed by PCS. Not to be confused with the Giro dell'Emilia (October).",
+      "In Flanders Fields Men recap (March 29): Jasper Philipsen wins sprint after Van der Poel/Van Aert 2-up caught at 1km. Podium: 1. Philipsen 2. Tobias Lund Andresen 3. Christophe Laporte.",
+      "In Flanders Fields Women recap (March 29): Lorena Wiebes wins record 3rd consecutive edition in sprint of 5 after Kemmelberg. Podium: 1. Wiebes 2. Fleur Moors 3. Karlijn Swinkels."
+    ]
+  }
+}
