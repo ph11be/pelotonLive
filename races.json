@@ -1,351 +1,146 @@
 {
-  "generated_at": "2026-04-01T09:00:00Z",
-  "date": "2026-04-01",
+  "generated_at": "2026-04-03T09:30:00Z",
+  "date": "2026-04-03",
   "calendar_source": "https://www.procyclingstats.com/calendar/uci/today",
   "races": [
     {
-      "id": "dwars-door-vlaanderen-men-2026",
-      "name": "Dwars door Vlaanderen – A travers la Flandre",
-      "date": "2026-04-01",
+      "id": "classic-adelie-de-vitre-2026",
+      "name": "Classic Velox Adélie de Vitré",
+      "date": "2026-04-03",
       "status": "upcoming",
-      "edition": "80th",
-      "category": "WT",
+      "edition": "30th",
+      "category": "1.1",
       "gender": "men",
       "race_type": "one-day",
       "stage_number": null,
       "stage_race_name": null,
-      "country": "BE",
-      "country_flag": "🇧🇪",
-      "distance_km": 184.6,
-      "terrain": ["Cobbles", "Puncheur"],
-      "start_town": "Roeselare",
-      "finish_town": "Waregem",
-      "finish_type": "Sprint or small group",
-      "start_time_local": "11:55 CEST",
-      "start_time_utc": "09:55",
-      "finish_time_local": "16:05 CEST",
-      "description": "The 80th edition of Dwars door Vlaanderen — the penultimate stop of Flemish Holy Week and final dress rehearsal before Sunday's Tour of Flanders — takes a modified 184.6km route from Roeselare to Waregem with 12 climbs and 7 cobbled sectors. Two new additions for 2026: the Hellestraat (returned after a year's absence) and the Onderbossenaarstraat (a flank of the Taaienberg, max 10%, 77km from finish). The Kanarieberg has been removed for safety. The decisive phase centres on the double loop through the Flemish Ardennes with repeated passages of Berg Ten Houte, Côte de Trieu (Knokteberg), Hotond and Mariaborrestraat cobbles, before the Nokereberg x2 / Herlegemstraat x2 finale into Waregem. Defending champion Neilson Powless is out injured. Mathieu van der Poel is not racing. Visma-Lease a Bike (Van Aert, Laporte, Brennan, Hagenes) vs Alpecin (Philipsen, fresh from Gent-Wevelgem) is the central narrative.",
+      "country": "FR",
+      "country_flag": "🇫🇷",
+      "distance_km": 174.2,
+      "terrain": ["Puncheur"],
+      "start_town": "Vitré",
+      "finish_town": "Vitré",
+      "finish_type": "Sprint or reduced group",
+      "start_time_local": "12:15 CEST",
+      "start_time_utc": "10:15",
+      "finish_time_local": "16:10 CEST",
+      "description": "The 30th edition of the Breton classic, and 4th round of the FDJ United Series / Coupe de France 2026. 174.2km in circuits entirely around Vitré: 5 laps of the 21.1km outer circuit then 8 laps of the 8.9km finishing circuit, making for a relentlessly punchy day on rolling Ille-et-Vilaine roads. The Côte de la Chênelière (880m @ 4%) features with ~6km to go on the final laps and acts as the springboard for late attacks. 19 teams: 3 WorldTour (Decathlon CMA CGM, Groupama-FDJ United, Lotto-Intermarché), 10 ProTeam, 5 Continental. Defending champion: Stian Edvardsen-Fredheim (Uno-X Mobility, 2025).",
       "favourite_riders": [
-        "Wout van Aert",
-        "Jasper Philipsen",
-        "Mads Pedersen",
-        "Christophe Laporte",
-        "Arnaud De Lie"
+        "Emilien Jeannière",
+        "Milan Menten",
+        "Clément Venturini",
+        "Paul Penhoët",
+        "Pierre Gautherat"
       ],
-      "pcs_url": "https://www.procyclingstats.com/race/dwars-door-vlaanderen/2026",
-      "official_site": "https://www.ddvl.eu/en/race/men-elite/race-info",
+      "pcs_url": "https://www.procyclingstats.com/race/route-adelie-de-vitre/2026",
+      "official_site": "https://www.classicveloxadeliedevitre.com",
       "broadcasts": [
         {
-          "region": "🇧🇪 Belgium",
-          "region_code": "BE",
-          "platform": "Sporza / VRT 1 / VRT Max",
-          "free": true,
+          "region": "🇫🇷 France",
+          "region_code": "FR",
+          "platform": "HBO Max",
+          "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": "https://www.sporza.be",
-          "notes": "Free-to-air on Sporza / VRT 1 from race start.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-dwars-door-vlaanderen-2026-free/"
-        },
-        {
-          "region": "🇳🇱 Netherlands",
-          "region_code": "NL",
-          "platform": "NOS / NPO Start",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": "https://www.npostart.nl",
-          "notes": "Free-to-air on NOS.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-dwars-door-vlaanderen-2026-free/"
+          "start_time_gmt": "12:00",
+          "stream_url": "https://www.hbomax.com",
+          "notes": "HBO Max France coverage from 14:00 CEST (12:00 UTC).",
+          "source_url": "https://dicodusport.fr/blog/classic-velox-adelie-de-vitre-2026-a-quelle-heure-et-sur-quelle-chaine-tv-suivre-la-route-adelie-en-direct/"
         },
         {
           "region": "🇫🇷 France",
           "region_code": "FR",
-          "platform": "L'Équipe TV / TF1+ / Molotov",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": "https://www.lequipe.fr/tv/",
-          "notes": "Free on L'Équipe TV (also on TF1+ and Molotov streaming).",
-          "source_url": "https://www.cyclingweekly.com/racing/how-to-watch-dwars-door-vlaanderen-2025"
-        },
-        {
-          "region": "🇬🇧 UK & Ireland",
-          "region_code": "GB",
-          "platform": "TNT Sports 1 / HBO Max",
+          "platform": "NOVO 19 / Eurosport 2",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "11:45",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Race starts 10:55 BST. UK TV coverage on TNT Sports 1 and HBO Max streaming from 12:45 BST (11:45 UTC) — approx 2 hours into the race. For full race from the start, use HBO Max streaming. Plans from £25.99/month (Saver).",
-          "source_url": "https://www.cyclist.co.uk/in-depth/dwars-door-vlaanderen"
-        },
-        {
-          "region": "🇺🇸 USA",
-          "region_code": "US",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes carries Flanders Classics in the US. Race starts 05:55 EDT. Monthly $39.99 or annual $155.88.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-dwars-door-vlaanderen-2026-free/"
-        },
-        {
-          "region": "🇨🇦 Canada",
-          "region_code": "CA",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes Canada. CAN$39.99/month.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-dwars-door-vlaanderen-2026-free/"
-        },
-        {
-          "region": "🇦🇺 Australia",
-          "region_code": "AU",
-          "platform": "FloBikes / SBS On Demand",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes confirmed. SBS also cited by some sources. FloBikes AU from AU$12.99/month.",
-          "source_url": "https://veloracycling.com/races/dwars-door-vlaanderen-a-travers-la-flandre-2026/how-to-watch"
+          "start_time_gmt": "12:30",
+          "stream_url": null,
+          "notes": "NOVO 19 and Eurosport 2 from 14:30 CEST (12:30 UTC). NOVO 19 is the official TV home of the FDJ United Series / Coupe de France.",
+          "source_url": "https://lemagducyclisme.fr/2026/03/26/classic-velox-adelie-de-vitre-2026-chaine-tv-heure-et-favoris/"
         },
         {
           "region": "🌍 Europe (pan-European)",
           "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
+          "platform": "Eurosport 2",
           "free": false,
           "geo_restricted": false,
-          "start_time_gmt": "09:55",
+          "start_time_gmt": "12:30",
           "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport 1 from 13:45 CEST (11:45 UTC). Full coverage via HBO Max / Discovery+ depending on country.",
-          "source_url": "https://www.idlprocycling.com/cycling/dwars-door-vlaanderen-2026-visma-lease-a-bike-head-to-final-tour-of-flanders-dress-rehearsal-at-full-strength"
-        },
-        {
-          "region": "🌎 Latin America",
-          "region_code": "LA",
-          "platform": "ESPN",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": null,
-          "notes": "ESPN carries Dwars door Vlaanderen across Latin America.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/dwars-door-vlaanderen"
-        },
-        {
-          "region": "🌏 Asia",
-          "region_code": "AS",
-          "platform": "MAX / Discovery+ / Eurosport 2 International",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": null,
-          "notes": "Per race organisers and Domestique broadcast guide.",
-          "source_url": "https://veloracycling.com/races/dwars-door-vlaanderen-a-travers-la-flandre-2026/how-to-watch"
-        },
-        {
-          "region": "🌍 Africa",
-          "region_code": "AF",
-          "platform": "SuperSport",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:55",
-          "stream_url": null,
-          "notes": "SuperSport carries the race across Africa.",
-          "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-dwars-door-vlaanderen-2926-streaming-and-tv-by-country/"
+          "notes": "Eurosport 2 across Europe from 14:30 CEST / 12:30 UTC.",
+          "source_url": "https://lemagducyclisme.fr/2026/03/26/classic-velox-adelie-de-vitre-2026-chaine-tv-heure-et-favoris/"
         }
       ],
       "data_confidence": {
         "race_details": "high",
-        "broadcasts": "high",
-        "notes": "Official start 11:55 CEST / 09:55 UTC per Flanders Classics race info page (ddvl.eu). Finish ~16:05 CEST per official site. Distance 184.6km confirmed by multiple sources. 80th edition confirmed (Cyclingnews). 175 riders, 25 teams (18 WT + 7 ProTeams: Cofidis, Pinarello-Q36.5, Tudor, Burgos-Burpellet-BH, TotalEnergies, Flanders-Baloise, Unibet Rose Rockets). Domestique cross-checks start time at 12:09 CET — this may refer to actual race departure (i.e. fictif start ~11:55, real start ~12:09); using 11:55 per official. UK TV starts 12:45 BST (11:45 UTC) per Cyclist; HBO Max streaming available from race start. Lorena Wiebes NOT racing today (confirmed by IDL preview). Mathieu van der Poel NOT racing (confirmed by Domestique). Neilson Powless (defending champion) is out injured (confirmed by Cyclist/Velora). Note: France broadcast via L'Équipe TV confirmed by CyclingWeekly broadcast guide."
-      }
-    },
-    {
-      "id": "dwars-door-vlaanderen-women-2026",
-      "name": "Dwars door Vlaanderen – A travers la Flandre (Women)",
-      "date": "2026-04-01",
-      "status": "upcoming",
-      "edition": "14th",
-      "category": "WWT",
-      "gender": "women",
-      "race_type": "one-day",
-      "stage_number": null,
-      "stage_race_name": null,
-      "country": "BE",
-      "country_flag": "🇧🇪",
-      "distance_km": 128.8,
-      "terrain": ["Cobbles", "Puncheur"],
-      "start_town": "Waregem",
-      "finish_town": "Waregem",
-      "finish_type": "Sprint or small group",
-      "start_time_local": "14:10 CEST",
-      "start_time_utc": "12:10",
-      "finish_time_local": "17:25 CEST",
-      "description": "The 14th edition of the women's Dwars door Vlaanderen makes its debut as a Women's WorldTour race — upgraded from the UCI ProSeries for 2026. A 128.8km loop from the HippoLoggia site in Waregem with 6 cobbled sectors and 8 climbs including the new Hellestraat; the finale mirrors the men's race with two ascents of Nokereberg and two passages of Herlegemstraat before the finish on Verbindingsweg. Defending champion Elisa Longo Borghini (2025 solo win, 26km out) returns. Lorena Wiebes is NOT starting today.",
-      "favourite_riders": [
-        "Elisa Longo Borghini",
-        "Demi Vollering",
-        "Lotte Kopecky",
-        "Puck Pieterse",
-        "Shirin van Anrooij"
-      ],
-      "pcs_url": "https://www.procyclingstats.com/race/dwars-door-vlaanderen-women/2026",
-      "official_site": "https://www.ddvl.eu/en/race/women-elite/race-info",
-      "broadcasts": [
-        {
-          "region": "🇧🇪 Belgium",
-          "region_code": "BE",
-          "platform": "Sporza / VRT Max",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "12:10",
-          "stream_url": "https://www.sporza.be",
-          "notes": "Free-to-air on Sporza / VRT.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/dwars-door-vlaanderen"
-        },
-        {
-          "region": "🇳🇱 Netherlands",
-          "region_code": "NL",
-          "platform": "NOS / NPO Start",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "12:10",
-          "stream_url": "https://www.npostart.nl",
-          "notes": "Free-to-air on NOS.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-dwars-door-vlaanderen-2026-free/"
-        },
-        {
-          "region": "🇬🇧 UK & Ireland",
-          "region_code": "GB",
-          "platform": "TNT Sports / HBO Max",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "14:15",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Race starts 13:10 BST. UK TV coverage on TNT Sports and HBO Max from 15:15 BST (14:15 UTC). CyclingWeekly notes women's race is only available on HBO Max for streaming (TNT Sports 4 for TV). Plans from £25.99/month.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/dwars-door-vlaanderen"
-        },
-        {
-          "region": "🇺🇸 USA",
-          "region_code": "US",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "12:10",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes US. Race starts 08:10 EDT. Monthly $39.99.",
-          "source_url": "https://www.cyclingweekly.com/racing/how-to-watch-dwars-door-vlaanderen-2025"
-        },
-        {
-          "region": "🇨🇦 Canada",
-          "region_code": "CA",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "12:10",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes Canada. CAN$39.99/month.",
-          "source_url": "https://veloracycling.com/races/dwars-door-vlaanderen-a-travers-la-flandre-2026/how-to-watch"
-        },
-        {
-          "region": "🇦🇺 Australia",
-          "region_code": "AU",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "12:10",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes Australia. AU$12.99/month.",
-          "source_url": "https://veloracycling.com/races/dwars-door-vlaanderen-a-travers-la-flandre-2026/how-to-watch"
-        },
-        {
-          "region": "🌍 Europe (pan-European)",
-          "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
-          "free": false,
-          "geo_restricted": false,
-          "start_time_gmt": "12:10",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport / HBO Max / Discovery+ depending on country.",
-          "source_url": "https://veloracycling.com/races/dwars-door-vlaanderen-a-travers-la-flandre-2026/how-to-watch"
-        }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "high",
-        "notes": "Start time 14:10 CEST / 12:10 UTC confirmed by official Flanders Classics site (ddvl.eu). Finish ~17:25 CEST confirmed by official site and ProCyclingUK. Distance 128.8km confirmed (Cyclist says 128.8km; Cyclingnews/Velora say 128.9km — minor variance, using 128.8km per official). 14th edition and first year as WWT race (upgraded from ProSeries for 2026 — confirmed by UCI press release). Lorena Wiebes confirmed NOT racing today per IDL preview article. Elisa Longo Borghini defending champion (won solo 2025 with 26km solo). UK: Cyclist schedules show women's TV from 15:15 BST, but race starts 13:10 BST — HBO Max streaming available from 12:10 UTC. CyclingWeekly notes the women's race is 'only available on HBO Max' for streaming, not TNT Sports TV per se (TNT Sports 4 for TV)."
+        "broadcasts": "medium",
+        "notes": "Official start 12:15 CEST / 10:15 UTC confirmed by DirectVelo (fictif 12:10, réel 12:15) and PCS LiveStats feed. Distance: DirectVelo and Le Mag du Cyclisme confirm 174.2km; TotalVelo and 3bikes cite 174.5km — using 174.2km per official French sources and DirectVelo. 30th edition confirmed by DirectVelo. Format: 5 × 21.1km + 8 × 8.9km = 175.7km total circuits (slight variance likely from neutral/transfer km). 19 teams confirmed by Le Mag du Cyclisme (3 WT + 10 Pro + 5 CT). Broadcast: HBO Max France from 14:00 CEST; NOVO 19 / Eurosport 2 from 14:30 CEST — two separate French sources confirm. No UK or North American broadcaster identified for this 1.1 race. Favourites: Jeannière (TotalEnergies, podium 2025), Menten (Lotto-Intermarché), Venturini (Unibet Rose Rockets, fresh from La Roue Tourangelle win), Penhoët (Groupama-FDJ, podium 2025), Gautherat (Decathlon, won Paris-Camembert Tuesday)."
       }
     }
   ],
+  "calendar_notes": {
+    "other_races_today": [
+      {
+        "name": "Grand Prix Alanya",
+        "category": "1.2",
+        "gender": "men",
+        "country": "TR",
+        "note": "Excluded — 1.2 level, below the 1.1 threshold requested."
+      }
+    ],
+    "no_womens_11_today": "No women's 1.1 or WWT races on April 3. The next significant women's race is Tour of Flanders Women (WWT Monument, April 5)."
+  },
   "validation": {
     "status": "clean",
     "issues": [
-      "No other races at 1.1/2.1 or above found on April 1 beyond Dwars door Vlaanderen men + women. PCS '/calendar/uci/today' returns 403 to direct fetch but search confirms this is the complete roster. The UCI/PCS article explicitly confirmed: 'on April 1 (no joke), the only race (both men and women) making its debut on the WorldTour is Dwars door Vlaanderen.'",
-      "Start time variance: Official Flanders Classics site shows 11:55 CEST for men; Domestique and tips.gg show 12:09 CET. This likely reflects the fictif/neutralised departure at 11:55 vs the actual start (flag drop) at approximately 12:09. Using 11:55 CEST / 09:55 UTC per official site.",
-      "Australia broadcast: Cyclingweekly.com weekly guide says SBS for Australia; Cyclingnews and Velora say FloBikes. Including FloBikes as primary; SBS unconfirmed for Dwars (unlike In Flanders Fields where SBS rights were confirmed).",
-      "UK men's race: Full coverage available via HBO Max streaming from race start (10:55 BST). TNT Sports 1 TV window is 12:45–15:15 BST — starting approximately 2 hours into the race.",
-      "UK women's race: TV on TNT Sports (channel unspecified in primary sources); HBO Max streaming available from race start (13:10 BST). TV window 15:15–16:45 BST per Cyclist."
+      "Distance minor variance: 174.2km (DirectVelo, Le Mag) vs 174.5km (TotalVelo, 3bikes). Using 174.2km — DirectVelo has consistently been accurate on French race distances in this session.",
+      "No UK/international broadcaster confirmed for this race beyond Eurosport 2 / HBO Max France. The FDJ United Series is primarily a French domestic series and international coverage is limited.",
+      "Grand Prix Alanya (Turkey, 1.2) is also on today but below the 1.1 threshold requested and excluded.",
+      "Race has not yet started at file generation time (10:15 UTC start)."
     ]
   },
   "context": {
-    "yesterday_result": {
-      "race": "Paris-Camembert 2026",
-      "date": "2026-03-31",
-      "category": "1.1",
-      "winner": "Pierre Gautherat (Decathlon CMA CGM)",
-      "podium": [
-        "1. Pierre Gautherat (FRA / Decathlon CMA CGM)",
-        "2. Alexandre Delettre (FRA / TotalEnergies)",
-        "3. Maxime Vezie (FRA / CIC Pro Cycling Academy)"
-      ],
-      "notes": "Gautherat escaped a six-man French breakaway in the final kilometre to take his first win of 2026. All top-3 were French. The group broke clear ~30km from the finish."
-    },
     "recent_results": [
       {
-        "date": "2026-03-29",
-        "race": "In Flanders Fields – From Middelkerke to Wevelgem (Men, WT)",
-        "winner": "Jasper Philipsen (Alpecin-Premier Tech)",
-        "podium": ["1. Philipsen", "2. Tobias Lund Andresen", "3. Christophe Laporte"],
-        "notes": "Van der Poel + Van Aert 2-up caught at 1km by counter-attack; Philipsen timed sprint perfectly."
+        "date": "2026-04-01",
+        "race": "Dwars door Vlaanderen – Men (WT)",
+        "winner": "Filippo Ganna (INEOS Grenadiers)",
+        "podium": ["1. Filippo Ganna", "2. Wout van Aert", "3. Søren Wærenskjold"],
+        "notes": "Fastest-ever edition (48.5kph avg). Ganna overhauled solo Van Aert with ~100m to go after multiple mechanicals earlier in the race. Heartbreak again for Van Aert."
       },
       {
-        "date": "2026-03-29",
-        "race": "In Flanders Fields – In Wevelgem (Women, WWT)",
-        "winner": "Lorena Wiebes (SD Worx-Protime)",
-        "podium": ["1. Wiebes", "2. Fleur Moors", "3. Karlijn Swinkels"],
-        "notes": "Record 3rd consecutive win (outright record holder). Sprint of 5 after Kemmelberg."
+        "date": "2026-04-01",
+        "race": "Dwars door Vlaanderen – Women (WWT, first year)",
+        "winner": "Marlen Reusser (Movistar)",
+        "podium": ["1. Marlen Reusser", "2. Demi Vollering", "3. Lieke Nooijen"],
+        "notes": "Photo finish. Reusser's first race back after UAE Tour injury. Reusser attacked at 24km, Vollering bridged. Nooijen nearly stole it in the final 200m but the duo responded."
       },
       {
-        "date": "2026-03-29",
-        "race": "Volta Ciclista a Catalunya (Overall, WT)",
-        "winner": "Jonas Vingegaard (Visma-Lease a Bike)",
-        "notes": "Stage 7 won by Brady Gilmore (surprise sprint in Barcelona Montjuïc circuit). Vingegaard won 3 mountain stages and dominated overall."
-      },
-      {
-        "date": "2026-03-29",
-        "race": "Settimana Internazionale Coppi e Bartali (Overall, 2.1)",
-        "winner": "Mauro Schmid (Pinarello-Q36.5)",
-        "notes": "Schmid eclipsed Axel Laurance (who led overall entering final stage) in a two-up sprint on the final stage to Gemona del Friuli."
+        "date": "2026-03-31",
+        "race": "Paris-Camembert (1.1)",
+        "winner": "Pierre Gautherat (Decathlon CMA CGM)",
+        "podium": ["1. Pierre Gautherat", "2. Alexandre Delettre", "3. Maxime Vezie"],
+        "notes": "All-French podium. Six-man breakaway held on; Gautherat attacked in final kilometre."
       }
     ],
     "upcoming": [
       {
         "date": "2026-04-04",
-        "race": "GP Miguel Indurain (1.Pro, Spain)",
-        "notes": "Navarra hills classic, key pre-Ardennes warmup. UK: HBO Max; US/CA: FloBikes."
+        "race": "Gran Premio Miguel Indurain (1.Pro, Spain)",
+        "notes": "Navarra hills, last 1.Pro before Flanders weekend. UK: HBO Max; US/CA: FloBikes."
+      },
+      {
+        "date": "2026-04-04",
+        "race": "NXT Classic (1.1, men + women)",
+        "notes": "1.1 race in Belgium. Both men's and women's editions."
       },
       {
         "date": "2026-04-05",
-        "race": "Tour of Flanders / Ronde van Vlaanderen (WT Monument)",
-        "notes": "The biggest race of the Flemish spring. UK: HBO Max/TNT; US/CA: FloBikes; AU: SBS."
+        "race": "Tour of Flanders / Ronde van Vlaanderen (1.UWT Monument)",
+        "notes": "The biggest race of the cobbled spring. Pogačar vs Van der Poel. Evenepoel confirmed shock debut. UK: HBO Max/TNT; US/CA: FloBikes; AU: SBS."
       },
       {
         "date": "2026-04-05",
-        "race": "Tour of Flanders Women (WWT Monument)",
-        "notes": "Same day as men's race. Kopecky, Vollering, Longo Borghini headline."
+        "race": "Tour of Flanders Women (1.WWT Monument)",
+        "notes": "Kopecky, Reusser, Vollering, Wiebes, Pieterse headline. UK: HBO Max; US/CA: FloBikes; AU: SBS."
       }
     ]
   }
