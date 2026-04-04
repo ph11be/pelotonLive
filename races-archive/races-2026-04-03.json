@@ -1,0 +1,147 @@
+{
+  "generated_at": "2026-04-03T09:30:00Z",
+  "date": "2026-04-03",
+  "calendar_source": "https://www.procyclingstats.com/calendar/uci/today",
+  "races": [
+    {
+      "id": "classic-adelie-de-vitre-2026",
+      "name": "Classic Velox Adélie de Vitré",
+      "date": "2026-04-03",
+      "status": "upcoming",
+      "edition": "30th",
+      "category": "1.1",
+      "gender": "men",
+      "race_type": "one-day",
+      "stage_number": null,
+      "stage_race_name": null,
+      "country": "FR",
+      "country_flag": "🇫🇷",
+      "distance_km": 174.2,
+      "terrain": ["Puncheur"],
+      "start_town": "Vitré",
+      "finish_town": "Vitré",
+      "finish_type": "Sprint or reduced group",
+      "start_time_local": "12:15 CEST",
+      "start_time_utc": "10:15",
+      "finish_time_local": "16:10 CEST",
+      "description": "The 30th edition of the Breton classic, and 4th round of the FDJ United Series / Coupe de France 2026. 174.2km in circuits entirely around Vitré: 5 laps of the 21.1km outer circuit then 8 laps of the 8.9km finishing circuit, making for a relentlessly punchy day on rolling Ille-et-Vilaine roads. The Côte de la Chênelière (880m @ 4%) features with ~6km to go on the final laps and acts as the springboard for late attacks. 19 teams: 3 WorldTour (Decathlon CMA CGM, Groupama-FDJ United, Lotto-Intermarché), 10 ProTeam, 5 Continental. Defending champion: Stian Edvardsen-Fredheim (Uno-X Mobility, 2025).",
+      "favourite_riders": [
+        "Emilien Jeannière",
+        "Milan Menten",
+        "Clément Venturini",
+        "Paul Penhoët",
+        "Pierre Gautherat"
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/route-adelie-de-vitre/2026",
+      "official_site": "https://www.classicveloxadeliedevitre.com",
+      "broadcasts": [
+        {
+          "region": "🇫🇷 France",
+          "region_code": "FR",
+          "platform": "HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "12:00",
+          "stream_url": "https://www.hbomax.com",
+          "notes": "HBO Max France coverage from 14:00 CEST (12:00 UTC).",
+          "source_url": "https://dicodusport.fr/blog/classic-velox-adelie-de-vitre-2026-a-quelle-heure-et-sur-quelle-chaine-tv-suivre-la-route-adelie-en-direct/"
+        },
+        {
+          "region": "🇫🇷 France",
+          "region_code": "FR",
+          "platform": "NOVO 19 / Eurosport 2",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "12:30",
+          "stream_url": null,
+          "notes": "NOVO 19 and Eurosport 2 from 14:30 CEST (12:30 UTC). NOVO 19 is the official TV home of the FDJ United Series / Coupe de France.",
+          "source_url": "https://lemagducyclisme.fr/2026/03/26/classic-velox-adelie-de-vitre-2026-chaine-tv-heure-et-favoris/"
+        },
+        {
+          "region": "🌍 Europe (pan-European)",
+          "region_code": "EU",
+          "platform": "Eurosport 2",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_gmt": "12:30",
+          "stream_url": "https://www.eurosport.com",
+          "notes": "Eurosport 2 across Europe from 14:30 CEST / 12:30 UTC.",
+          "source_url": "https://lemagducyclisme.fr/2026/03/26/classic-velox-adelie-de-vitre-2026-chaine-tv-heure-et-favoris/"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "medium",
+        "notes": "Official start 12:15 CEST / 10:15 UTC confirmed by DirectVelo (fictif 12:10, réel 12:15) and PCS LiveStats feed. Distance: DirectVelo and Le Mag du Cyclisme confirm 174.2km; TotalVelo and 3bikes cite 174.5km — using 174.2km per official French sources and DirectVelo. 30th edition confirmed by DirectVelo. Format: 5 × 21.1km + 8 × 8.9km = 175.7km total circuits (slight variance likely from neutral/transfer km). 19 teams confirmed by Le Mag du Cyclisme (3 WT + 10 Pro + 5 CT). Broadcast: HBO Max France from 14:00 CEST; NOVO 19 / Eurosport 2 from 14:30 CEST — two separate French sources confirm. No UK or North American broadcaster identified for this 1.1 race. Favourites: Jeannière (TotalEnergies, podium 2025), Menten (Lotto-Intermarché), Venturini (Unibet Rose Rockets, fresh from La Roue Tourangelle win), Penhoët (Groupama-FDJ, podium 2025), Gautherat (Decathlon, won Paris-Camembert Tuesday)."
+      }
+    }
+  ],
+  "calendar_notes": {
+    "other_races_today": [
+      {
+        "name": "Grand Prix Alanya",
+        "category": "1.2",
+        "gender": "men",
+        "country": "TR",
+        "note": "Excluded — 1.2 level, below the 1.1 threshold requested."
+      }
+    ],
+    "no_womens_11_today": "No women's 1.1 or WWT races on April 3. The next significant women's race is Tour of Flanders Women (WWT Monument, April 5)."
+  },
+  "validation": {
+    "status": "clean",
+    "issues": [
+      "Distance minor variance: 174.2km (DirectVelo, Le Mag) vs 174.5km (TotalVelo, 3bikes). Using 174.2km — DirectVelo has consistently been accurate on French race distances in this session.",
+      "No UK/international broadcaster confirmed for this race beyond Eurosport 2 / HBO Max France. The FDJ United Series is primarily a French domestic series and international coverage is limited.",
+      "Grand Prix Alanya (Turkey, 1.2) is also on today but below the 1.1 threshold requested and excluded.",
+      "Race has not yet started at file generation time (10:15 UTC start)."
+    ]
+  },
+  "context": {
+    "recent_results": [
+      {
+        "date": "2026-04-01",
+        "race": "Dwars door Vlaanderen – Men (WT)",
+        "winner": "Filippo Ganna (INEOS Grenadiers)",
+        "podium": ["1. Filippo Ganna", "2. Wout van Aert", "3. Søren Wærenskjold"],
+        "notes": "Fastest-ever edition (48.5kph avg). Ganna overhauled solo Van Aert with ~100m to go after multiple mechanicals earlier in the race. Heartbreak again for Van Aert."
+      },
+      {
+        "date": "2026-04-01",
+        "race": "Dwars door Vlaanderen – Women (WWT, first year)",
+        "winner": "Marlen Reusser (Movistar)",
+        "podium": ["1. Marlen Reusser", "2. Demi Vollering", "3. Lieke Nooijen"],
+        "notes": "Photo finish. Reusser's first race back after UAE Tour injury. Reusser attacked at 24km, Vollering bridged. Nooijen nearly stole it in the final 200m but the duo responded."
+      },
+      {
+        "date": "2026-03-31",
+        "race": "Paris-Camembert (1.1)",
+        "winner": "Pierre Gautherat (Decathlon CMA CGM)",
+        "podium": ["1. Pierre Gautherat", "2. Alexandre Delettre", "3. Maxime Vezie"],
+        "notes": "All-French podium. Six-man breakaway held on; Gautherat attacked in final kilometre."
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2026-04-04",
+        "race": "Gran Premio Miguel Indurain (1.Pro, Spain)",
+        "notes": "Navarra hills, last 1.Pro before Flanders weekend. UK: HBO Max; US/CA: FloBikes."
+      },
+      {
+        "date": "2026-04-04",
+        "race": "NXT Classic (1.1, men + women)",
+        "notes": "1.1 race in Belgium. Both men's and women's editions."
+      },
+      {
+        "date": "2026-04-05",
+        "race": "Tour of Flanders / Ronde van Vlaanderen (1.UWT Monument)",
+        "notes": "The biggest race of the cobbled spring. Pogačar vs Van der Poel. Evenepoel confirmed shock debut. UK: HBO Max/TNT; US/CA: FloBikes; AU: SBS."
+      },
+      {
+        "date": "2026-04-05",
+        "race": "Tour of Flanders Women (1.WWT Monument)",
+        "notes": "Kopecky, Reusser, Vollering, Wiebes, Pieterse headline. UK: HBO Max; US/CA: FloBikes; AU: SBS."
+      }
+    ]
+  }
+}
