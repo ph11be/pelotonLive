@@ -1,0 +1,454 @@
+{
+  "generated_at": "2026-04-08T08:00:00Z",
+  "date": "2026-04-08",
+  "races": [
+    {
+      "id": "scheldeprijs-men-2026",
+      "name": "Scheldeprijs – Grand Prix de l'Escaut",
+      "date": "2026-04-08",
+      "status": "upcoming",
+      "edition": "114th",
+      "category": "Pro",
+      "gender": "men",
+      "race_type": "one-day",
+      "stage_number": null,
+      "stage_race_name": null,
+      "country": "BE",
+      "country_flag": "🇧🇪",
+      "distance_km": 205.2,
+      "terrain": ["Flat", "Sprint"],
+      "start_town": "Terneuzen (NL)",
+      "finish_town": "Schoten",
+      "finish_type": "Mass sprint – Churchilllaan straight, 1.5km",
+      "start_time_local": "13:08 CEST",
+      "start_time_utc": "11:08",
+      "finish_time_local": "~17:11 CEST",
+      "description": "The 114th edition of the oldest Flemish spring classic, the unofficial World Sprint Championship, held on the traditional Wednesday slot between Tour of Flanders and Paris-Roubaix. Starts in Terneuzen (Netherlands), crosses the Westerscheldetunnel, rides through open Zeeland polderlands where crosswinds can split the peloton, enters Belgium near Essen after ~140km, then tackles four local laps of 16.9km around Schoten. Each lap includes the 1.7km Broekstraat cobbled sector and a passage along the Albert Canal with 6.5km to go. The wide, straight Churchilllaan decides it with a 1.5km flat sprint. 20 teams: 9 WT, 9 ProTeams, 2 Continental. Defending champion: Tim Merlier (Soudal Quick-Step, 2024 and 2025).",
+      "favourite_riders": [
+        "Jasper Philipsen",
+        "Tim Merlier",
+        "Dylan Groenewegen",
+        "Jordi Meeus",
+        "Matteo Moschetti",
+        "Phil Bauhaus",
+        "Steffen De Schuyteneer"
+      ],
+      "rider_notes": "Philipsen (Alpecin-Premier Tech) skipped Tour of Flanders specifically to target Scheldeprijs + Paris-Roubaix; won In Flanders Fields. Merlier (Soudal) is defending champion but arrives after a lengthy knee injury lay-off with minimal racing this season — question marks over race sharpness. Groenewegen (Unibet Rose Rockets) has won 3 Belgian races recently and is in superb form. Meeus (Red Bull-Bora) and Moschetti (Pinarello-Q36.5) are consistent sprint finishers. Bauhaus (Bahrain Victorious) is a dark horse.",
+      "pcs_url": "https://www.procyclingstats.com/race/scheldeprijs/2026",
+      "official_site": "https://www.scheldeprijs.be/en",
+      "broadcasts": [
+        {
+          "region": "🇧🇪 Belgium",
+          "region_code": "BE",
+          "platform": "VRT 1 / Sporza",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "13:40",
+          "stream_url": "https://www.sporza.be",
+          "notes": "Free-to-air on VRT 1 from 15:40 CEST (13:40 UTC). Sporza streaming alongside. Main channel opts for Itzulia Basque Country earlier in the afternoon.",
+          "source_url": "https://www.idlprocycling.com/cycling/scheldeprijs-2026-sprinters-world-championship-or-rather-a-belgium-netherlands-duel-between-groenewegen-merlier-and-philipsen"
+        },
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports / HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:08",
+          "stream_url": "https://www.hbomax.com/sports",
+          "notes": "Live on TNT Sports and HBO Max. Coverage from race start. Plans from £25.99/month.",
+          "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-the-2026-scheldeprijs-streaming-and-tv-by-country/"
+        },
+        {
+          "region": "🇺🇸 USA",
+          "region_code": "US",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:08",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "Flanders Classics rights. Race starts 07:08 EDT (11:08 UTC). Monthly $39.99.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-scheldeprijs-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🇨🇦 Canada",
+          "region_code": "CA",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:08",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "Flanders Classics rights. CAN$39.99/month.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-scheldeprijs-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🌍 Europe",
+          "region_code": "EU",
+          "platform": "Eurosport / HBO Max",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_gmt": "13:40",
+          "stream_url": "https://www.eurosport.com",
+          "notes": "Eurosport from 15:40 CEST (13:40 UTC). Discovery+ / HBO Max streaming across Europe.",
+          "source_url": "https://www.idlprocycling.com/cycling/scheldeprijs-2026-sprinters-world-championship-or-rather-a-belgium-netherlands-duel-between-groenewegen-merlier-and-philipsen"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "high",
+        "notes": "114th edition and 1.Pro classification confirmed by Wikipedia. Start: 13:00 CEST at Stadhuisplein Terneuzen (official Flanders Classics page); Domestique how-to-watch says 13:08 CEST accounting for neutralised roll-out. Finish ~17:11 CEST per official page. Distance: official page says 202.7km, Velowire/Wikipedia say 205.2km — velowire describes it as '2.4km longer than last year', so 205.2km likely accurate for 2026; official page distance may be rounded or prior edition. 20 teams (9 WT + 9 ProTeams + 2 Continental) per Wikipedia. Merlier returned from knee injury; Philipsen skipped Tour of Flanders for this. Groenewegen in excellent form (3 wins in Belgium in 2026 including Tour of Bruges for Unibet). UK on TNT Sports/HBO Max confirmed; FloBikes confirmed for Flanders Classics USA/CA rights."
+      }
+    },
+    {
+      "id": "scheldeprijs-women-2026",
+      "name": "Scheldeprijs Vrouwen – Grand Prix de l'Escaut Femmes",
+      "date": "2026-04-08",
+      "status": "upcoming",
+      "edition": "6th",
+      "category": "Pro",
+      "gender": "women",
+      "race_type": "one-day",
+      "stage_number": null,
+      "stage_race_name": null,
+      "country": "BE",
+      "country_flag": "🇧🇪",
+      "distance_km": 130.3,
+      "terrain": ["Flat", "Sprint"],
+      "start_town": "Schoten",
+      "finish_town": "Schoten",
+      "finish_type": "Mass sprint – Churchilllaan",
+      "start_time_local": "11:45 CEST",
+      "start_time_utc": "09:45",
+      "finish_time_local": "~14:45 CEST",
+      "description": "The 6th edition of Scheldeprijs Women, and the first ever as a UCI Women's ProSeries race (previously 1.2 / lower Continental). 130.3km starting and finishing in Schoten on the Churchilllaan. The route heads north towards Brecht through open polder roads (wind risk), before returning to Schoten with 50.7km to go for three local laps of 16.9km each, including the 1.7km Broekstraat cobbled sector. Lorena Wiebes (SD Worx), the four-time record winner, is not racing. Defending champion: Elisa Balsamo (Lidl-Trek, 2025). Beautiful weather forecast: ~20°C, barely any wind, making echelons unlikely and a pure sprint very probable.",
+      "favourite_riders": [
+        "Charlotte Kool",
+        "Elisa Balsamo",
+        "Lara Gillespie",
+        "Chiara Consonni",
+        "Nienke Veenhoven"
+      ],
+      "rider_notes": "Kool (Fenix-Premier Tech) arrives in flying form — won Omloop van het Hageland, 2nd Nokere Koerse, 3rd Scheldeprijs three times previously. Without Wiebes this is clearly her best opportunity. Balsamo (Lidl-Trek) is defending champion but still seeking first 2026 win (podiums at Ronde van Brugge). Gillespie (UAE Team ADQ) boasts a Wiebesiaan sprint win at Le Samyn 2026. Consonni (Lidl-Trek) provides strong sprint support or can sprint herself.",
+      "pcs_url": "https://www.procyclingstats.com/race/scheldeprijs-we/2026",
+      "official_site": "https://www.scheldeprijs.be/en",
+      "broadcasts": [
+        {
+          "region": "🇧🇪 Belgium / 🇳🇱 Netherlands",
+          "region_code": "BE",
+          "platform": "HBO Max / Pickx",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:00",
+          "stream_url": "https://www.hbomax.com",
+          "notes": "Live on HBO Max from ~13:00 CEST (11:00 UTC). Finish expected ~14:45 CEST. Also available via Proximus Pickx livestream in Belgium.",
+          "source_url": "https://www.wielerflits.be/nieuws/voorbeschouwing-scheldeprijs-krijgt-nieuwe-winnares-bij-de-vrouwen/"
+        },
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports / HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "09:45",
+          "stream_url": "https://www.hbomax.com/sports",
+          "notes": "Race starts 10:45 BST. Live on TNT Sports / HBO Max.",
+          "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-the-2026-scheldeprijs-streaming-and-tv-by-country/"
+        },
+        {
+          "region": "🇺🇸 USA",
+          "region_code": "US",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "09:45",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "Flanders Classics rights on FloBikes. Race starts 05:45 EDT.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-scheldeprijs-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🇨🇦 Canada",
+          "region_code": "CA",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "09:45",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "Flanders Classics rights on FloBikes.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-scheldeprijs-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "medium",
+        "notes": "6th edition, first as 1.Pro, confirmed by ProCyclingUK, Wikipedia (as 1.Pro). Distance 130.3km and start time 11:45 CEST (09:45 UTC) confirmed by PCS. Start/finish both Schoten confirmed. Lorena Wiebes (4-time winner) confirmed not racing. Defending champion Balsamo (2025). Charlotte Kool 3x third place finisher — clear favourite in Wiebes' absence. Broadcast: Wielerflits (Dutch source) confirms HBO Max coverage from 13:00 CEST. Women's race starts at 11:45 but coverage likely starts later (~13:00) for the final 90 mins as is typical for ProSeries broadcast windows. UK/US/CA via Flanders Classics broadcast rights same as men."
+      }
+    },
+    {
+      "id": "itzulia-basque-country-2026-stage-3",
+      "name": "Itzulia Basque Country – Stage 3",
+      "date": "2026-04-08",
+      "status": "upcoming",
+      "edition": "65th",
+      "category": "WT",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 3,
+      "stage_race_name": "Itzulia Basque Country 2026",
+      "country": "ES",
+      "country_flag": "🇪🇸",
+      "distance_km": 152.8,
+      "elevation_m": 2900,
+      "terrain": ["Rolling", "Puncheur"],
+      "start_town": "Basauri",
+      "finish_town": "Basauri",
+      "finish_type": "Uphill sprint finish (~6% final km)",
+      "start_time_local": "~12:20 CEST",
+      "start_time_utc": "~10:20",
+      "finish_time_local": "~16:30 CEST",
+      "description": "Stage 3 of Itzulia Basque Country, beginning and finishing in Basauri on a circuit-style route. Described by race organisers as the 'easiest' stage of the week — though 2,900m of climbing in 152.8km says otherwise. The first 81km are rolling before three categorised climbs arrive in quick succession: Barrerilla (5km @ 6.6%), Bikotx-Gane (8km @ 4.9%) and Sarasola (2km @ 5.6%). The final kilometre rises at ~6% to the uphill finish, which brings puncheurs and stronger sprinters into contention but should comfortably eliminate the pure climbers. Given Seixas's monumental GC lead, this is expected to be a controlled day from Decathlon, with breakaway riders or puncheur sprinters fighting for the stage. A protest briefly held up the convoy in Stage 2 — note for organisers.",
+      "gc_standings_before_stage": {
+        "source": "After Stage 2, Mendukilo / Lekunberri",
+        "stage_2_result": {
+          "1": "Paul Seixas (DCT) – 4:10:40",
+          "2": "Mattias Skjelmose (Lidl-Trek) – +1:32",
+          "3": "Primož Roglič (Red Bull) – s.t.",
+          "4": "Cian Uijtdebroeks (Movistar) – s.t.",
+          "5": "Ben Tulett (INEOS) – s.t.",
+          "6": "Alex Baudin (DCT) – s.t.",
+          "7": "Ion Izagirre (Cofidis) – s.t.",
+          "8": "Florian Lipowitz (Red Bull) – s.t.",
+          "9": "Clément Champoussin (Astana) – +1:31",
+          "10": "Harold Tejada (Astana) – +1:43"
+        },
+        "gc": {
+          "1": "Paul Seixas (DCT) – 0:00:00",
+          "2": "Primož Roglič (Red Bull) – +1:59",
+          "3": "Florian Lipowitz (Red Bull) – +2:08",
+          "4": "Mattias Skjelmose (Lidl-Trek) – +2:14",
+          "5": "Ben Tulett (INEOS) – +2:27",
+          "6": "Alex Baudin (DCT) – +2:31",
+          "7": "Ion Izagirre (Cofidis) – +2:36",
+          "8": "Isaac del Toro (UAE) – +2:44",
+          "9": "Harold Tejada (Astana) – +2:48",
+          "10": "Cian Uijtdebroeks (Movistar) – +3:01"
+        }
+      },
+      "key_climbs": [
+        { "name": "Barrerilla", "length_km": 5.0, "avg_gradient_pct": 6.6, "category": 2 },
+        { "name": "Bikotx-Gane", "length_km": 8.0, "avg_gradient_pct": 4.9, "category": 2 },
+        { "name": "Sarasola", "length_km": 2.0, "avg_gradient_pct": 5.6, "category": 3 },
+        { "name": "Basauri finish (uphill)", "length_km": 1.0, "avg_gradient_pct": 6.0, "category": null }
+      ],
+      "favourite_riders": [
+        "Paul Seixas",
+        "Romain Grégoire",
+        "Ion Izagirre",
+        "Alex Baudin",
+        "Mattias Skjelmose",
+        "Julian Alaphilippe"
+      ],
+      "rider_notes": "Seixas hinted he will go into 'control mode' today: 'I don't think so [I'll go again], for example tomorrow is an easier stage, so we'll see how it goes.' With a 1:59 lead over Roglič, there is no need to attack. The stage suits a puncheur breakaway or a sprint for puncheurs. Roglič, Lipowitz, Skjelmose and the GC group can follow wheels rather than risk Seixas racing the stage. Axel Laurance (INEOS) and Julian Alaphilippe (Tudor) may be targeting stage wins this week.",
+      "pcs_url": "https://www.procyclingstats.com/race/itzulia-basque-country/2026/stage-3",
+      "official_site": "https://itzulia.eus/en/itzulia/",
+      "broadcasts": [
+        {
+          "region": "🇪🇸 Basque Country / Spain",
+          "region_code": "ES",
+          "platform": "EITB / ETB1",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "10:20",
+          "stream_url": "https://www.eitb.eus/eu/telebista/",
+          "notes": "Free-to-air on EITB Basque public broadcaster from race start.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/itzulia-basque-country-preview"
+        },
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports / HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "13:30",
+          "stream_url": "https://www.hbomax.com/sports",
+          "notes": "Coverage from 14:30 BST (13:30 UTC), ~2hrs covering decisive final phase. Plans from £25.99/month.",
+          "source_url": "https://procyclinguk.com/how-to-watch-itzulia-basque-country-2026-in-the-uk/"
+        },
+        {
+          "region": "🇺🇸 USA",
+          "region_code": "US",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "13:30",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "Coverage from 9:30 AM EDT (13:30 UTC). Monthly $39.99.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-gp-miguel-indurain-itzulia-basque-country-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🇨🇦 Canada",
+          "region_code": "CA",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "13:30",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "Coverage from 9:30 AM EDT. CAN$39.99/month.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-gp-miguel-indurain-itzulia-basque-country-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🌍 Europe",
+          "region_code": "EU",
+          "platform": "Eurosport / HBO Max",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_gmt": "13:30",
+          "stream_url": "https://www.eurosport.com",
+          "notes": "Eurosport and HBO Max / Discovery+ across Europe from ~14:30 CEST.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/itzulia-basque-country-preview"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "high",
+        "notes": "Distance 152.8km confirmed by multiple sources. Elevation 2,900m per Domestique. Start/finish Basauri confirmed by official Itzulia site and all stage preview sources. Stage 2 full results confirmed from Cyclingstage.com (1. Seixas 4:10:40, 2. Skjelmose +1:32, 3. Roglič s.t.). GC confirmed from same source (Roglič 2nd +1:59, Lipowitz 3rd +2:08, Skjelmose 4th +2:14). Seixas won Stage 2 by soloing away with 26km to go — 7km from the top of Aralar — and won by 1:25. Mikel Landa crashed on the descent and is reportedly in danger of missing Giro d'Italia. Del Toro +2:44, Ayuso not in GC top 10. Stage 3 start time estimated ~12:20 CEST per same methodology as Stage 2 preview."
+      }
+    },
+    {
+      "id": "region-pays-de-la-loire-tour-2026-stage-2",
+      "name": "Région Pays de la Loire Tour – Stage 2",
+      "date": "2026-04-08",
+      "status": "upcoming",
+      "edition": "4th",
+      "category": "Pro",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 2,
+      "stage_race_name": "Région Pays de la Loire Tour 2026",
+      "country": "FR",
+      "country_flag": "🇫🇷",
+      "distance_km": 153.6,
+      "elevation_m": null,
+      "terrain": ["Flat", "Sprint"],
+      "start_town": "La Garnache",
+      "finish_town": "Les Sables-d'Olonne",
+      "finish_type": "Mass sprint",
+      "start_time_local": "~12:00 CEST",
+      "start_time_utc": "~10:00",
+      "finish_time_local": "~17:00 CEST",
+      "description": "Stage 2 of the 4th edition of the Région Pays de la Loire Tour, the first year at UCI ProSeries level. The flattest stage of the race, 153.6km from La Garnache to Les Sables-d'Olonne on the Vendée Atlantic coast. Only minor climbs are catalogued (Apremont, Saint-Julien-des-Landes at 700m @ 3.7%) — this is a sprinters' day by the sea. Ethan Vernon (NSN Cycling Team) won Stage 1 at Vertou yesterday in a bunch sprint, his third victory of 2026.",
+      "gc_standings_before_stage": {
+        "source": "After Stage 1, Vertou",
+        "stage_1_winner": "Ethan Vernon (NSN Cycling Team)",
+        "note": "Stage 1 result confirmed. Full GC order not retrieved — Vernon leads on stage time."
+      },
+      "favourite_riders": [
+        "Ethan Vernon",
+        "Corbin Strong",
+        "Bryan Coquard",
+        "Alexandre Delettre",
+        "Valentin Ferron"
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/region-pays-de-la-loire/2026/stage-2",
+      "official_site": "https://www.regionpaysdelaloire-tour.fr/",
+      "broadcasts": [
+        {
+          "region": "🇫🇷 France",
+          "region_code": "FR",
+          "platform": "L'Équipe 21",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": null,
+          "stream_url": "https://www.lequipe.fr/tv/",
+          "notes": "All four stages broadcast live on L'Équipe 21 (free-to-air France). Exact broadcast window not confirmed — typical coverage covers ~2 hours of the final.",
+          "source_url": "https://www.velo101.com/courses/region-pays-de-la-loire-tour/region-pays-de-la-loire-tour-2026-le-parcours-et-les-favoris/"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "medium",
+        "notes": "Stage 2 route confirmed: La Garnache → Les Sables-d'Olonne, 153.6km (per Cyclismactu, TotalVelo, DirectVelo). Flattest stage of the race. Stage 1 won by Ethan Vernon (confirmed in Cyclingnews daily news feed: 'Pays de la Loire Tour: Ethan Vernon sprints to third victory of the season on stage 1'). Vernon's third 2026 win. Start time estimated ~12:00 CEST — not officially confirmed. L'Équipe 21 broadcast confirmed. No international broadcaster identified."
+      }
+    }
+  ],
+  "context": {
+    "recent_results": [
+      {
+        "date": "2026-04-07",
+        "race": "Itzulia Basque Country Stage 2 (WT) – Pamplona → Lekunberri",
+        "winner": "Paul Seixas (Decathlon CMA CGM)",
+        "podium": [
+          "1. Paul Seixas – 4:10:40",
+          "2. Mattias Skjelmose – +1:32",
+          "3. Primož Roglič – s.t."
+        ],
+        "notes": "Seixas solo'd away 7km from the top of San Miguel de Aralar (9.4km @ 7.8%) with 26km to go, catching the breakaway and arriving 1:25 clear. Two wins from two days. GC lead extended to 1:59 over Roglič. Mikel Landa crashed heavily on the descent."
+      },
+      {
+        "date": "2026-04-07",
+        "race": "Région Pays de la Loire Tour Stage 1 (Pro) – Fontevraud-l'Abbaye → Vertou",
+        "winner": "Ethan Vernon (NSN Cycling Team)",
+        "notes": "Vernon's 3rd win of 2026 season. Bunch sprint."
+      },
+      {
+        "date": "2026-04-05",
+        "race": "Tour of Flanders – Men (WT Monument, 110th)",
+        "winner": "Tadej Pogačar (UAE Team Emirates-XRG)",
+        "podium": [
+          "1. Tadej Pogačar – 6:20:07",
+          "2. Mathieu van der Poel – +0:34",
+          "3. Remco Evenepoel – +1:11",
+          "4. Wout van Aert – +2:04"
+        ],
+        "notes": "Pogačar attacked on final Oude Kwaremont with 18km to go, solo win. Record-equalling 3rd Flanders win (joins Van der Poel, Boonen, Cancellara etc). Evenepoel impressive Monument debut. Pogačar targets Paris-Roubaix for potential 5 Monument Grand Slam. Both Pogačar and Evenepoel fined post-race."
+      },
+      {
+        "date": "2026-04-05",
+        "race": "Tour of Flanders – Women (WWT Monument, 23rd)",
+        "winner": "Demi Vollering (FDJ United-Suez)",
+        "podium": [
+          "1. Demi Vollering – solo +42s",
+          "2. Pauline Ferrand-Prévot",
+          "3. Puck Pieterse",
+          "4. Lotte Kopecky"
+        ],
+        "notes": "Vollering attacked on Oude Kwaremont with ~20km to go. First Flanders, third Monument. Reusser and Le Court-Pienaar suffered fractures in crash during race, both out of Paris-Roubaix."
+      }
+    ],
+    "notes": [
+      "Paul Seixas, 19, has won stages 1 and 2 of Itzulia Basque Country with authority — ITT by 24 seconds and mountain stage by 1:25 solo. He now leads the GC by 1:59. The cycling world is watching an extraordinary talent emerge.",
+      "Lorena Wiebes is absent from Scheldeprijs Women — this opens the race for Charlotte Kool, Elisa Balsamo and Lara Gillespie.",
+      "Jasper Philipsen specifically skipped Tour of Flanders to peak for Scheldeprijs + Paris-Roubaix.",
+      "Tim Merlier arrives at Scheldeprijs Men undercooked after a lengthy knee injury — GP Monseré was his only race pre-Scheldeprijs.",
+      "Dylan Groenewegen has been in superb form with 3 wins in 2026 including Tour of Bruges for Unibet Rose Rockets.",
+      "Mikel Landa crashed on the descent in Itzulia Stage 2; his entire 2026 season including Giro d'Italia build-up is now in doubt.",
+      "Paris-Roubaix is this Sunday. No Evenepoel. No Reusser or Le Court-Pienaar for women."
+    ],
+    "upcoming": [
+      {
+        "date": "2026-04-09",
+        "race": "Itzulia Basque Country Stage 4 (WT)",
+        "notes": "Galdakao circuit, 167.2km, 3,000m+. 7 categorised climbs with uphill finish. Red Bull KM bonus sprint included."
+      },
+      {
+        "date": "2026-04-12",
+        "race": "Paris-Roubaix (1.UWT Monument)",
+        "notes": "258.3km Compiègne → Roubaix. Pogačar goes for the full Classics Slam (5 Monuments). Van Aert, Philipsen, Ganna headline."
+      },
+      {
+        "date": "2026-04-12",
+        "race": "Paris-Roubaix Femmes (1.WWT Monument)",
+        "notes": "143.1km Denain → Roubaix. Without Reusser and Le Court-Pienaar (fractures from Flanders)."
+      }
+    ]
+  },
+  "validation": {
+    "status": "clean",
+    "issues": [
+      "Scheldeprijs Men official page distance listed as 202.7km vs Wikipedia/Velowire 205.2km — using 205.2km as the more reliable 2026-specific figure. Velowire confirms it is 2.4km longer than 2025.",
+      "Itzulia Stage 3 start time estimated at ~12:20 CEST based on Stage 2 preview stating 12:20 CET start. Consistent with UK TV coverage starting at 14:30 BST.",
+      "Région Pays de la Loire Tour Stage 2 start time not officially confirmed — listed as estimated ~12:00 CEST.",
+      "Scheldeprijs Women broadcast window: the Dutch source (Wielerflits) says 'HBO Max from 13:00 CEST' but the race starts at 11:45 CEST and finishes ~14:45 CEST. The 13:00 start is likely the broadcast window for the deciding phase only, not the full race.",
+      "Scheldeprijs Women SBS Australia: NOT listed — confirmed no Australian rights for Scheldeprijs (this is a Flanders Classics race, not a Monuments-tier WorldTour event, and FloBikes is the primary platform for Flanders Classics internationally). Unlike Tour of Flanders which SBS does carry, Scheldeprijs is not confirmed on SBS."
+    ]
+  }
+}
