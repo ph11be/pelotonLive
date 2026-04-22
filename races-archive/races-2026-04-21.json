@@ -1,0 +1,233 @@
+{
+  "generated_at": "2026-04-21T08:00:00Z",
+  "date": "2026-04-21",
+  "races": [
+    {
+      "id": "tour-of-the-alps-2026-stage-2",
+      "name": "Tour of the Alps – Stage 2",
+      "date": "2026-04-21",
+      "status": "upcoming",
+      "edition": "49th",
+      "category": "2.Pro",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 2,
+      "stage_race_name": "Tour of the Alps 2026",
+      "country": "IT",
+      "country_flag": "🇮🇹",
+      "distance_km": 147.5,
+      "elevation_m": 2656,
+      "terrain": ["Mountain", "Summit finish"],
+      "start_town": "Telfs (AT)",
+      "finish_town": "Martell / Val Martello (IT)",
+      "finish_type": "Summit finish",
+      "start_time_local": "11:30 CEST",
+      "start_time_utc": "09:30",
+      "finish_time_local": "~15:15 CEST",
+      "description": "The only summit finish of the entire Tour of the Alps 2026, and the first real mountain test for the GC contenders after Tommaso Dati (Team UKYO) stunned the field on Stage 1. The stage runs from Telfs in the Austrian Tirol south into Italy's Val Venosta/Vinschgau, featuring 2,656m of climbing across 147.5km. Three categorised climbs set the scene: the Cat.1 Pillerhöhe (9.2km @ 6%, summit ~100km from the finish, temperatures forecast near 2°C), the Cat.3 Reschenpass/Passo Resia (15.8km @ 3.4%), and then the final summit at Martell/Val Martello. The Martell finish is made famous by the 2014 Giro d'Italia stage where Nairo Quintana soloed in a snowstorm — in 2026 the riders won't go as high, racing only the lower section of the climb (approximately 5km @ 8.9% average for the racing segment, or 6km @ 8% to the technical line). The climb plateaus inside the final 500m, descends briefly, then kicks sharply one final time to the finish line. A bonus sprint at Goldrain/Goldrano (6s/4s/2s) comes 7.5km from the finish, just before the final ascent begins. Wintry conditions are forecast across the stage — especially over the high mountain passes — with near-freezing temperatures expected above 1,500m. The race organisation has confirmed the stage starts and could be neutralised or modified if conditions become dangerous.",
+      "gc_after_stage_1": {
+        "source": "Cyclingnews / Cycling Weekly stage 1 report",
+        "standings": [
+          { "pos": 1, "rider": "Tommaso Dati", "team": "Team UKYO", "time": "3:21:35", "gap": "0:00" },
+          { "pos": 2, "rider": "Tom Pidcock", "team": "Pinarello-Q36.5", "gap": "s.t." },
+          { "pos": 3, "rider": "Florian Stork", "team": "Tudor Pro Cycling", "gap": "s.t." }
+        ],
+        "notes": "Stage 1 (Innsbruck → Innsbruck, 144.3km) was decided in a mass sprint after a breakaway was caught late. Thymen Arensman (INEOS) tried to solo from ~3.7km out but was caught in the final 400m. Dati came out of Arensman's slipstream and outsprinted Pidcock. Time bonuses applied: Dati +10s, Pidcock +6s, Stork +4s. The GC will be reshaped significantly today on the Martell summit — Dati is expected to lose time to the climbers."
+      },
+      "stage_race_context": {
+        "total_stages": 5,
+        "race_dates": "April 20–24, 2026",
+        "start_city": "Innsbruck, Austria",
+        "finish_city": "Bozen/Bolzano, Italy",
+        "stages": [
+          { "stage": 1, "date": "2026-04-20", "route": "Innsbruck → Innsbruck", "km": 144.3, "elev_m": 1901, "result": "Dati (UKYO) beat Pidcock in sprint. Arensman attacked late, caught 400m out. Stork 3rd." },
+          { "stage": 2, "date": "2026-04-21", "route": "Telfs → Martell/Val Martello", "km": 147.5, "elev_m": 2656, "notes": "Only summit finish. Three climbs: Pillerhöhe (9.2km@6%), Reschenpass (15.8km@3.4%), Martell finish (~5km@8.9%). TODAY." },
+          { "stage": 3, "date": "2026-04-22", "route": "Latsch/Laces → Arco", "km": 174.5, "elev_m": 3626, "notes": "Longest stage. Hofmahdjoch/Passo Castrin (22.2km @ 5.7%) as centrepiece. Flat descent to Arco finish. Same day as La Flèche Wallonne." },
+          { "stage": 4, "date": "2026-04-23", "route": "Arco → Trento", "km": 167.8, "elev_m": 4111, "notes": "Queen stage. Passo Bordala (14.8km@6.9%) + Passo Redebus (5km@6.7%) + final short ramp Bovo (1.6km@9.5%) inside final 10km." },
+          { "stage": 5, "date": "2026-04-24", "route": "Trento → Bozen/Bolzano", "km": 128.6, "elev_m": 3047, "notes": "Final stage. Nobls/Montoppio (12.7km@7%) twice on a circuit. Long descent to finish in Bolzano." }
+        ]
+      },
+      "key_climbs": [
+        {
+          "name": "Pillerhöhe (Piller Höhe)",
+          "length_km": 9.2,
+          "gradient_pct": 6.0,
+          "category": "Cat. 1",
+          "km_from_finish": 103,
+          "notes": "First major climb of stage. Summit ~100km from finish — early to be decisive, but cold temps (~2°C) can cause early gaps. Stings the legs significantly."
+        },
+        {
+          "name": "Reschenpass / Passo Resia",
+          "length_km": 15.8,
+          "gradient_pct": 3.4,
+          "category": "Cat. 3",
+          "km_from_finish": 55,
+          "notes": "Long, steady grind above 1,500m. Opens up the Val Venosta/Vinschgau. False flat follows before the road drops towards the final climb."
+        },
+        {
+          "name": "Goldrain / Goldrano intermediate sprint",
+          "km_from_finish": 7.5,
+          "notes": "Bonus seconds: 6s / 4s / 2s. Comes just before the final climb starts."
+        },
+        {
+          "name": "Martell / Val Martello (summit finish)",
+          "length_km_full": 6.0,
+          "length_km_racing_section": 5.0,
+          "gradient_pct_avg": 8.9,
+          "category": "Summit finish",
+          "km_from_finish": 0,
+          "notes": "Famous from 2014 Giro d'Italia stage (Quintana in snowstorm). Riders don't go as high in 2026. Racing section approximately 5km @ 8.9% average. Climb plateaus in final 500m with a short descent, then one final sharp kick to the line. Makes timing the sprint all but impossible — this is a pure climbers' finish."
+        }
+      ],
+      "time_bonuses": {
+        "finish": "10s / 6s / 4s",
+        "intermediate_sprint_goldrain": "6s / 4s / 2s"
+      },
+      "weather_forecast": {
+        "notes": "Cold and potentially wintry conditions forecast across the high mountain passes. Temperatures near 2°C at altitude (around the Pillerhöhe summit). Stage may be modified or neutralised if conditions are dangerous. Race jury will assess on the day.",
+        "sources": ["IDL Pro Cycling preview", "Tour of the Alps 2026 stage 2 previews"]
+      },
+      "favourite_riders": [
+        "Giulio Pellizzari",
+        "Thymen Arensman",
+        "Michael Storer",
+        "Ben O'Connor",
+        "Tom Pidcock",
+        "Egan Bernal",
+        "Aleksandr Vlasov"
+      ],
+      "rider_notes": "Stage 2 is the key day for GC. Dati in the leader's jersey but not a true climber — he will lose time on the Martell. For the stage win, Pellizzari (Red Bull-Bora) and Arensman (INEOS) are highlighted by IDL as top favourites. Pidcock is listed too but fitness post-Catalunya crash remains the big question after a 2nd on Stage 1 that Pidcock himself seemed to expect based on his quote. O'Connor (Jayco), Storer (Tudor) and Bernal (INEOS) are realistic contenders. Vlasov (Red Bull) is an outside option. The cold conditions may make the race unpredictable — attacks on the Pillerhöhe are possible if someone wants to exploit the early mountain. A rider who attacks on the Reschenpass plateau with 50+ km to go is also a viable tactic in these temperatures.",
+      "pcs_url": "https://www.procyclingstats.com/race/tour-of-the-alps/2026/stage-2",
+      "official_site": "https://www.tourofthealps.eu/en/",
+      "broadcasts": [
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports / HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:30",
+          "stream_url": "https://www.hbomax.com/sports",
+          "notes": "Live from ~13:30 CEST (11:30 UTC) per official race site. TNT Sports channel or via HBO Max streaming. Plans from £30.99/month.",
+          "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-the-2026-tour-of-the-alps-live-streaming-and-tv-by-country/"
+        },
+        {
+          "region": "🇺🇸 USA",
+          "region_code": "US",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:30",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "Live on FloBikes. $39.99/month or $203.88/year.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-tour-of-the-alps-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🇨🇦 Canada",
+          "region_code": "CA",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "11:30",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "Live on FloBikes.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-tour-of-the-alps-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🌍 Europe",
+          "region_code": "EU",
+          "platform": "Eurosport / HBO Max",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_gmt": "11:30",
+          "stream_url": "https://www.eurosport.com",
+          "notes": "Live worldwide from 13:30 CEST (11:30 UTC) per official race site. Eurosport and HBO Max in most European markets.",
+          "source_url": "https://www.tourofthealps.eu/en/news/2026/10th-anniversary-tota-opens-tomorrow-with-exciting-innsbruck-stage/"
+        },
+        {
+          "region": "🇮🇹 Italy",
+          "region_code": "IT",
+          "platform": "RAI Sport (free)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "11:30",
+          "stream_url": "https://www.raiplay.it",
+          "notes": "RAI Sport historically provides free live coverage of Tour of the Alps in Italy.",
+          "source_url": null
+        },
+        {
+          "region": "🇦🇺 Australia / 🇳🇿 NZ",
+          "region_code": "AU",
+          "platform": "No broadcast — VPN required",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": null,
+          "stream_url": null,
+          "notes": "No dedicated broadcaster for Tour of the Alps in ANZ. Australian viewers typically need a VPN to access Eurosport or another regional stream.",
+          "source_url": "https://www.idlprocycling.com/cycling/tour-of-the-alps-2026-arensman-faces-his-giro-rivals-with-dangerous-weather-looming"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "medium",
+        "notes": "Stage route, distance 147.5km and elevation 2,656m confirmed from PCS stage profiles page. Start town Telfs confirmed by official race site. Start time 11:30 CEST per kolarsko.pl; 11:35 CEST per IDL and CyclingUpToDate previews — using 11:30 CEST. Finish ~15:15 CEST confirmed by multiple sources. Climb details: Pillerhöhe 9.2km@6% Cat.1 and Reschenpass 15.8km@3.4% Cat.3 confirmed by Domestique route guide and cyclingstage.com. Final Martell climb: Domestique says 6km@8%, CyclingUpToDate/kolarsko.pl say 5km@8.9% for the racing section used in 2026 (riders don't go to the full top). Goldrain bonus sprint 7.5km out with 6s/4s/2s confirmed by Domestique. Weather forecast ~2°C at altitude confirmed from IDL preview. GC standings after stage 1 confirmed by Cyclingnews and Cycling Weekly. UK on TNT/HBO Max, US/CA FloBikes confirmed from Domestique and CyclingUpToDate how-to-watch. RAI Sport Italy likely but not 100% confirmed. Australia: explicitly stated as no coverage by IDL."
+      }
+    }
+  ],
+  "context": {
+    "yesterday_result": {
+      "date": "2026-04-20",
+      "race": "Tour of the Alps Stage 1 (2.Pro)",
+      "route": "Innsbruck → Innsbruck, 144.3km",
+      "winner": "Tommaso Dati (Team UKYO)",
+      "time": "3:21:35",
+      "avg_speed_kmh": 43.0,
+      "podium": [
+        "1. Tommaso Dati (ITA, Team UKYO) – continental team",
+        "2. Tom Pidcock (GBR, Pinarello-Q36.5) – s.t.",
+        "3. Florian Stork (GER, Tudor Pro Cycling) – s.t.",
+        "4. Gabriele Bessega (ITA, Polti-VisitMalta)",
+        "5. Federico Iacomoni (ITA, Team UKYO)"
+      ],
+      "notes": "Dati, 23, from Camaiore (Italy), riding for Japanese continental team UKYO (who also have a base in Italy), shocked the field in a chaotic bunch sprint on the Rennweg. Thymen Arensman (INEOS) attacked solo from 3.7km out after his team lit up the final climb sequence — he was caught in the final 400m by a charging Dati who emerged from his slipstream. Pidcock was second, just edged out. 'In the sprint on the Rennweg, Tommaso Dati got the better of Tom Pidcock and Florian Stork,' confirmed the official race site. Dati also takes the Red Jersey (Caffè Bocca della Verità) and Green Jersey. His first stage win came at Coppi e Bartali in March 2026. He says his GC goals are limited — UKYO hope team-mate Simone Raccani can feature in the overall. The race was won at an average ~43km/h. Stage 1 was described by organizers as the least difficult of the five."
+    },
+    "news": [
+      "Remco Evenepoel has confirmed he will NOT race La Flèche Wallonne (Wednesday April 22) — focusing full attention on Liège-Bastogne-Liège (Sunday April 26) and his anticipated rematch with Tadej Pogačar.",
+      "Matteo Jorgenson (Visma | Lease a Bike) is out of all Ardennes Classics after breaking his collarbone at Amstel Gold Race. Significant blow for Visma.",
+      "Tom Pidcock's quote after Stage 1: 'I don't think that crash will affect me or worry me ahead of the upcoming races' — reassuring for his LBL prospects.",
+      "Paul Seixas (Decathlon CMA CGM, 19) named as the main favourite for La Flèche Wallonne men (Wednesday) following his Itzulia Basque Country overall victory."
+    ],
+    "upcoming": [
+      {
+        "date": "2026-04-22",
+        "race": "La Flèche Wallonne (1.UWT, men)",
+        "notes": "90th edition. Herstal → Mur de Huy, ~200km. Three ascents of the Mur de Huy (1.3km avg 9.6%, max ~20%). Pogačar and Evenepoel both absent — opens the door. Paul Seixas (Decathlon) is men's favourite. Broadcast: UK TNT/HBO Max, US Peacock, CA FloBikes."
+      },
+      {
+        "date": "2026-04-22",
+        "race": "La Flèche Wallonne Féminine (1.WWT)",
+        "notes": "Huy → Mur de Huy, 148.2km. Vollering defending? Field TBC. Broadcast same as men's race."
+      },
+      {
+        "date": "2026-04-22",
+        "race": "Tour of the Alps Stage 3 (2.Pro)",
+        "notes": "Latsch/Laces → Arco, 174.5km. Longest stage. Hofmahdjoch/Passo Castrin (22.2km @ 5.7%) as centrepiece — highest point of the entire race. Flat run-in to Arco finish."
+      },
+      {
+        "date": "2026-04-26",
+        "race": "Liège-Bastogne-Liège (1.UWT Monument)",
+        "notes": "La Doyenne. Final spring Monument. Evenepoel vs Pogačar showdown now the main narrative after Evenepoel confirmed skipping Flèche. Both are targeting LBL. Also: Liège-Bastogne-Liège Femmes."
+      }
+    ]
+  },
+  "validation": {
+    "status": "clean",
+    "issues": [
+      "Stage 2 start time: kolarsko.pl gives 11:30 CEST; IDL and CyclingUpToDate previews say 11:35 CEST. The official race site says 'live from 13:30 CEST' (broadcast start). Using 11:30 CEST as start time per kolarsko.pl (consistent with the April 20 source which gave 11:45 and was close to the stated 11:55).",
+      "Martell climb length/gradient: Domestique route guide says 6km @ 8%; kolarsko.pl and CyclingUpToDate say 5km @ 8.9% for the racing section. These are reconcilable — the full road to Martello is longer, but the race uses a lower section. Both figures included in key_climbs with appropriate labelling.",
+      "RAI Sport Italy: Standard historical broadcaster for Tour of the Alps but not confirmed from today's search results. Flagged as 'historically expected' only.",
+      "Australia / NZ: IDL explicitly states 'there is no coverage of the Tour of the Alps on TV in Australia and New Zealand' — included as confirmed no-coverage.",
+      "Only one race found at 1.1/2.1+ level on April 21, 2026. PCS 'today' page is cached (showing April 15 data). Cross-referenced against all available calendar sources. Tuesday between Amstel and Flèche Wallonne is traditionally sparse — Tour of the Alps is the sole significant action on this date."
+    ]
+  }
+}
