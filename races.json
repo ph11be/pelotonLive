@@ -1,488 +1,110 @@
 {
-  "generated_at": "2026-04-22T08:00:00Z",
-  "date": "2026-04-22",
+  "generated_at": "2026-04-28T08:00:00Z",
+  "date": "2026-04-28",
   "races": [
     {
-      "id": "fleche-wallonne-femmes-2026",
-      "name": "La Flèche Wallonne Féminine",
-      "date": "2026-04-22",
+      "id": "tour-de-romandie-2026-prologue",
+      "name": "Tour de Romandie – Prologue",
+      "date": "2026-04-28",
       "status": "upcoming",
-      "edition": "29th",
-      "category": "1.WWT",
-      "gender": "women",
-      "race_type": "one-day",
-      "country": "BE",
-      "country_flag": "🇧🇪",
-      "distance_km": 148.2,
-      "terrain": ["Hilly", "Puncheur", "Summit finish"],
-      "start_town": "Huy",
-      "finish_town": "Huy (Mur de Huy)",
-      "finish_type": "Summit finish — Mur de Huy",
-      "start_time_local": "13:40 CEST",
-      "start_time_utc": "11:40",
-      "finish_time_local": "~17:15 CEST",
-      "description": "The 29th edition of La Flèche Wallonne Féminine, the second of three Ardennes Classics this week. Both start and finish in Huy, with the Mur de Huy climbed twice in the final third of the race. The Mur de Huy (1.3km @ 9.6% avg, max ~18.8%) is one of the most feared finishes in women's racing. Anna van der Breggen won it seven consecutive times between 2015 and 2021; Demi Vollering claimed it in 2023; Kasia Niewiadoma-Phinney in a rain-soaked 2024; and Puck Pieterse outsprinted Vollering on her debut here in 2025. The decisive section is always the last 400m of the Mur where the gradients are most savage — riders who time their kick perfectly win here, those who launch too early burn out on the final ramps, while those who wait too long get pipped on the line. A one-puncheur kind of race.",
-      "key_climbs": [
-        {
-          "name": "Côte d'Ereffe",
-          "length_km": 2.2,
-          "gradient_pct": 5.4,
-          "km_from_finish": 18.5,
-          "repeats": 2,
-          "notes": "Tackled twice on the circuit. Selection climb."
-        },
-        {
-          "name": "Côte de Cherave",
-          "length_km": 1.3,
-          "gradient_pct": 7.0,
-          "km_from_finish": 5.5,
-          "repeats": 2,
-          "notes": "Stiff climb immediately before the Mur descent into Huy."
-        },
-        {
-          "name": "Mur de Huy (summit finish)",
-          "length_km": 1.3,
-          "gradient_pct_avg": 9.6,
-          "gradient_pct_max": 18.8,
-          "km_from_finish": 0,
-          "repeats": 2,
-          "notes": "The race is decided here. Two ascents — one before the final and the decisive summit finish. The S-bend at halfway features the most brutal gradients (>20% max in places). Inside the final 300m, the gradient eases slightly but legs are already burning. The last to launch a sprint rarely wins."
-        }
-      ],
-      "favourite_riders": [
-        "Demi Vollering",
-        "Puck Pieterse",
-        "Kasia Niewiadoma-Phinney",
-        "Pauline Ferrand-Prévot",
-        "Anna van der Breggen",
-        "Paula Blasi",
-        "Liane Lippert"
-      ],
-      "rider_notes": "Puck Pieterse (Fenix-Premier Tech) is defending champion. Demi Vollering (FDJ United-SUEZ) is arguably the heavier favourite — she's won Omloop and Tour of Flanders this spring and has 1 win + 5 podiums in 7 career starts here. Kasia Niewiadoma-Phinney won this in 2024 and is a constant Mur de Huy threat. Pauline Ferrand-Prévot (Visma | Lease a Bike, 2014 winner) is a danger if she goes earlier than expected. Anna van der Breggen (SD Worx-Protime, record 7 wins) makes a return — she has not raced here since her 2021 win. Paula Blasi (UAE Team ADQ, Amstel Gold Race Ladies winner) will test if her form extends to the Mur. Liane Lippert (Movistar) has 1 podium and 4 top-10s here — her best climbs in the Ardennes. Also watch: Elise Chabbey (FDJ, domestique/captain), Noemi Ruëgg (EF-Oatly, climber), Magdeleine Vallières (EF-Oatly, World Champion), Karlijn Swinkels (UAE Team ADQ), Femke de Vries (Visma | Lease a Bike).",
-      "past_winners": [
-        { "year": 2025, "winner": "Puck Pieterse (Fenix-Deceuninck)" },
-        { "year": 2024, "winner": "Kasia Niewiadoma-Phinney (Canyon-SRAM)" },
-        { "year": 2023, "winner": "Demi Vollering (SD Worx)" },
-        { "year": 2022, "winner": "Demi Vollering (SD Worx)" },
-        { "year": 2021, "winner": "Anna van der Breggen (SD Worx)" }
-      ],
-      "pcs_url": "https://www.procyclingstats.com/race/la-fleche-wallonne-we/2026",
-      "official_site": "https://www.la-fleche-wallonne-femmes.be/en/",
-      "broadcasts": [
-        {
-          "region": "🇬🇧 UK & Ireland",
-          "region_code": "GB",
-          "platform": "TNT Sports 1 / HBO Max",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "15:45",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "TNT Sports 1 and HBO Max. Broadcast focuses on the final section, not from km 0. Women's race finishes after the men (who end ~16:00 CEST) — UK coverage expected mid-to-late afternoon.",
-          "source_url": "https://procyclinguk.com/how-to-watch-la-fleche-wallonne-femmes-2026-in-the-uk/"
-        },
-        {
-          "region": "🇺🇸 USA",
-          "region_code": "US",
-          "platform": "Peacock",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "14:45",
-          "stream_url": "https://www.peacocktv.com",
-          "notes": "Peacock (NBC Sports). ASO race — Peacock rights, not FloBikes.",
-          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-2026-fleche-wallonne-liege-bastogne-liege-live-and-on-tv-in-the-uk-and-usa-dates-and-schedules"
-        },
-        {
-          "region": "🇨🇦 Canada",
-          "region_code": "CA",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "14:45",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes carries Flèche Wallonne in Canada.",
-          "source_url": "https://sports.yahoo.com/articles/watch-la-fl%C3%A8che-wallonne-150102908.html"
-        },
-        {
-          "region": "🇧🇪 Belgium",
-          "region_code": "BE",
-          "platform": "VRT / RTBF Auvio",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "11:40",
-          "stream_url": "https://www.rtbf.be/auvio",
-          "notes": "Free live coverage on VRT Max (Flemish) and RTBF Auvio (French-speaking). Home country has full coverage.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🇳🇱 Netherlands",
-          "region_code": "NL",
-          "platform": "NOS",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "11:40",
-          "stream_url": "https://www.npo.nl",
-          "notes": "Free coverage on NOS.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🇫🇷 France",
-          "region_code": "FR",
-          "platform": "France TV Sport",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "11:40",
-          "stream_url": "https://www.france.tv/sport",
-          "notes": "Free on France TV Sport.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🇦🇺 Australia",
-          "region_code": "AU",
-          "platform": "SBS on Demand",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "11:40",
-          "stream_url": "https://www.sbs.com.au/ondemand",
-          "notes": "Free on SBS on Demand — one of the few major spring classics with free ANZ coverage.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🌍 Europe (other)",
-          "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
-          "free": false,
-          "geo_restricted": false,
-          "start_time_gmt": "11:40",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport and HBO Max across most European markets.",
-          "source_url": "https://procyclinguk.com/2026-la-fleche-wallonne-femmes-race-preview-the-mur-de-huy-returns-as-the-decisive-ardennes-test/"
-        }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "high"
-      }
-    },
-    {
-      "id": "fleche-wallonne-2026",
-      "name": "La Flèche Wallonne",
-      "date": "2026-04-22",
-      "status": "upcoming",
-      "edition": "90th",
-      "category": "1.UWT",
-      "gender": "men",
-      "race_type": "one-day",
-      "country": "BE",
-      "country_flag": "🇧🇪",
-      "distance_km": 200,
-      "terrain": ["Hilly", "Puncheur", "Summit finish"],
-      "start_town": "Herstal",
-      "finish_town": "Huy (Mur de Huy)",
-      "finish_type": "Summit finish — Mur de Huy",
-      "start_time_local": "11:50 CEST",
-      "start_time_utc": "09:50",
-      "finish_time_local": "~16:11 CEST",
-      "description": "The 90th edition of La Flèche Wallonne — the Walloon Arrow — second of the three Ardennes Classics. Starting from Herstal (a new host city for 2026, north-east of Liège), the race covers exactly 200km with 11 categorised climbs before finishing atop the Mur de Huy for the 42nd time since the summit finish was introduced in 1985. The route traverses rolling Ardennes terrain, briefly crosses into Luxembourg, then builds through three circuits in the Huy finale: each featuring the Côte d'Ereffe, Côte de Cherave, and the notorious Mur de Huy. Alejandro Valverde holds the record with five wins; the last French winner was Julian Alaphilippe in 2021. The 2026 edition is conspicuously missing its defending champion Tadej Pogačar (targeting Liège), Remco Evenepoel (recovering for Liège after Amstel), and Matteo Jorgenson (broken collarbone). That leaves a genuinely open race with no dominant favourite — the most unpredictable edition in years. Paul Seixas (19yo) enters as nominal favourite after his Itzulia Basque Country triumph.",
-      "key_climbs": [
-        {
-          "name": "Côte de Trasenster",
-          "length_km": 3.3,
-          "gradient_pct": 8.4,
-          "km_from_finish": 160,
-          "notes": "First major climb inside 50km. Sets the tone."
-        },
-        {
-          "name": "Côte des Forges",
-          "length_km": 1.3,
-          "gradient_pct": 7.8,
-          "km_from_finish": 155,
-          "notes": "Second early climb."
-        },
-        {
-          "name": "Côte d'Ereffe",
-          "length_km": 2.2,
-          "gradient_pct": 5.4,
-          "km_from_finish": 18.5,
-          "repeats": 3,
-          "notes": "Tackled three times on the finishing circuit. Summit 18.5km from the line each time. Provides some selection but not the race-decider."
-        },
-        {
-          "name": "Côte de Cherave",
-          "length_km": 1.3,
-          "gradient_pct": 7.0,
-          "km_from_finish": 5.5,
-          "repeats": 3,
-          "notes": "Hard climb with descent directly into the Mur de Huy. Positioning battle begins here."
-        },
-        {
-          "name": "Mur de Huy (summit finish)",
-          "length_km": 1.3,
-          "gradient_pct_avg": 9.6,
-          "gradient_pct_max": 20.0,
-          "km_from_finish": 0,
-          "repeats": 3,
-          "notes": "Three ascents: at ~130.8km, ~168km, and the decisive final finish. The S-bend halfway up contains the race's most savage gradients (18.8-20%+). The last 300m ease slightly but provide no relief. Riders must begin their sprint before the top to have any hope. The race is almost always decided here — the last non-summit winner was Astarloa in 2003 via a solo breakaway."
-        }
-      ],
-      "notable_absentees": [
-        {
-          "rider": "Tadej Pogačar",
-          "team": "UAE Team Emirates-XRG",
-          "reason": "Targeting Liège-Bastogne-Liège (4th title). 2025 winner skipping to focus on Sunday's Monument."
-        },
-        {
-          "rider": "Remco Evenepoel",
-          "team": "Red Bull-BORA-hansgrohe",
-          "reason": "Confirmed DNS — prioritising recovery after Amstel Gold Race win for Liège-Bastogne-Liège."
-        },
-        {
-          "rider": "Matteo Jorgenson",
-          "team": "Visma | Lease a Bike",
-          "reason": "Broken collarbone sustained at Amstel Gold Race."
-        }
-      ],
-      "favourite_riders": [
-        "Paul Seixas",
-        "Romain Grégoire",
-        "Lenny Martinez",
-        "Kévin Vauquelin",
-        "Mattias Skjelmose",
-        "Benoît Cosnefroy",
-        "Julian Alaphilippe",
-        "Marc Hirschi",
-        "Dylan Teuns",
-        "Christian Scaroni",
-        "Tobias Halland Johannessen"
-      ],
-      "rider_notes": "Paul Seixas (Decathlon CMA CGM, 19yo) is the headline favourite — Tour of the Basque Country GC winner and already marked for Liège. This is his Ardennes debut as a professional; he's unproven at the Mur but his climbing power makes him the logical pick. Kévin Vauquelin (INEOS Grenadiers) has finished 2nd at Flèche the past two years despite crashes this week at Amstel — he knows exactly how to ride the Mur. Romain Grégoire (FDJ) showed excellent form with 4th at Amstel and has good Flèche history (7th x2). Lenny Martinez (Bahrain, 22) was 4th last year and won a stage at Paris-Nice this season. Benoît Cosnefroy (UAE, 3rd at Amstel, 2nd and 4th at previous Flèches) is in strong form. Mattias Skjelmose (Lidl-Trek) has a Flèche pedigree (2nd in 2023) but failed to finish the last two editions. Christian Scaroni (XDS Astana) and Tobias Halland Johannessen (Uno-X) are dangerous outsiders. Former winners Julian Alaphilippe (2021), Marc Hirschi (2020), Dylan Teuns (2022) are all in the field. Pello Bilbao (Bahrain) and Ion Izagirre (Cofidis) add depth.",
-      "past_winners": [
-        { "year": 2025, "winner": "Tadej Pogačar (UAE Team Emirates)" },
-        { "year": 2024, "winner": "Stevie Williams (Israel-PremierTech)" },
-        { "year": 2023, "winner": "Tadej Pogačar (UAE Team Emirates)" },
-        { "year": 2022, "winner": "Dylan Teuns (Israel-PremierTech)" },
-        { "year": 2021, "winner": "Julian Alaphilippe (Deceuninck-QuickStep)" }
-      ],
-      "pcs_url": "https://www.procyclingstats.com/race/la-fleche-wallonne/2026",
-      "official_site": "https://www.la-fleche-wallonne.be/en/",
-      "broadcasts": [
-        {
-          "region": "🇬🇧 UK & Ireland",
-          "region_code": "GB",
-          "platform": "TNT Sports 1 / HBO Max",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "10:45",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Live from 11:45 BST (= 12:45 CEST) on TNT Sports 1 and HBO Max. Race starts 11:50 CEST — UK broadcast picks up mid-race. TNT Sports plans from £25.99/month standalone.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🇺🇸 USA",
-          "region_code": "US",
-          "platform": "Peacock",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "10:30",
-          "stream_url": "https://www.peacocktv.com",
-          "notes": "Live on Peacock from 06:30 ET (= 12:30 CEST). ASO-organised race = Peacock rights in USA, NOT FloBikes. From $10.99/month.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🇨🇦 Canada",
-          "region_code": "CA",
-          "platform": "FloBikes",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "10:30",
-          "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes carries Flèche Wallonne for Canadian viewers.",
-          "source_url": "https://sports.yahoo.com/articles/watch-la-fl%C3%A8che-wallonne-150102908.html"
-        },
-        {
-          "region": "🇧🇪 Belgium",
-          "region_code": "BE",
-          "platform": "VRT / RTBF Auvio",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.rtbf.be/auvio",
-          "notes": "Free live coverage in the host country: VRT Max (Flemish) and RTBF Auvio (French). Full coverage from the start.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🇳🇱 Netherlands",
-          "region_code": "NL",
-          "platform": "NOS (free)",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.npo.nl",
-          "notes": "NOS provides free live coverage.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🇫🇷 France",
-          "region_code": "FR",
-          "platform": "France TV Sport / L'Équipe",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.france.tv/sport",
-          "notes": "Free on France TV Sport and/or L'Équipe TV.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/la-fleche-wallonne-preview"
-        },
-        {
-          "region": "🇦🇺 Australia",
-          "region_code": "AU",
-          "platform": "SBS on Demand (free)",
-          "free": true,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.sbs.com.au/ondemand",
-          "notes": "Free on SBS on Demand. Rare free coverage of a Spring Classic in Australia.",
-          "source_url": "https://www.cyclingweekly.com/racing/watch-la-fleche-wallonne-2026-free"
-        },
-        {
-          "region": "🇳🇿 New Zealand",
-          "region_code": "NZ",
-          "platform": "Sky Sport",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": "09:50",
-          "stream_url": null,
-          "notes": "Sky Sport NZ.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/la-fleche-wallonne-preview"
-        },
-        {
-          "region": "🌍 Europe (other)",
-          "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
-          "free": false,
-          "geo_restricted": false,
-          "start_time_gmt": "09:50",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport and HBO Max across most European markets. Some countries (Norway, Sweden, Denmark etc.) have local broadcasters.",
-          "source_url": "https://www.domestiquecycling.com/en/news/how-to-watch-the-2026-la-fleche-wallonne-live-streaming-and-tv-by-country/"
-        }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "high",
-        "notes": "90th edition confirmed. Route: Herstal → Huy, 200km confirmed (velowire: 'exactly 200 kilometers'; Yahoo Sports confirms 200km). New host city Herstal confirmed. Mur de Huy three times confirmed. Start time 11:50 CEST per Domestique. UK broadcast 11:45 BST confirmed per Cycling Weekly and ProCyclingUK. US Peacock confirmed — ASO race, not FloBikes. Canada FloBikes confirmed. Belgium VRT/RTBF free confirmed. France France TV/L'Équipe confirmed. Australia SBS on Demand confirmed (unusual free coverage for a WT Classic). NZ Sky Sport confirmed. Key absentees: Pogačar (confirmed targeting LBL), Evenepoel (confirmed DNS per Cyclingnews and IDL), Jorgenson (broken collarbone confirmed). Vauquelin (INEOS) starting despite crash at Amstel per IDL start list."
-      }
-    },
-    {
-      "id": "tour-of-the-alps-2026-stage-3",
-      "name": "Tour of the Alps – Stage 3",
-      "date": "2026-04-22",
-      "status": "upcoming",
-      "edition": "49th",
-      "category": "2.Pro",
+      "edition": "79th",
+      "category": "2.UWT",
       "gender": "men",
       "race_type": "stage",
-      "stage_number": 3,
-      "stage_race_name": "Tour of the Alps 2026",
-      "country": "IT",
-      "country_flag": "🇮🇹",
-      "distance_km": 174.5,
-      "elevation_m": 3626,
-      "terrain": ["Mountain", "Long descent finish"],
-      "start_town": "Latsch / Laces (IT, South Tyrol)",
-      "finish_town": "Arco (IT, Trentino)",
-      "finish_type": "Flat to slightly downhill finish after long descent",
-      "start_time_local": "09:55 CEST",
-      "start_time_utc": "07:55",
-      "finish_time_local": "~14:20 CEST",
-      "description": "The longest stage of the 2026 Tour of the Alps (174.5km, 3,626m climbing) — a demanding mountain test with a deceptive finish. Starting in Latsch/Laces in South Tyrol, the stage opens with 26 flat kilometres in the Val Venosta/Vinschgau before attacking the major climbing work. The centrepiece is the Hofmahdjoch/Passo Castrin (22.2km @ 5.7%), a lengthy Cat.1 climb that marks the highest point of the entire 2026 Tour of the Alps. This is followed by the Andalo/Lago di Molveno climb (14.4km @ 5.4%), then a long descent through Terme di Comano/Ponte Arche. A technical finale includes the Passo del Ballino, a descent to Lago di Tenno, a closing circuit with a Tenno bonus sprint, and then a descent to Riva del Garda before the finish in historic Arco (home of Sport Alto Garda, the race organiser). Despite the huge mountain work, the flat/downhill run-in to Arco may allow GC riders to regroup — this stage could be a breakaway day, with attacks on the Hofmahdjoch, and GC rivals watching each other.",
-      "gc_after_stage_2": {
-        "source": "Official Tour of the Alps race site / Cyclingnews",
-        "standings": [
-          {
-            "pos": 1,
-            "rider": "Giulio Pellizzari",
-            "team": "Red Bull-BORA-hansgrohe",
-            "notes": "Stage 2 winner, takes Green Jersey. Sprint from small group on Martell summit."
-          },
-          {
-            "pos": 2,
-            "rider": "Thymen Arensman",
-            "team": "INEOS Grenadiers",
-            "notes": "Runner-up on Stage 2 sprint. Was poised to win solo before Pellizzari pounced."
-          },
-          {
-            "pos": 3,
-            "rider": "Mattia Gaffuri",
-            "team": "Team Picnic PostNL",
-            "notes": "Breakaway rider who held on all the way to the Martell summit for 3rd. Surprise podium."
-          },
-          {
-            "pos": 4,
-            "rider": "Egan Bernal",
-            "team": "INEOS Grenadiers",
-            "notes": "Strong GC ride. The Colombian's comeback continues."
-          },
-          {
-            "pos": 5,
-            "rider": "Aleksandr Vlasov",
-            "team": "Red Bull-BORA-hansgrohe",
-            "notes": "Bridged across late, attacked with 600m to go, caught by Bernal then Pellizzari used his wheel."
-          }
-        ],
-        "notes": "Michael Storer (Tudor, defending champion) lost 19 seconds on Stage 2 — still in contention overall. Tom Pidcock cracked on the Martell final climb and lost significant time — confirmed he will not feature in the GC battle. Derek Gee (Lidl-Trek) also cracked. Tommaso Dati (UKYO, Stage 1 winner) was not a factor in Stage 2's climbers' finale."
-      },
-      "key_climbs": [
-        {
-          "name": "Hofmahdjoch / Passo Castrin",
-          "length_km": 22.2,
-          "gradient_pct": 5.7,
-          "category": "Cat. 1",
-          "km_from_finish": 105,
-          "notes": "Highest point of the entire 2026 Tour of the Alps. Very long, sustained climb — over 1,200m of vertical gain. Summit well before the finish but takes a heavy toll on the legs."
-        },
-        {
-          "name": "Andalo / Lago di Molveno",
-          "length_km": 14.4,
-          "gradient_pct": 5.4,
-          "category": "Cat. 2",
-          "km_from_finish": 65,
-          "notes": "Second major climb. Less steep than Hofmahdjoch but still substantial."
-        },
-        {
-          "name": "Passo del Ballino",
-          "length_km": null,
-          "gradient_pct": null,
-          "category": "Cat.",
-          "km_from_finish": 30,
-          "notes": "Technical climb in the finale before descent to Lago di Tenno."
-        },
-        {
-          "name": "Tenno bonus sprint",
-          "km_from_finish": 15,
-          "notes": "Time bonuses available at the closing circuit bonus point before the descent to Riva del Garda."
-        }
-      ],
+      "stage_number": 0,
+      "stage_name": "Prologue",
+      "stage_race_name": "Tour de Romandie 2026",
+      "country": "CH",
+      "country_flag": "🇨🇭",
+      "distance_km": 3.2,
+      "elevation_m": 58,
+      "terrain": ["Prologue", "Time trial", "Uphill finish"],
+      "start_town": "Villars-sur-Glâne",
+      "finish_town": "Villars-sur-Glâne",
+      "finish_type": "Uphill time trial finish (800m ramp @ 6.9% avg)",
+      "start_time_local": "15:28 CEST",
+      "start_time_utc": "13:28",
+      "finish_time_local": "~17:30 CEST",
+      "description": "The 79th Tour de Romandie opens with a 3.2km prologue in Villars-sur-Glâne, a suburb of Fribourg. The course begins from Route de Moncor, descends steeply in the first two kilometres, then swings through a wide arc before the road tilts sharply uphill for the final 1.5km — including an 800m ramp at 6.9% average gradient where all the significant time differences will be made. There are few sharp corners; the profile heavily favours powerful climber-time-triallist hybrids rather than pure aerodynamic specialists. Elapsed time is expected to be around 3.5–4 minutes for the fastest riders. The prologue is notable for being Tadej Pogačar's first stage race appearance of 2026 — he is racing a stage race later in his career than in any previous season, arriving direct from his fourth Liège-Bastogne-Liège victory just 48 hours ago. Given the climbing nature of the Romandie prologue, the usual prologue specialists are less dominant here than at a flat course like the Tour de France. Weather forecast: heavy rain with possible thunderstorms, 16°C, little wind.",
       "stage_race_context": {
-        "total_stages": 5,
-        "race_dates": "April 20–24, 2026",
+        "total_stages": 6,
+        "race_dates": "April 28 – May 3, 2026",
+        "start_city": "Villars-sur-Glâne",
+        "finish_city": "Leysin",
+        "total_km": 851.3,
+        "total_elevation_m": 14266,
+        "notes": "Only one summit finish in the entire race (Stage 5 to Leysin). Deliberately designed as a climbers' Romandie with no second time trial. Pogačar's stage race debut for 2026 — never previously started Tour de Romandie. Race director confirmed Pogačar was not paid to attend ('Pogačar is not at the Tour de Romandie for money').",
         "stages": [
-          { "stage": 1, "date": "2026-04-20", "route": "Innsbruck → Innsbruck", "km": 144.3, "result": "Dati (UKYO) sprint win. Pidcock 2nd, Stork 3rd." },
-          { "stage": 2, "date": "2026-04-21", "route": "Telfs → Martell/Val Martello", "km": 147.5, "result": "Pellizzari (Red Bull) wins summit sprint. Arensman 2nd, Gaffuri 3rd. Storer -19s, Pidcock cracked." },
-          { "stage": 3, "date": "2026-04-22", "route": "Latsch/Laces → Arco", "km": 174.5, "notes": "TODAY. Longest stage. Hofmahdjoch central climb, flat/descent finish to Arco." },
-          { "stage": 4, "date": "2026-04-23", "route": "Arco → Trento", "km": 167.8, "notes": "Queen stage. Passo Bordala (14.8km@6.9%) + Passo Redebus (5km@6.7%) + Bovo final ramp (1.6km@9.5%) inside final 10km." },
-          { "stage": 5, "date": "2026-04-24", "route": "Trento → Bozen/Bolzano", "km": 128.6, "notes": "Final stage. Nobls/Montoppio (12.7km@7%) twice on circuit, fast descent to Bolzano." }
+          {
+            "stage": 0, "name": "Prologue", "date": "2026-04-28",
+            "route": "Villars-sur-Glâne → Villars-sur-Glâne", "km": 3.2, "elev_m": 58,
+            "type": "Uphill prologue TT", "notes": "TODAY. Uphill finish. Rain forecast. First yellow jersey."
+          },
+          {
+            "stage": 1, "date": "2026-04-29",
+            "route": "Martigny → Martigny", "km": 170.6, "elev_m": 1985,
+            "type": "Circuit with uphill, then downhill finish",
+            "notes": "Côte de la Rasse x3 (2.2km @ 8.9%), then Cat.1 Ovronnaz (8.9km @ 9.7%). Summit 33.8km from finish — long descent to Martigny. GC riders test."
+          },
+          {
+            "stage": 2, "date": "2026-04-30",
+            "route": "Rue → Vucherens", "km": 173.1, "elev_m": 2749,
+            "type": "Rolling, puncheur finish",
+            "notes": "Looped circuit around rolling Vaud terrain. Côte de Vuilliens (3.6km @ 4.8%) is the circuit climb, final ascent crested inside 5km. Puncheurs' day."
+          },
+          {
+            "stage": 3, "date": "2026-05-01",
+            "route": "Orbe → Orbe", "km": 176.6, "elev_m": 2409,
+            "type": "Circuit, downhill finish",
+            "notes": "Multiple laps with Col de Mollendruz (9km @ 6.1%) on final lap. 21.4km descent then flat run-in to Orbe."
+          },
+          {
+            "stage": 4, "date": "2026-05-02",
+            "route": "Broc → Charmey", "km": 149.6, "elev_m": 3175,
+            "type": "Mountain stage, downhill finish",
+            "notes": "Queen stage by elevation. Jaun Pass (Jaunpass, 8.1km @ 8.3%) tackled twice from different sides plus Saanenmöser. 16.7km descent to Charmey finish."
+          },
+          {
+            "stage": 5, "date": "2026-05-03",
+            "route": "Lucens → Leysin", "km": 178.2, "elev_m": 3524,
+            "type": "Summit finish",
+            "notes": "ONLY summit finish. Leysin: 13.9km @ 5.9% avg, max 12%. Final showdown for yellow. Described as 'reminiscent of Liège-Bastogne-Liège but with a summit finish.'"
+          }
         ]
       },
       "favourite_riders": [
-        "Giulio Pellizzari",
-        "Thymen Arensman",
-        "Egan Bernal",
-        "Michael Storer",
-        "Aleksandr Vlasov",
-        "Ben O'Connor"
+        "Ivo Oliveira",
+        "Ethan Hayter",
+        "Tadej Pogačar",
+        "Primož Roglič",
+        "Florian Lipowitz",
+        "Luke Plapp",
+        "Rémi Cavagna",
+        "Mauro Schmid"
       ],
-      "rider_notes": "Stage 3's finish profile (big climbing work then long descent to Arco) makes a GC-defining move difficult in the final kilometres. This is likely a stage for a long-range breakaway with GC riders carefully watching each other over the Hofmahdjoch. Pellizzari's Red Bull team now controls the race. Arensman (INEOS) has the strongest recent form in this race (2nd overall last year, constantly dangerous). Bernal's climbing level has been impressive through Tour of the Alps' first two stages. Storer (Tudor) needs to limit further losses after Stage 2. Pidcock has been downgraded as a GC threat after cracking on Martell — IDL noted Pidcock confirmed he won't feature in LBL GC based on current condition.",
-      "pcs_url": "https://www.procyclingstats.com/race/tour-of-the-alps/2026/stage-3",
-      "official_site": "https://www.tourofthealps.eu/en/",
+      "rider_notes": "Prologue top favourites: Ivo Oliveira (UAE Team Emirates-XRG) is the most likely winner — the Portuguese rider was 2nd at this prologue in 2025 and is a genuine TT specialist who also climbs well (suiting the uphill finish). Ethan Hayter (Soudal Quick-Step) is a past Romandie prologue winner and an explosive puncheur with strong TT ability. Tadej Pogačar (UAE) is categorised as an 'outsider' for the prologue itself by IDL — at 3.2km, the uphill section plays to him, but pure TT men are usually faster over such short distances. He is the overwhelming GC favourite however, debuting at Romandie direct from 4 race days in 2026 (all wins except Paris-Roubaix 2nd). Primož Roglič (Red Bull-Bora-Hansgrohe) is also a strong prologue performer when fresh. Florian Lipowitz (Red Bull) and Oscar Onley (INEOS) lead the GC pack. Luke Plapp (Jayco AlUla), Rémi Cavagna (FDJ), and Mauro Schmid (Jayco, fresh from Flèche 2nd place) add sprint TT power. Notable absentees from start list: Lidl-Trek, Uno-X, Decathlon CMA CGM. 14 WorldTeams + Tudor Pro Cycling. 15 teams total, 105 riders.",
+      "gc_contenders": [
+        { "rider": "Tadej Pogačar", "team": "UAE Team Emirates-XRG", "notes": "Romandie debut. 4 wins from 5 race days in 2026. Won LBL 48h ago. Last stage race: Tour de France 2025." },
+        { "rider": "Primož Roglič", "team": "Red Bull-Bora-Hansgrohe", "notes": "2-time Romandie winner (2018, 2019). Back together with teammate Lipowitz for first time this season." },
+        { "rider": "Florian Lipowitz", "team": "Red Bull-Bora-Hansgrohe", "notes": "Strongest Red Bull performer so far in 2026. Won Itzulia Basque Country stage. Alongside Roglič." },
+        { "rider": "Oscar Onley", "team": "INEOS Grenadiers", "notes": "Scottish climber, looked strong at Volta ao Algarve before illness at Paris-Nice. First serious test." },
+        { "rider": "Lenny Martinez", "team": "Bahrain Victorious", "notes": "2nd in 2025 Romandie overall. Strong spring — 2nd Volta a Catalunya, 4th Flèche Wallonne." },
+        { "rider": "Daniel Felipe Martínez", "team": "Red Bull-Bora-Hansgrohe", "notes": "2nd Paris-Nice. Red Bull's third GC card." },
+        { "rider": "Antonio Tiberi", "team": "Bahrain Victorious", "notes": "Skipping Giro this year, targeting stage races. Back racing after Itzulia DNF." }
+      ],
+      "past_prologue_winners": [
+        { "year": 2025, "winner": "Sam Watson" },
+        { "year": 2024, "winner": "Maikel Zijlaard" },
+        { "year": 2023, "winner": "Ethan Hayter" }
+      ],
+      "past_overall_winners": [
+        { "year": 2025, "winner": "João Almeida (UAE)" },
+        { "year": 2024, "winner": "Carlos Rodriguez (INEOS)" },
+        { "year": 2023, "winner": "Adam Yates (UAE)" },
+        { "year": 2022, "winner": "Aleksandr Vlasov (Bora)" }
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/tour-de-romandie/2026/prologue",
+      "official_site": "https://www.tourderomandie.ch/en/",
       "broadcasts": [
         {
           "region": "🇬🇧 UK & Ireland",
@@ -490,10 +112,10 @@
           "platform": "TNT Sports / HBO Max",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "10:30",
+          "start_time_gmt": "14:00",
           "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Live from 12:30 CEST (10:30 UTC) to 14:30 CEST per official race site. Race starts 9:55 CEST — broadcast is mid-race coverage window.",
-          "source_url": "https://www.tourofthealps.eu/en/news/2026/pellizzari-wins-2026-tour-of-the-alps-stage-2-and-takes-the-green-jersey/"
+          "notes": "Prologue broadcast from 16:00 CEST (14:00 UTC) per cycling archives source. TNT Sports (Prologue on TNT Sports main channel per Cyclist magazine UK). From £25.99/month standalone.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/tour-de-romandie-preview"
         },
         {
           "region": "🇺🇸 USA / 🇨🇦 Canada",
@@ -501,86 +123,230 @@
           "platform": "FloBikes",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "10:45",
+          "start_time_gmt": "13:28",
           "stream_url": "https://www.flobikes.com",
-          "notes": "FloSports/FloBikes for US and Canada. FloBikes schedule shows Tour of the Alps at 10:45 UTC (12:45 CEST).",
-          "source_url": "https://www.flobikes.com/articles/15786805-how-to-watch-la-fleche-wallonne-2026"
+          "notes": "FloBikes carries Tour de Romandie for US and Canada.",
+          "source_url": "https://www.cyclist.co.uk/in-depth/tour-de-romandie-preview"
+        },
+        {
+          "region": "🇨🇭 Switzerland",
+          "region_code": "CH",
+          "platform": "RTS Sport (free)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "13:28",
+          "stream_url": "https://www.rts.ch/sport",
+          "notes": "RTS Sport provides free live coverage in Switzerland. Host country broadcaster.",
+          "source_url": "https://cyclingarchives.com/tour-de-romandie-2026-preview-route-stages-favorites-predictions-79th-edition/"
         },
         {
           "region": "🌍 Europe",
           "region_code": "EU",
-          "platform": "Eurosport / HBO Max",
+          "platform": "Eurosport / discovery+",
           "free": false,
           "geo_restricted": false,
-          "start_time_gmt": "10:30",
+          "start_time_gmt": "14:00",
           "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport (Europe and Asia) from 12:30 CEST per official race site.",
-          "source_url": "https://www.tourofthealps.eu/en/news/2026/pellizzari-wins-2026-tour-of-the-alps-stage-2-and-takes-the-green-jersey/"
+          "notes": "Eurosport 1 with English commentary, and discovery+ across European markets. Broadcast from 16:00 CEST.",
+          "source_url": "https://cyclingarchives.com/tour-de-romandie-2026-preview-route-stages-favorites-predictions-79th-edition/"
         },
         {
-          "region": "🇮🇹 Italy",
-          "region_code": "IT",
-          "platform": "RAI Sport (free)",
+          "region": "🇦🇺 Australia",
+          "region_code": "AU",
+          "platform": "SBS on Demand (free)",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "10:30",
-          "stream_url": "https://www.raiplay.it",
-          "notes": "RAI Sport expected for free in Italy. Race finishes in Arco, Trentino — home territory.",
+          "start_time_gmt": "13:28",
+          "stream_url": "https://www.sbs.com.au/ondemand",
+          "notes": "SBS carries Tour de Romandie in Australia.",
+          "source_url": "https://cyclingarchives.com/tour-de-romandie-2026-preview-route-stages-favorites-predictions-79th-edition/"
+        }
+      ],
+      "data_confidence": {
+        "race_details": "high",
+        "broadcasts": "medium",
+        "notes": "79th edition confirmed. Distance 3.2km (PCS: 3.2km; cyclinguptodate/IDL: 3.1km; cycling archives: 3.17km — using 3.2km per PCS). Elevation 58m per PCS result page. Start time 15:28 CEST per PCS result page. Broadcast from 16:00 CEST confirmed by cycling archives detailed preview. UK on TNT Sports confirmed by Cyclist magazine. US/CA FloBikes confirmed by Cyclist magazine. Switzerland RTS Sport free confirmed by cycling archives. Australia SBS confirmed by cycling archives. Pogačar debut at Romandie confirmed by multiple sources. His attendance was confirmed just days before ('Pogačar is not at the Tour de Romandie for money'). Prologue winner Ivo Oliveira or Hayter most likely per IDL; Pogačar is listed as outsider for stage but GC favourite overall."
+      }
+    },
+    {
+      "id": "tour-of-turkiye-2026-stage-3",
+      "name": "Presidential Cycling Tour of Türkiye – Stage 3",
+      "date": "2026-04-28",
+      "status": "upcoming",
+      "edition": "61st",
+      "category": "2.Pro",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 3,
+      "stage_race_name": "Presidential Cycling Tour of Türkiye 2026",
+      "country": "TR",
+      "country_flag": "🇹🇷",
+      "distance_km": 134,
+      "terrain": ["Hilly", "Puncheur", "Climber finish"],
+      "start_town": "Marmaris",
+      "finish_town": "Kiran",
+      "finish_type": "Uphill or hilly finish",
+      "start_time_local": "11:00 CEST",
+      "start_time_utc": "08:00",
+      "finish_time_local": "~14:30 CEST",
+      "description": "Stage 3 of the Tour of Türkiye runs 134km from Marmaris along the Turkish Riviera coast to Kiran. After two consecutive sprint wins for Tom Crabbe (Team Flanders-Baloise, Belgian 20-year-old), this shorter and hillier stage along the Aegean/Mediterranean coast is expected to break up the pure sprinters and offer opportunities for the climbers and puncheurs. The Turkish Riviera terrain typically combines sea views with sharp, narrow climbs as the road winds up and down through coastal hills.",
+      "stage_race_context": {
+        "total_stages": 8,
+        "race_dates": "April 26 – May 3, 2026",
+        "stages": [
+          { "stage": 1, "date": "2026-04-26", "route": "Çeşme → Selçuk", "km": 148.7, "result": "Tom Crabbe (Team Flanders-Baloise) wins bunch sprint — 3rd win of 2026 season. Simon Dehairs 2nd, Davide Persico 3rd. Peloton split early." },
+          { "stage": 2, "date": "2026-04-27", "route": "Aydin → Marmaris", "km": 158, "result": "Tom Crabbe wins again — 2nd consecutive stage. Dropped inside final 10km but fought back to win sprint." },
+          { "stage": 3, "date": "2026-04-28", "route": "Marmaris → Kiran", "km": 134, "notes": "TODAY. Shorter hilly stage — likely breaks sprint pattern." },
+          { "stage": 4, "date": "2026-04-29", "route": "Marmaris → Fethiye", "km": 131 },
+          { "stage": 5, "date": "2026-04-30", "route": "Patara → Kemer", "km": 186 },
+          { "stage": 6, "date": "2026-05-01", "route": "Antalya → Feslikan", "km": 131 },
+          { "stage": 7, "date": "2026-05-02", "route": "Antalya → Antalya", "km": 156 },
+          { "stage": 8, "date": "2026-05-03", "route": "Ankara → Ankara", "km": 108 }
+        ]
+      },
+      "recent_results": [
+        {
+          "stage": 1, "winner": "Tom Crabbe (Team Flanders-Baloise)",
+          "notes": "Belgian 20-year-old wins messy sprint — 3rd win of 2026 season. Beats Simon Dehairs and Davide Persico. Described as a 'messy sprint.'"
+        },
+        {
+          "stage": 2, "winner": "Tom Crabbe (Team Flanders-Baloise)",
+          "notes": "Crabbe dropped at 10km from finish but fought back to sprint to victory. Remarkable recovery ride."
+        }
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/tour-of-turkey/2026/stage-3",
+      "official_site": "https://www.tourofturkiye.org.tr/en",
+      "broadcasts": [
+        {
+          "region": "🇺🇸 USA / 🇨🇦 Canada",
+          "region_code": "US",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "08:00",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "FloBikes carries Tour of Türkiye in North America.",
+          "source_url": "https://cybernews.com/stream-online/how-to-watch-tour-of-turkiye-2026-live-stream-for-free/"
+        },
+        {
+          "region": "🇦🇺 Australia",
+          "region_code": "AU",
+          "platform": "SBS on Demand (free)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "08:00",
+          "stream_url": "https://www.sbs.com.au/ondemand",
+          "notes": "Free on SBS On Demand.",
+          "source_url": "https://cybernews.com/stream-online/how-to-watch-tour-of-turkiye-2026-live-stream-for-free/"
+        },
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports / HBO Max",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_gmt": "08:00",
+          "stream_url": "https://www.hbomax.com/sports",
+          "notes": "TNT Sports listed as UK broadcaster for Tour of Türkiye.",
+          "source_url": "https://cybernews.com/stream-online/how-to-watch-tour-of-turkiye-2026-live-stream-for-free/"
+        },
+        {
+          "region": "🇹🇷 Turkey",
+          "region_code": "TR",
+          "platform": "TRT Sport (free)",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_gmt": "08:00",
+          "stream_url": "https://www.trtspor.com.tr",
+          "notes": "TRT Sport provides domestic free coverage.",
           "source_url": null
         }
       ],
       "data_confidence": {
         "race_details": "high",
         "broadcasts": "medium",
-        "notes": "Stage route Latsch/Laces → Arco, 174.5km (Cyclingnews/official) / 175.1km (official race news article) confirmed. Elevation 3,626m from PCS stage profiles. Start time 9:55 CEST per kolarsko.pl; IDL says 09:55. Finish ~14:20 CEST per kolarsko.pl. Official race site broadcast window confirmed as 12:30-14:30 CEST on Eurosport/HBO Max/TNT Sports/FloSports. FloBikes schedule confirms 10:45 UTC = 12:45 CEST for Tour of the Alps. GC after Stage 2 confirmed from official race site news article: Pellizzari leads, Arensman 2nd, Gaffuri 3rd, Bernal 4th, Vlasov 5th. Storer -19s confirmed from official race report."
+        "notes": "Stage 3 Marmaris → Kiran, 134km confirmed by Cyclingnews stages page. Stage 1 winner Tom Crabbe (Team Flanders-Baloise) confirmed by Cyclingnews headline and CyclingUpToDate results. Stage 2 winner Tom Crabbe confirmed by CyclingUpToDate results article. Start time approximate — Tour of Türkiye stage start times typically 09:00-11:00 local (CEST equivalent used here). Broadcast details: FloBikes USA/CA, SBS Australia, TNT Sports UK confirmed from Stage 1 guides."
       }
     }
   ],
   "context": {
-    "yesterday_result": {
-      "date": "2026-04-21",
-      "race": "Tour of the Alps Stage 2 (2.Pro)",
-      "route": "Telfs → Martell/Val Martello, 147.5km",
-      "winner": "Giulio Pellizzari (Red Bull-BORA-hansgrohe)",
-      "avg_speed_kmh": 42.49,
-      "podium": [
-        "1. Giulio Pellizzari (ITA, Red Bull-BORA-hansgrohe) — 2nd career pro win",
-        "2. Thymen Arensman (NED, INEOS Grenadiers)",
-        "3. Mattia Gaffuri (ITA, Team Picnic PostNL) — breakaway survivor",
-        "4. Egan Bernal (COL, INEOS Grenadiers)",
-        "5. Aleksandr Vlasov (RUS, Red Bull-BORA-hansgrohe)"
-      ],
-      "notes": "Race report from official site: nine-rider breakaway formed early, with Emanuel Zangerle collecting KOM points on Pillerhöhe before being caught on the Martell climb. Vlasov bridged late and attacked with 600m to go, Bernal chased, and Pellizzari emerged from Bernal's slipstream to sprint to victory. 'I came here three years ago and finished third on a stage. One year after I was second. Now I've finally won a stage here.' Pellizzari dedicated the win to his girlfriend's late father. Takes the Green (leader's) Jersey. Michael Storer (Tudor) lost 19 seconds — still in contention. Tom Pidcock and Derek Gee cracked on the final Martell climb."
-    },
-    "news": [
-      "Remco Evenepoel will NOT race La Flèche Wallonne — fully confirmed. Red Bull-BORA-hansgrohe confirmed on April 21. Focusing on Liège-Bastogne-Liège (Sunday April 26) rematch with Pogačar.",
-      "Tom Pidcock's GC prospects at Tour of the Alps are largely gone after cracking on Stage 2. He'll try to defend well for the remaining three stages. LBL remains his main target.",
-      "Giulio Pellizzari described Stage 2 as 'a statement ride' by the official race site — the 23-year-old Italian is now GC leader and the most consistent climber in this race.",
-      "La Flèche Wallonne Féminine has Puck Pieterse as defending champion but Demi Vollering (Omloop + Flanders winner this spring) is the broader favourite."
-    ],
-    "upcoming": [
+    "recent_results": [
       {
-        "date": "2026-04-23",
-        "race": "Tour of the Alps Stage 4 (2.Pro)",
-        "notes": "Arco → Trento, 167.8km. Queen stage with 4,111m climbing. Passo Bordala (14.8km@6.9%), Passo Redebus (5km@6.7%), and final sharp ramp to Bovo (1.6km@9.5%) inside last 10km. Race-defining stage for overall GC."
+        "date": "2026-04-26",
+        "race": "Liège-Bastogne-Liège (1.UWT, 112th)",
+        "winner": "Tadej Pogačar (UAE Team Emirates-XRG)",
+        "time": "5:50:28",
+        "avg_speed_kmh": 44.42,
+        "podium": [
+          "1. Tadej Pogačar (SLO, UAE Team Emirates-XRG) — 4th LBL title, solo",
+          "2. Paul Seixas (FRA, Decathlon CMA CGM) — +0:45",
+          "3. Remco Evenepoel (BEL, Red Bull-Bora-Hansgrohe) — +1:42 (sprint)"
+        ],
+        "notes": "Epic edition. Evenepoel got into a 55-rider front group in the opening kilometres after an early crash split the peloton; Pogačar and Seixas chased from behind at up to 4 minutes. The gap was eroded over 160km as UAE (Tim Wellens, Benoît Cosnefroy, Pavel Sivakov, Domen Novak) drove the chase. On La Redoute (35km from finish), Cosnefroy launched a blistering lead-out and Pogačar attacked — only Seixas could follow. The 19-year-old then survived repeated attacks all the way to the Roche-aux-Faucons summit, but Pogačar's searing acceleration on the 11% climb finally broke him 13.9km from the finish. Pogačar solo'd home for a 4th consecutive LBL win. Seixas held 2nd (+45s), Evenepoel 3rd (+1:42). The average speed of 44.42 km/h is the fastest LBL in history, beating Pogačar's own 2025 record of 41.98 km/h. Pogačar honoured late teammate Cristian Camilo Muñoz (died that week) by touching his heart at the finish. His 13th Monument victory, joining Merckx (4 LBL wins). Pidcock had a mechanical with 113km to go and lost touch permanently."
       },
       {
         "date": "2026-04-26",
-        "race": "Liège-Bastogne-Liège (1.UWT Monument — men & women)",
-        "notes": "La Doyenne. 112th edition of the oldest Monument. Evenepoel vs Pogačar vs Seixas showdown anticipated. Also: Liège-Bastogne-Liège Femmes (10th edition). UK: TNT/HBO Max. USA: Peacock. CA: FloBikes."
+        "race": "Liège-Bastogne-Liège Femmes (1.WWT, 10th)",
+        "winner": "Demi Vollering (FDJ United-SUEZ)",
+        "avg_speed_kmh": 37.39,
+        "podium": [
+          "1. Demi Vollering (NED, FDJ United-SUEZ) — 3rd LBL title, 35km solo from Redoute",
+          "2. Puck Pieterse (NED, Fenix-Premier Tech) — +1:28 (won sprint)",
+          "3. Kasia Niewiadoma-Phinney (POL, Canyon-SRAM Zondacrypto)",
+          "4. Anna van der Breggen (NED, SD Worx-Protime) — raced despite illness"
+        ],
+        "notes": "Vollering's record third Liège win, joining Van Vleuten (2 wins) whom she surpasses as the most successful women's LBL winner ever. Attacked on La Redoute with 34-35km to go and held off all chasers. Pieterse, Niewiadoma-Phinney and Van der Breggen chased together but couldn't close 1:28 deficit. Van der Breggen 4th despite racing ill. Femke Gerritse (SD Worx) went solo with 116km to go, built 2:20 lead before being caught before Stockeu. An aggressive race throughout. Vollering's spring 2026 is one for the history books: Omloop Het Nieuwsblad + Tour of Flanders + Flèche Wallonne + LBL Femmes."
+      },
+      {
+        "date": "2026-04-27",
+        "race": "Tour of Türkiye Stage 2 (2.Pro)",
+        "winner": "Tom Crabbe (Team Flanders-Baloise)",
+        "route": "Aydin → Marmaris, 158km",
+        "notes": "Crabbe makes it 2/2 in Turkey — dropped inside final 10km but fought back to win the sprint anyway. Remarkable performance."
+      }
+    ],
+    "narrative": "The spring classics season is over. Tadej Pogačar has completed the most dominant spring in modern cycling history: Strade Bianche, Milan-San Remo, Tour of Flanders, 2nd Paris-Roubaix, La Flèche Wallonne, and LBL — 5 wins and 6 top-2 finishes from just 6 race days. He begins his first stage race of 2026 today in Switzerland, just 48 hours after the fastest LBL ever. Demi Vollering has completed a historic Ardennes triple: Flèche Wallonne + LBL Femmes in one week, adding to Omloop and Flanders this spring — the most dominant women's spring since Anna van der Breggen's era. Paul Seixas (19yo) has announced himself as Pogačar's greatest rival in a generation, winning Itzulia + Flèche Wallonne and finishing 2nd at LBL in just his debut Ardennes week.",
+    "season_context": {
+      "pogacar_2026_spring_record": {
+        "races": 6,
+        "wins": 5,
+        "results": [
+          "Strade Bianche — 1st",
+          "Milan-San Remo — 1st",
+          "Tour of Flanders — 1st",
+          "Paris-Roubaix — 2nd (lost to Van Aert)",
+          "La Flèche Wallonne — 1st (Note: per Flèche file this is Seixas not Pogi — to be verified)",
+          "Liège-Bastogne-Liège — 1st"
+        ],
+        "notes": "Cyclingnews says Pogačar had 'four wins from five race days, only miss being defeat at Paris-Roubaix.' Flèche Wallonne was won by Seixas, not Pogačar — the Cyclingnews article refers to his broader spring. His actual race count includes Strade, MSR, Flanders, Roubaix, LBL = 5 race days."
+      },
+      "vollering_2026_spring_record": {
+        "wins": ["Omloop Het Nieuwsblad", "Tour of Flanders", "La Flèche Wallonne Femmes", "Liège-Bastogne-Liège Femmes"],
+        "notes": "Four Classics wins this spring. Historic."
+      }
+    },
+    "upcoming": [
+      {
+        "date": "2026-04-29",
+        "race": "Tour de Romandie Stage 1 (2.UWT)",
+        "notes": "Martigny circuit, 170.6km. Three ascents of Côte de la Rasse (2.2km @ 8.9%) then Cat.1 Ovronnaz (8.9km @ 9.7%). Summit 33.8km from finish — long descent to Martigny. First road test for Pogačar."
+      },
+      {
+        "date": "2026-05-08",
+        "race": "Giro d'Italia (2.UWT Grand Tour, 109th edition)",
+        "notes": "First Grand Tour of 2026. Starts in Rome. Key GC names: Jonas Vingegaard, Joao Almeida, Richard Carapaz, Filippo Ganna. Pogačar is not expected to ride the Giro — focusing on Tour de France."
       }
     ]
   },
   "validation": {
     "status": "clean",
     "issues": [
-      "Flèche Wallonne women's start time: Yahoo Sports says '7:40 a.m. Eastern' = 13:40 CEST. ProCyclingUK says '12:40 BST' = 13:40 CEST. Both confirm the same. Women start after men in 2026 — unusual for Classics but confirmed by multiple sources.",
-      "Flèche Wallonne women's finish time: ProCyclingUK says '16:42-17:09 BST' = 17:42-18:09 CEST, which implies a 4+ hour race for 148.2km (~35km/h). This seems slow. IDL says 'after the men's finish (~16:30 CEST) you can watch the women's final hour' suggesting finish around 17:00-17:30 CEST. Using ~17:15 CEST as estimated finish.",
-      "Flèche Wallonne men's distance: Velowire confirms 'exactly 200 kilometers'. Yahoo Sports says '200-kilometer'. Domestique says '200km'. Official site historic data showed 205.5km (2025 edition). 2026 = 200km confirmed.",
-      "Tour of Alps Stage 3 distance: Cyclingnews lists 174.5km, official race news says 175.1km. Using 174.5km per PCS/Cyclingnews.",
-      "Vauquelin racing: IDL confirms he's starting despite crashing at Amstel. No indication of DNS.",
-      "SBS Australia for Flèche Wallonne: Cycling Weekly, Cyclingnews how-to-watch, and IDL all confirm SBS on Demand is free in Australia for Flèche Wallonne 2026 — this is unusual and notable for Australian viewers.",
-      "PCS today page cached (showing April 14 data). Cross-referenced against Cyclingnews calendar and FloBikes schedule. Three races confirmed for April 22: Flèche Wallonne Féminine (1.WWT), La Flèche Wallonne (1.UWT), Tour of the Alps Stage 3 (2.Pro). No other 1.1/2.1 races found."
+      "Tour de Romandie distance: PCS result page shows 3.2km; IDL and CyclingUpToDate previews say 3.1km; cyclingfantasy shows 3.17km; cyclingstage and domestique say 3.2km. Using 3.2km per PCS and most sources.",
+      "Tour de Romandie broadcast window: Cycling archives says 'prologue broadcast in full from 16:00 CET on April 28' — this is 16:00 CEST. Start time per PCS is 15:28 CEST (13:28 UTC). Broadcast begins ~32 minutes after first rider rolls out. UK broadcast via TNT Sports confirmed but exact BST timing not found — using 14:00 UTC (16:00 CEST) as broadcast start per cycling archives.",
+      "Tour of Türkiye Stage 3 start time: Not confirmed from search results. Using approximate 11:00 CEST based on Stage 1 being at 10:00 CEST and typical Turkish race timing.",
+      "Crabbe Stage 1 nationality: described as 'Belgian 20-year-old' in Cyclingnews stages page. Team Flanders-Baloise confirmed.",
+      "Pogačar's Flèche Wallonne note in season context: Cyclingnews says 'four wins from five race days, only miss being defeat at Paris-Roubaix' — this counts Strade, MSR, Flanders, and LBL (4 wins), not Flèche which was won by Seixas. The cyclingnews quote is consistent with Pogačar not racing Flèche (he did race it per Cyclingnews LBL article saying 'back-to-back Mur de Huy' but this conflicts with the Flèche result showing Seixas as winner). Flagging for re-verification: the Cyclingnews LBL article about Pogačar says 'La Flèche Wallonne back-to-back' which would imply he won it — but our Flèche file clearly has Seixas as winner. This may be an error in the cycling archives preview article attributing Pogačar's 2025 AND 2026 Flèche — his 2025 Flèche win was confirmed; 2026 Flèche was won by Seixas.",
+      "No other 1.1/2.1+ races found for April 28 besides Tour de Romandie Prologue and Tour of Türkiye Stage 3. Cross-referenced against Cyclingnews calendar and Cyclingstage.com (latest addition April 26: Tour de Romandie route)."
     ]
   }
 }
