@@ -1,341 +1,317 @@
 {
-  "generated_at": "2026-04-29T08:00:00Z",
-  "date": "2026-04-29",
+  "generated_at": "2026-05-01T12:00:00Z",
+  "date": "2026-05-01",
   "races": [
     {
-      "id": "tour-de-romandie-2026-stage-1",
-      "name": "Tour de Romandie – Stage 1",
-      "date": "2026-04-29",
-      "status": "upcoming",
-      "edition": "79th",
-      "category": "2.UWT",
+      "id": "eschborn-frankfurt-2026",
+      "name": "Eschborn-Frankfurt",
+      "date": "2026-05-01",
+      "status": "live",
+      "edition": "63rd",
+      "category": "1.UWT",
       "gender": "men",
-      "race_type": "stage",
-      "stage_number": 1,
-      "stage_race_name": "Tour de Romandie 2026",
-      "country": "CH",
-      "country_flag": "🇨🇭",
-      "distance_km": 171.2,
-      "elevation_m": 2186,
-      "terrain": ["Hilly", "Downhill finish", "GC stage"],
-      "start_town": "Martigny",
-      "finish_town": "Martigny",
-      "finish_type": "Flat sprint on valley floor — 33.8km after summit of Ovronnaz",
-      "start_time_local": "13:25 CEST",
-      "start_time_utc": "11:25",
-      "finish_time_local": "~17:26 CEST",
-      "description": "The first road stage of the 2026 Tour de Romandie, and the first real test for the GC. Starting and finishing in Martigny in the Rhône Valley, the 171.2km route begins with three opening circuits of 37.4km each, featuring the short but savage Côte de La Rasse (2.5km @ 8.4%, Cat.3) on every lap. After the third circuit, the race pivots north-east along the flat Rhône floor to Saxon, where an intermediate sprint is held, before the road swings south up the Val d'Ardon to attack the Ovronnaz (8.9km @ 9.8%, Cat.1 — final 2.7km @ 10.4%). This is the decisive test of the day. The summit of Ovronnaz comes 33.8km from the finish — a long descent through the mountain village, then a flat 22km run back into Martigny. Because of this long run-in, the finish is genuinely open: a strong climber who attacks solo on Ovronnaz could hold it all the way, but a powerful reduced group could also sprint it out. Bonus seconds at finish: 10s/6s/4s. Weather forecast: sunny, ~20-26°C at race level, mild north-easterly wind of no consequence.",
-      "gc_after_prologue": {
-        "source": "PCS / Cyclingnews / AFP",
-        "standings": [
-          { "pos": 1, "rider": "Dorian Godon", "team": "INEOS Grenadiers", "time": "0:03:35", "gap": "0:00", "jersey": "Yellow (leader) + French champion's stripes" },
-          { "pos": 2, "rider": "Jakob Söderqvist", "team": "Lidl-Trek", "gap": "+0:06", "jersey": "White (Best Young Rider)" },
-          { "pos": 3, "rider": "Ivo Oliveira", "team": "UAE Team Emirates-XRG", "gap": "+0:06", "notes": "Few hundredths behind Söderqvist. Returned from foot fracture sustained in crash at Volta a Catalunya." },
-          { "pos": 4, "rider": "Mauro Schmid", "team": "Jayco AlUla", "gap": "+0:06" },
-          { "pos": 5, "rider": "Tadej Pogačar", "team": "UAE Team Emirates-XRG", "gap": "+0:07", "notes": "Best GC contender. Started last, delivered clean ride but couldn't match Godon. 7s deficit is very manageable." },
-          { "pos": 8, "rider": "Primož Roglič", "team": "Red Bull-Bora-Hansgrohe", "gap": "+0:08" },
-          { "pos": 10, "rider": "Florian Lipowitz", "team": "Red Bull-Bora-Hansgrohe", "gap": "+0:10" },
-          { "pos": 25, "rider": "Lenny Martinez", "team": "Bahrain Victorious", "gap": "+0:17" },
-          { "rider": "Oscar Onley", "team": "INEOS Grenadiers", "gap": "~+0:30", "notes": "BIG LOSER of the prologue — lost around 30 seconds to his rivals before the race had properly begun. GC ambitions severely compromised." }
-        ],
-        "prologue_notes": "Dorian Godon (INEOS, French national champion) was a complete surprise winner of the prologue, covering 3.2km in 3:35 at 53.58 km/h — the fourth win of his 2026 season and 20th of his career, but his first in a time trial since 2019. He measured the crucial 800m uphill finale perfectly. Söderqvist and Oliveira were separated by a few hundredths at the line. Pogačar, starting last of 103 riders, rode cleanly but couldn't dent Godon's time even with the classification advantage of going last. Key context: Pogačar had been at LBL 48 hours earlier and said he had no idea where he stood condition-wise. His 7-second deficit is easily recoverable over five hilly stages."
-      },
-      "key_climbs": [
-        {
-          "name": "Côte de La Rasse",
-          "length_km": 2.5,
-          "gradient_pct": 8.4,
-          "category": "Cat. 3",
-          "repeats": 3,
-          "notes": "Tackled three times in the opening circuits. Sharp and punchy — could be used for attacks in later passes but more of a selection/breakaway test."
-        },
-        {
-          "name": "Saxon (intermediate sprint)",
-          "km_from_finish": 61,
-          "notes": "Bonus sprint in the Rhône valley before the road turns towards Ovronnaz."
-        },
-        {
-          "name": "Ovronnaz",
-          "length_km": 8.9,
-          "gradient_pct": 9.8,
-          "gradient_final_section_pct": 10.4,
-          "gradient_final_section_km": 2.7,
-          "category": "Cat. 1",
-          "km_from_finish": 33.8,
-          "notes": "The decisive climb of Stage 1. At 8.9km @ 9.8% avg, this is a genuine GC test — the final 2.7km averages 10.4%. However, the summit is 33.8km from the finish (descent + 22km flat), making a solo attack risky and a reduced bunch sprint viable. IDL: 'Pogačar can take 30-50 seconds here if he goes full gas — but then what? 33km is a long way home.' Expect either a Pogačar attack that sticks, or a small group (4-8 riders) contesting a reduced sprint in Martigny."
-        }
-      ],
-      "time_bonuses": {
-        "finish": "10s / 6s / 4s",
-        "intermediate_sprint_saxon": "bonus seconds available"
-      },
-      "stage_race_context": {
-        "total_stages": 6,
-        "remaining_stages": [
-          { "stage": 1, "date": "2026-04-29", "route": "Martigny → Martigny", "km": 171.2, "type": "Circuit with Ovronnaz Cat.1, downhill finish", "notes": "TODAY." },
-          { "stage": 2, "date": "2026-04-30", "route": "Rue → Vucherens", "km": 173.1, "type": "Rolling, puncheur uphill finish", "notes": "Vuillens circuit (3.6km @ 4.8%). Final kicker to Vucherens inside 5km. Good for punchy sprinters." },
-          { "stage": 3, "date": "2026-05-01", "route": "Orbe → Orbe", "km": 176.6, "type": "Circuit, Col de Mollendruz, downhill finish", "notes": "Col de Mollendruz (9km @ 6.1%) then 21.4km descent to Orbe finish." },
-          { "stage": 4, "date": "2026-05-02", "route": "Broc → Charmey", "km": 149.6, "type": "Mountain, downhill finish", "notes": "Queen stage by elevation. Jaunpass (8.1km @ 8.3%) twice + Saanenmöser. 16.7km descent to Charmey finish." },
-          { "stage": 5, "date": "2026-05-03", "route": "Lucens → Leysin", "km": 178.2, "type": "SUMMIT FINISH", "notes": "Only summit finish of the race. Leysin (13.9km @ 5.9%, max 12%). Final GC showdown. Race winner decided here." }
-        ]
-      },
+      "race_type": "one-day",
+      "stage_number": null,
+      "stage_race_name": null,
+      "country": "DE",
+      "country_flag": "🇩🇪",
+      "distance_km": 211.4,
+      "terrain": ["Puncheur", "Climbing", "Classics"],
+      "start_town": "Eschborn",
+      "finish_town": "Frankfurt am Main",
+      "finish_type": "Uphill sprint / Select group",
+      "start_time_local": "12:00 CEST",
+      "start_time_utc": "10:00",
+      "finish_time_local": "~16:30 CEST",
+      "description": "Germany's flagship one-day WorldTour classic, held every May 1st (Labour Day). The 63rd edition is the hardest in the race's history: 3,467m of climbing over 211km, with new sectors Sandplacken and Burgweg added to the already demanding Feldberg (7.7% avg) and double Mammolshainer Stich (8.3% avg). The route is designed to favour puncheurs, though a fast select group sprint into Frankfurt's flat city circuit remains a realistic outcome. 21 teams — 16 WT, 5 Pro — at the startline.",
       "favourite_riders": [
-        "Tadej Pogačar",
-        "Valentin Paret-Peintre",
-        "Lorenzo Fortunato",
-        "Florian Lipowitz",
-        "Primož Roglič",
-        "Lenny Martinez",
-        "Daniel Felipe Martínez"
+        "Tom Pidcock (Pinarello-Q36.5)",
+        "Tobias Lund Andresen (Decathlon CMA CGM)",
+        "Ben Tulett (Visma | Lease a Bike)",
+        "Corbin Strong (NSN Cycling Team)",
+        "Søren Kragh Andersen (Lidl-Trek)",
+        "Brandon McNulty (UAE Team Emirates-XRG)",
+        "Axel Laurance (INEOS Grenadiers)",
+        "Magnus Cort (Uno-X Mobility)",
+        "Laurence Pithie (Red Bull-BORA-hansgrohe)"
       ],
-      "rider_notes": "IDL names Pogačar as Stage 1 top favourite, with Valentin Paret-Peintre (Soudal-Quick Step) and Lorenzo Fortunato (XDS Astana) as alternatives. Pogačar will likely test his rivals on Ovronnaz. The key question is whether he attacks solo and tries to hold the long descent and valley, or plays it safe in a group sprint. Given his GC position (7s deficit to Godon, 1s to Oliveira), he might push hard but not take extreme risks. Lipowitz and Roglič are the main Red Bull cards — they're only 10 and 8 seconds back respectively. Martinez is at +17s. Godon (the race leader) will be protected by INEOS but is not a threat over Ovronnaz — his lead will almost certainly evaporate today. Onley is 30 seconds down and effectively out of GC contention.",
-      "pcs_url": "https://www.procyclingstats.com/race/tour-de-romandie/2026/stage-1",
-      "official_site": "https://www.tourderomandie.ch/en/",
+      "pcs_url": "https://www.procyclingstats.com/race/eschborn-frankfurt/2026",
+      "official_site": "https://www.eschborn-frankfurt.de/en",
       "broadcasts": [
         {
           "region": "🇬🇧 UK & Ireland",
           "region_code": "GB",
-          "platform": "TNT Sports / HBO Max",
+          "platform": "TNT Sports / Max",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "14:00",
-          "stream_url": "https://www.hbomax.com/sports",
-          "notes": "Stage 1 on TNT Sports (main channel per Cyclist magazine schedule). Broadcast begins ~90 minutes before finish, so around 15:45-16:00 CEST (13:45-14:00 UTC). From £25.99/month.",
-          "source_url": "https://www.cyclist.co.uk/in-depth/tour-de-romandie-preview"
+          "start_time_local": "11:00 BST",
+          "start_time_utc": "10:00",
+          "stream_url": "https://www.tntsports.co.uk",
+          "notes": "TNT Sports carries the full race from 11:00 BST. Also available on Max (formerly HBO Max) with a subscription.",
+          "source_url": "https://procyclinguk.com/eschborn-frankfurt-2026-live-viewing-and-start-time-update/"
         },
         {
-          "region": "🇺🇸 USA / 🇨🇦 Canada",
+          "region": "🇺🇸 USA & 🇨🇦 Canada",
           "region_code": "US",
           "platform": "FloBikes",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "14:00",
+          "start_time_local": "06:00 EDT / 03:00 PDT",
+          "start_time_utc": "10:00",
           "stream_url": "https://www.flobikes.com",
-          "notes": "FloBikes for US and Canada. $39.99/month.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/watch-tour-de-romandie-2026-free/"
+          "notes": "FloBikes subscription required. Stream available live.",
+          "source_url": "https://www.cyclingweekly.com/news/cycling-tv-streaming-guide-how-to-watch-this-weeks-races"
         },
         {
-          "region": "🇨🇭 Switzerland",
-          "region_code": "CH",
-          "platform": "RTS Sport (free)",
+          "region": "🇦🇺 Australia",
+          "region_code": "AU",
+          "platform": "SBS On Demand",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "11:25",
-          "stream_url": "https://www.rts.ch/sport",
-          "notes": "Free live coverage on RTS Sport in Switzerland.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/watch-tour-de-romandie-2026-free/"
+          "start_time_local": "20:00 AEST",
+          "start_time_utc": "10:00",
+          "stream_url": "https://www.sbs.com.au/ondemand",
+          "notes": "Free to air on SBS On Demand for Australian viewers.",
+          "source_url": "https://www.cyclingweekly.com/news/how-to-watch-cycling-free"
         },
         {
-          "region": "🇫🇷 France",
-          "region_code": "FR",
-          "platform": "L'Équipe TV (free)",
+          "region": "🇩🇪 Germany",
+          "region_code": "DE",
+          "platform": "ARD / ZDF / Eurosport",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "11:25",
-          "stream_url": "https://www.lequipe.fr/tv",
-          "notes": "Free on L'Équipe TV.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/watch-tour-de-romandie-2026-free/"
+          "start_time_local": "12:00 CEST",
+          "start_time_utc": "10:00",
+          "stream_url": "https://www.ardmediathek.de",
+          "notes": "ARD and ZDF provide free-to-air coverage of this national classic. Eurosport also covers the race.",
+          "source_url": "https://www.eschborn-frankfurt.de/en"
         },
         {
-          "region": "🌍 Europe (other)",
-          "region_code": "EU",
-          "platform": "Eurosport / discovery+ / HBO Max",
+          "region": "🌍 International (Eurosport)",
+          "region_code": "INT",
+          "platform": "Eurosport / Discovery+",
           "free": false,
           "geo_restricted": false,
-          "start_time_gmt": "14:00",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport 1 with English commentary across European markets, via discovery+ or HBO Max.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/watch-tour-de-romandie-2026-free/"
-        },
-        {
-          "region": "🇦🇺 Australia / 🇳🇿 NZ",
-          "region_code": "AU",
-          "platform": "No broadcast — VPN required",
-          "free": false,
-          "geo_restricted": true,
-          "start_time_gmt": null,
-          "stream_url": null,
-          "notes": "No Australian broadcaster holds Tour de Romandie rights. Cyclingnews confirmed: 'no Australian channels have picked up Tour de Romandie.' VPN to Swiss RTS or French L'Équipe is the only option.",
-          "source_url": "https://www.cyclingnews.com/cycling-culture/streaming/watch-tour-de-romandie-2026-free/"
+          "start_time_local": "Variable by region",
+          "start_time_utc": "10:00",
+          "stream_url": "https://www.discoveryplus.com",
+          "notes": "Eurosport carries the race across most European markets. Discovery+ subscription gives access in supported regions.",
+          "source_url": "https://www.cyclingweekly.com/news/cycling-tv-streaming-guide-how-to-watch-this-weeks-races"
         }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "high",
-        "notes": "Distance 171.2km per PCS LiveStats and multiple sources (cyclingstage.com: 170.6km; domestique: 171.2km; PCS result page: 171.2km — using 171.2km). Elevation 2,186m per PCS LiveStats (domestique says 1,985m; cycling archives says 2,186m). Start time: IDL says 13:25, PCS LiveStats says 13:30 — using 13:25 per IDL preview ('Start: 1:25 p.m.'). Finish ~17:26 CEST per IDL. GC standings after prologue confirmed from PCS result page, AFP/France24, Cyclingnews, and multiple other sources. Söderqvist 2nd, Oliveira 3rd per PCS (some sources invert them — PCS authoritative). Pogačar 5th per The National and AFP; 6th per Cyclingnews — small discrepancy, using 5th. Onley ~30s loss confirmed by IDL. Broadcasts: UK TNT (Stage 1 on main TNT Sports channel per Cyclist magazine). Australia NO SBS confirmed by Cyclingnews."
-      }
+      ]
     },
     {
-      "id": "tour-of-turkiye-2026-stage-4",
-      "name": "Presidential Cycling Tour of Türkiye – Stage 4",
-      "date": "2026-04-29",
-      "status": "upcoming",
+      "id": "tour-of-turkey-2026-stage-6",
+      "name": "Presidential Cycling Tour of Türkiye — Stage 6",
+      "date": "2026-05-01",
+      "status": "live",
       "edition": "61st",
       "category": "2.Pro",
       "gender": "men",
       "race_type": "stage",
-      "stage_number": 4,
-      "stage_race_name": "Presidential Cycling Tour of Türkiye 2026",
+      "stage_number": 6,
+      "stage_race_name": "Presidential Cycling Tour of Türkiye",
       "country": "TR",
       "country_flag": "🇹🇷",
-      "distance_km": 130.4,
-      "elevation_m": 1637,
-      "terrain": ["Hilly", "Reduced sprint finish"],
-      "start_town": "Marmaris",
-      "finish_town": "Fethiye",
-      "finish_type": "Flat final kilometre (0.4%) — sprint or reduced sprint after hilly stage",
-      "start_time_local": "11:30 CEST (12:30 local Turkey time)",
-      "start_time_utc": "08:30",
-      "finish_time_local": "~14:30 CEST",
-      "description": "Stage 4 of the Tour of Türkiye follows yesterday's summit finish at Kiran with a 130.4km hilly transition stage from Marmaris to Fethiye, along the Turkish Riviera. The stage accumulates 1,637m of elevation but has no summit finish — a Cat.3 climb at km 93.5 (2km @ 6.9%) is the only classified ascent, followed by a long descent before a flat 1km finale into Fethiye (0.4% gradient). With GC leader Iván Sosa now 13 seconds ahead of Berwick and 21 seconds ahead of Breuillard, this stage is expected to see the sprinters' teams reassert control after the climbers' day yesterday. Tom Crabbe (Team Flanders-Baloise) won Stages 1 and 2 but dropped off the back on Stage 3's final climb — he remains the sprint benchmark if he can recover. The route's rolling Mediterranean terrain may still produce a reduced bunch rather than a full sprint.",
-      "gc_after_stage_3": {
-        "source": "PCS / Infobae / CyclingUpToDate",
-        "standings": [
-          { "pos": 1, "rider": "Iván Ramiro Sosa", "team": "Equipo Kern Pharma", "gap": "0:00", "notes": "Colombian climber, 28, first win since Tour de Langkawi 2022. Post iliac artery surgery comeback." },
-          { "pos": 2, "rider": "Sebastian Berwick", "team": "Caja Rural-Seguros RGA", "gap": "+0:13" },
-          { "pos": 3, "rider": "Nicolas Breuillard", "team": "TotalEnergies", "gap": "+0:21" },
-          { "pos": 4, "rider": "Alessandro Fancellu", "team": "MBH Bank CSB Telecom Fort", "gap": "+0:36" }
-        ]
-      },
-      "recent_results": [
-        {
-          "stage": 1, "date": "2026-04-26",
-          "route": "Çeşme → Selçuk, 148.7km",
-          "winner": "Tom Crabbe (Team Flanders-Baloise)",
-          "podium": ["1. Tom Crabbe", "2. Simon Dehairs", "3. Davide Persico"],
-          "notes": "Crabbe's 3rd win of 2026. Messy sprint. Belgian 20-year-old."
-        },
-        {
-          "stage": 2, "date": "2026-04-27",
-          "route": "Aydin → Marmaris, 158km",
-          "winner": "Tom Crabbe (Team Flanders-Baloise)",
-          "notes": "Crabbe dropped at 10km from finish but fought back to win sprint."
-        },
-        {
-          "stage": 3, "date": "2026-04-28",
-          "route": "Marmaris → Kiran, 132.7km",
-          "winner": "Iván Ramiro Sosa (Equipo Kern Pharma)",
-          "podium": ["1. Iván Ramiro Sosa (solo)", "2. Sebastian Berwick (Caja Rural) +9s", "3. Nicolas Breuillard (TotalEnergies) +15s"],
-          "notes": "First summit finish. Sosa attacked at 4.8km from top on 9km @ 9.7% Kiran climb. First win since 2022 Tour de Langkawi. Dedicated to Cristian Camilo Muñoz (Pogačar's late teammate who died that week). Sosa had endofibrosis surgery in 2025. TotalEnergies set tempo on the climb. Crabbe dropped off GC. Eurosport confirmed broadcaster."
-        }
+      "distance_km": 127.9,
+      "terrain": ["Climbing"],
+      "start_town": "Antalya",
+      "finish_town": "Feslikan",
+      "finish_type": "Summit finish",
+      "start_time_local": "12:19 TRT",
+      "start_time_utc": "09:19",
+      "finish_time_local": "~15:45 TRT",
+      "description": "Stage 6 of the 61st Presidential Cycling Tour of Türkiye — a short but punishing mountain stage of 127.9km from Antalya up to the Feslikan summit. ProfileScore of 374 with 2,372m of climbing and a brutal 10.3% average gradient in the final kilometre makes this a critical GC day. Iván Sosa (Equipo Kern Pharma) leads the race by 13 seconds over Sebastian Berwick (Caja Rural-Seguros RGA), with Nicolas Breuillard (TotalEnergies) 21 seconds back in third. Three stages remain after today.",
+      "favourite_riders": [
+        "Iván Sosa (Equipo Kern Pharma) — GC leader +0:00",
+        "Sebastian Berwick (Caja Rural-Seguros RGA) — GC @ +0:13",
+        "Nicolas Breuillard (TotalEnergies) — GC @ +0:21",
+        "Davide Ballerini (XDS Astana)",
+        "Tom Crabbe (Team Flanders-Baloise)"
       ],
-      "pcs_url": "https://www.procyclingstats.com/race/tour-of-turkey/2026/stage-4",
+      "pcs_url": "https://www.procyclingstats.com/race/tour-of-turkey/2026/stage-6",
       "official_site": "https://www.tourofturkiye.org.tr/en",
       "broadcasts": [
         {
-          "region": "🌐 Global (Official, Free)",
-          "region_code": "GLOBAL",
-          "platform": "YouTube — FloBikes official channel",
-          "free": true,
-          "geo_restricted": false,
-          "start_time_gmt": "08:30",
-          "stream_url": "https://www.youtube.com/@FloBikes",
-          "notes": "FloBikes has live-streamed all Tour of Türkiye stages free on their official YouTube channel. Stages 1, 2 and 3 all streamed on YouTube. Check the FloBikes YouTube channel on race day for the Stage 4 live link.",
-          "source_url": "https://www.youtube.com/watch?v=E2zA03ZJOEw"
-        },
-        {
-          "region": "🌍 Europe",
-          "region_code": "EU",
-          "platform": "Eurosport / discovery+ / StreamMax",
+          "region": "🌍 International",
+          "region_code": "INT",
+          "platform": "FloBikes",
           "free": false,
           "geo_restricted": false,
-          "start_time_gmt": "08:30",
-          "stream_url": "https://www.eurosport.com",
-          "notes": "Eurosport confirmed as broadcaster for Stage 3 (Eurosport Spain tweeted stage coverage). StreamMax (Discovery/Eurosport streaming) also confirmed for Spain.",
-          "source_url": "https://twitter.com/Eurosport_ES/status/..."
+          "start_time_local": "06:19 EDT / 03:19 PDT / 10:19 BST",
+          "start_time_utc": "09:19",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "FloBikes is the primary international broadcaster for the Tour of Turkey. Replays of stages 2 and 3 already available on platform.",
+          "source_url": "https://www.flobikes.com/events/14817660-2026-tour-of-turkey"
+        }
+      ]
+    },
+    {
+      "id": "tour-de-romandie-2026-stage-3",
+      "name": "Tour de Romandie — Stage 3",
+      "date": "2026-05-01",
+      "status": "finished",
+      "edition": "79th",
+      "category": "2.UWT",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 3,
+      "stage_race_name": "Tour de Romandie",
+      "country": "CH",
+      "country_flag": "🇨🇭",
+      "distance_km": 176.6,
+      "terrain": ["Climbing", "Puncheur"],
+      "start_town": "Orbe",
+      "finish_town": "Orbe",
+      "finish_type": "Reduced bunch sprint / Select group",
+      "start_time_local": "13:50 CEST",
+      "start_time_utc": "11:50",
+      "finish_time_local": "~17:40 CEST",
+      "description": "Stage 3 of the 79th Tour de Romandie — a looped course starting and finishing in Orbe with 2,409m of climbing over 176.6km. The route tackles early climbs through Suchy, then Oulens sous Echallens, before the key category-2 Col de Mollendruz (8.9km @ 6.2%) crests with 33km to go, followed by a long descent and flat run-in back to Orbe. Tadej Pogačar (UAE-XRG) leads the GC after winning Stages 1 and 2. Stage result: Pogačar wins from select group ahead of Dorian Godon and Finn Fisher-Black.",
+      "favourite_riders": [
+        "Tadej Pogačar (UAE Team Emirates-XRG) — GC leader",
+        "Florian Lipowitz (Red Bull-BORA-hansgrohe)",
+        "Lenny Martinez (Bahrain Victorious)",
+        "Dorian Godon (INEOS Grenadiers)",
+        "Finn Fisher-Black (Red Bull-BORA-hansgrohe)"
+      ],
+      "result": {
+        "winner": "Tadej Pogačar",
+        "team": "UAE Team Emirates-XRG",
+        "notes": "Pogačar wins sprint from select group; Dorian Godon 2nd, Finn Fisher-Black 3rd. Pogačar further extends GC lead."
+      },
+      "pcs_url": "https://www.procyclingstats.com/race/tour-de-romandie/2026/stage-3",
+      "official_site": "https://www.tourderomandie.ch/en/",
+      "broadcasts": [
+        {
+          "region": "🇨🇭 Switzerland",
+          "region_code": "CH",
+          "platform": "RTS",
+          "free": true,
+          "geo_restricted": true,
+          "start_time_local": "13:50 CEST",
+          "start_time_utc": "11:50",
+          "stream_url": "https://www.rts.ch",
+          "notes": "Host broadcaster RTS provides free live coverage in Switzerland. Available on rts.ch/sport.",
+          "source_url": "https://www.cyclingweekly.com/racing/watch-tour-de-romandie-2026"
         },
         {
-          "region": "🇺🇸 USA / 🇨🇦 Canada",
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports / Discovery+",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_local": "12:50 BST",
+          "start_time_utc": "11:50",
+          "stream_url": "https://www.tntsports.co.uk",
+          "notes": "TNT Sports carries the Tour de Romandie live. Discovery+ gives streaming access.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-tour-de-romandie-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🇺🇸 USA & 🇨🇦 Canada",
           "region_code": "US",
           "platform": "FloBikes",
           "free": false,
           "geo_restricted": true,
-          "start_time_gmt": "08:30",
+          "start_time_local": "07:50 EDT / 04:50 PDT",
+          "start_time_utc": "11:50",
           "stream_url": "https://www.flobikes.com",
-          "notes": "Full coverage with commentary on FloBikes.",
-          "source_url": "https://www.flobikes.com/watch"
+          "notes": "FloBikes is the official North American broadcaster for the Tour de Romandie.",
+          "source_url": "https://cyclinguptodate.com/cycling/how-to-watch-the-2026-tour-de-romandie-live-and-on-tv-in-the-usa-and-uk-dates-stages-and-schedules"
+        },
+        {
+          "region": "🌍 International (Eurosport)",
+          "region_code": "INT",
+          "platform": "Eurosport / Discovery+",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_local": "Variable by region",
+          "start_time_utc": "11:50",
+          "stream_url": "https://www.discoveryplus.com",
+          "notes": "Eurosport carries the race in most European markets. Discovery+ provides streaming access.",
+          "source_url": "https://www.cyclingnews.com/tour-de-romandie/"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "tour-of-turkey-2026-stage-6",
+      "name": "Presidential Cycling Tour of Türkiye — Stage 6",
+      "date": "2026-05-01",
+      "status": "live",
+      "edition": "61st",
+      "category": "2.Pro",
+      "gender": "men",
+      "race_type": "stage",
+      "stage_number": 6,
+      "stage_race_name": "Presidential Cycling Tour of Türkiye",
+      "country": "TR",
+      "country_flag": "🇹🇷",
+      "distance_km": 127.9,
+      "terrain": ["Climbing"],
+      "start_town": "Antalya",
+      "finish_town": "Feslikan",
+      "finish_type": "Mountaintop (1,850m)",
+      "start_time_local": "12:19 TRT",
+      "start_time_utc": "09:19",
+      "finish_time_local": "~15:30 TRT",
+      "description": "The queen stage of the 61st Presidential Cycling Tour of Türkiye — and the hardest day of the race. Starting from the Mediterranean coast at Antalya, the route climbs into the Taurus Mountains to finish atop the Feslikan Plateau at 1,850m altitude, through ancient cedar forests in the Akseki district. ProfileScore 374 with 2,372m of climbing across 127.9km; the final kilometre averages 10.3%. Iván Sosa (Kern Pharma) is the GC leader after his dominant Stage 3 summit finish win on Kıran. Stage 5 sprint won by Casper van Uden (Picnic PostNL). 23 teams — 3 WT, 14 Pro, 6 Continental.",
+      "favourite_riders": [
+        "Iván Sosa (Equipo Kern Pharma) — GC leader",
+        "General climbers — summit finish should suit the pure grimpeurs"
+      ],
+      "pcs_url": "https://www.procyclingstats.com/race/tour-of-turkey/2026/stage-6",
+      "official_site": "https://www.tourofturkiye.org.tr/en",
+      "broadcasts": [
+        {
+          "region": "🇬🇧 UK & Ireland",
+          "region_code": "GB",
+          "platform": "TNT Sports",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_local": "10:19 BST",
+          "start_time_utc": "09:19",
+          "stream_url": "https://www.tntsports.co.uk/cycling/tour-of-turkey/calendar-results.shtml",
+          "notes": "TNT Sports carries the Tour of Türkiye. Coverage may not be live for all stages.",
+          "source_url": "https://www.tntsports.co.uk/cycling/tour-of-turkey/calendar-results.shtml"
+        },
+        {
+          "region": "🇺🇸 USA & 🇨🇦 Canada",
+          "region_code": "US",
+          "platform": "FloBikes",
+          "free": false,
+          "geo_restricted": true,
+          "start_time_local": "05:19 EDT / 02:19 PDT",
+          "start_time_utc": "09:19",
+          "stream_url": "https://www.flobikes.com",
+          "notes": "FloBikes carries live and replay coverage of all stages.",
+          "source_url": "https://www.flobikes.com/events/14817660-2026-tour-of-turkey"
         },
         {
           "region": "🇹🇷 Turkey",
           "region_code": "TR",
-          "platform": "TRT Sport (free)",
+          "platform": "TRT Spor",
           "free": true,
           "geo_restricted": true,
-          "start_time_gmt": "08:30",
+          "start_time_local": "12:19 TRT",
+          "start_time_utc": "09:19",
           "stream_url": "https://www.trtspor.com.tr",
-          "notes": "TRT Sport provides domestic free coverage.",
-          "source_url": null
+          "notes": "Host broadcaster TRT Spor provides free-to-air live coverage in Turkey.",
+          "source_url": "https://www.tourofturkiye.org.tr/en"
+        },
+        {
+          "region": "🌍 International (Eurosport)",
+          "region_code": "INT",
+          "platform": "Eurosport / Discovery+",
+          "free": false,
+          "geo_restricted": false,
+          "start_time_local": "Variable by region",
+          "start_time_utc": "09:19",
+          "stream_url": "https://www.discoveryplus.com",
+          "notes": "Eurosport carries the race internationally. Check local listings.",
+          "source_url": "https://www.cyclingnews.com/presidential-cycling-tour-of-turkey/"
         }
-      ],
-      "data_confidence": {
-        "race_details": "high",
-        "broadcasts": "medium",
-        "notes": "Stage 4 Marmaris → Fethiye, 130.4km confirmed by Cyclingnews stages page and Spanish sources (esciclismo: 130.4km; infobae: 130.4km). Elevation 1,637m per infobae. Cat.3 climb at km 93.5 (2km @ 6.9%) confirmed by esciclismo route description. Finish gradient 0.4% (flat) confirmed. YouTube free stream confirmed for previous stages (1, 2, 3). Eurosport confirmed as Stage 3 broadcaster from Eurosport Spain tweet. Start time approximate."
-      }
+      ]
     }
-  ],
-  "context": {
-    "yesterday_results": [
-      {
-        "date": "2026-04-28",
-        "race": "Tour de Romandie Prologue (2.UWT)",
-        "route": "Villars-sur-Glâne → Villars-sur-Glâne, 3.2km ITT",
-        "winner": "Dorian Godon (INEOS Grenadiers)",
-        "time": "3:35",
-        "avg_speed_kmh": 53.58,
-        "podium": [
-          "1. Dorian Godon (FRA, INEOS Grenadiers) — +6s over field",
-          "2. Jakob Söderqvist (SWE, Lidl-Trek) — +6s, also wins Best Young Rider jersey",
-          "3. Ivo Oliveira (POR, UAE Team Emirates-XRG) — +6s (hundredths behind Söderqvist)",
-          "4. Mauro Schmid (SUI, Jayco AlUla)",
-          "5. Tadej Pogačar (SLO, UAE Team Emirates-XRG) — +7s",
-          "8. Primož Roglič (SLO, Red Bull-Bora-Hansgrohe) — +8s",
-          "10. Florian Lipowitz (GER, Red Bull-Bora-Hansgrohe) — +10s"
-        ],
-        "notes": "Huge surprise — Godon was not even among the top prologue favourites. He is the French national road champion and has 3 sprint wins in 2026 (Volta a Catalunya Stage 1, Paris-Nice shortened stage, others) but no TT wins since 2019. He judged the crucial 800m uphill ramp to perfection. Pogačar, going last, delivered a clean first time trial of 2026 but couldn't close the gap. Big loser: Oscar Onley (INEOS) lost ~30 seconds and is effectively out of GC contention. Roglič and Lipowitz both saved energy (Jan Tratnik also deliberately cruised). New Colnago TT2 time trial bike debuted for Pogačar at this race — lighter and more aerodynamic."
-      },
-      {
-        "date": "2026-04-28",
-        "race": "Tour of Türkiye Stage 3 (2.Pro)",
-        "route": "Marmaris → Kiran, 132.7km",
-        "winner": "Iván Ramiro Sosa (Equipo Kern Pharma)",
-        "podium": [
-          "1. Iván Ramiro Sosa (COL, Equipo Kern Pharma) — solo win",
-          "2. Sebastian Berwick (AUS, Caja Rural-Seguros RGA) — +9s",
-          "3. Nicolas Breuillard (FRA, TotalEnergies) — +15s"
-        ],
-        "notes": "Sosa's first win since Tour de Langkawi 2022 — a remarkable comeback following iliac artery endofibrosis surgery in 2025 (a vascular condition that restricts blood flow to the legs, career-threatening in cyclists). Now leads GC by 13s. Dedicated win to Cristian Camilo Muñoz, the Colombian cyclist who died that week after a crash at Tour du Jura. Pogačar also wore a black armband at LBL for Muñoz."
-      }
-    ],
-    "narrative": "Two races unfolding simultaneously today across different terrains — the Swiss Alps and the Turkish Riviera. In Switzerland, the Tour de Romandie's real racing begins: Godon defends an unexpected yellow jersey but will almost certainly lose it on the Ovronnaz. The question is whether Pogačar goes hard enough to take 7+ seconds back and seize the lead himself — or whether he saves himself for the queen stages later in the week. In Turkey, Sosa attempts to defend his 13-second GC lead through a predominantly sprint-friendly stage where his rivals will try to eat into the deficit through echelons or a reduced bunch.",
-    "upcoming": [
-      {
-        "date": "2026-04-30",
-        "race": "Tour de Romandie Stage 2 (2.UWT)",
-        "notes": "Rue → Vucherens, 173.1km. Rolling/attritional circuit, punchy uphill finish to Vucherens. Vuillens climb (3.6km @ 4.8%) x3, final ascent inside 5km. Puncheur day — could be good for the same type of riders who thrive at Flèche Wallonne."
-      },
-      {
-        "date": "2026-05-02",
-        "race": "Tour de Romandie Stage 4 — Queen Stage (2.UWT)",
-        "notes": "Broc → Charmey, 149.6km, 3,175m climbing. Jaunpass (8.1km @ 8.3%) tackled twice from different sides plus Saanenmöser. Long descent to Charmey. Most likely GC-defining stage before Leysin."
-      },
-      {
-        "date": "2026-05-03",
-        "race": "Tour de Romandie Stage 5 / Final (2.UWT)",
-        "notes": "Lucens → Leysin, 178.2km. Only summit finish of the race. Leysin: 13.9km @ 5.9% avg, max 12%. This decides the overall winner. Pogačar the heavy favourite."
-      }
-    ]
-  },
-  "validation": {
-    "status": "clean",
-    "issues": [
-      "Stage 1 distance: PCS result page shows 171.2km; cyclingstage.com says 170.6km; domestique says 171.2km. Using 171.2km per PCS.",
-      "Stage 1 elevation: PCS shows 2,186m on LiveStats; domestique says 1,985m; cycling archives says 2,186m. Using 2,186m per PCS LiveStats.",
-      "Stage 1 start time: IDL says 13:25 CEST; PCS LiveStats shows 13:30. Using 13:25 per IDL (IDL tends to be more precise on race-day timing).",
-      "Prologue podium order 2nd/3rd: PCS says Söderqvist 2nd, Oliveira 3rd. AFP, CyclingUpToDate, IDL say Oliveira 2nd, Söderqvist 3rd. Cyclingnews main page says Söderqvist 2nd. Using PCS as authoritative. The difference is a few hundredths of a second.",
-      "Pogačar prologue finish position: AFP/The National say 5th; Cyclingnews result text says 6th; PCS page doesn't show the full standings. Using 5th based on AFP and The National.",
-      "Sosa stage win: 'First win since 2022' confirmed by multiple sources. His iliac artery (endofibrosis) surgery in 2025 confirmed by Spanish/Colombian cycling media and the Eurosport tweet.",
-      "Tour of Türkiye Stage 4 start time: Approximate. Stage 3 started 'at 12:31 local time' from Marmaris per infobae (Turkey is UTC+3, so 12:31 local = 09:31 UTC = 11:31 CEST). Using 11:30 CEST as Stage 4 approximate start from same city."
-    ]
-  }
+  ]
 }
